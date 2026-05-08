@@ -1,0 +1,112 @@
+name: Update prices
+
+# Daily price refresh + manual dispatch.
+#
+# How it works:
+#   1. Check out this repo (the source of truth for `manual-prices.json`,
+#      `materials.json`, `categories.json`, and the published outputs).
+#   2. Check out `kapta-desktop-app` into ./app — that repo owns the scraper
+#      code (`src/pricing/`). We don't duplicate it here.
+#   3. Copy our input files into the app's `data/` so the scraper sees them.
+#   4. Run `npm run update-prices` inside the app. It writes:
+#        app/data/prices/latest.json
+#        app/data/prices/latest.csv
+#        app/data/prices/history/prices-YYYY-MM-DD.{json,csv}
+#   5. Copy the outputs back into this repo and commit.
+#
+# Failure modes:
+#   - All scraper sources can fail individually (the script tolerates this).
+#     The output `latest.json` will still be written, with whatever it found.
+#   - If the script itself crashes, no commit happens — the previous snapshot
+#     stays as the latest, which is the desired behavior.
+#   - If `npm run update-prices` produces no diff (rare), the commit step
+#     no-ops (`git commit ... || echo "no changes"`).
+
+on:
+  schedule:
+    # Daily at 06:00 UTC (≈ 03:00 ART). Avoids supplier traffic peaks.
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 'Why are you running this manually?'
+        required: false
+        default: 'manual refresh'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-prices
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Check out kapta-prices
+        uses: actions/checkout@v4
+        with:
+          path: prices
+
+      - name: Check out kapta-desktop-app
+        uses: actions/checkout@v4
+        with:
+          repository: faculoyarte/kapta-desktop-app
+          path: app
+          ref: main
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+          cache-dependency-path: app/package-lock.json
+
+      - name: Install app dependencies
+        working-directory: app
+        # No-lockfile install is fine; the app pins few versions (`latest`).
+        # If a lockfile lands later, switch to `npm ci`.
+        run: npm install --no-audit --no-fund
+
+      - name: Sync inputs into app
+        run: |
+          mkdir -p app/data/prices app/data/catalog
+          cp prices/manual-prices.json app/data/prices/manual-prices.json
+          cp prices/materials.json     app/data/catalog/materials.json
+          cp prices/categories.json    app/data/catalog/categories.json
+
+      - name: Run update-prices
+        working-directory: app
+        env:
+          MELI_REFRESH_TOKEN: ${{ secrets.MELI_REFRESH_TOKEN }}
+          MELI_CLIENT_ID:     ${{ secrets.MELI_CLIENT_ID }}
+          MELI_CLIENT_SECRET: ${{ secrets.MELI_CLIENT_SECRET }}
+          # Fall back to a static access token if no refresh credentials.
+          MELI_ACCESS_TOKEN:  ${{ secrets.MELI_ACCESS_TOKEN }}
+        run: npm run update-prices
+
+      - name: Copy outputs back
+        run: |
+          mkdir -p prices/history
+          cp app/data/prices/latest.json prices/latest.json
+          cp app/data/prices/latest.csv  prices/latest.csv
+          # History files are dated; copy whatever today produced.
+          if compgen -G "app/data/prices/history/prices-*.json" > /dev/null; then
+            cp app/data/prices/history/prices-*.json prices/history/
+            cp app/data/prices/history/prices-*.csv  prices/history/
+          fi
+
+      - name: Commit and push
+        working-directory: prices
+        run: |
+          git config user.name  "kapta-prices-bot"
+          git config user.email "kapta-prices-bot@users.noreply.github.com"
+          git add latest.json latest.csv history/
+          if git diff --cached --quiet; then
+            echo "no price changes today"
+          else
+            git commit -m "prices: daily update $(date -u +%Y-%m-%d)"
+            git push
+          fi

@@ -1,0 +1,192 @@
+[
+  {
+    "materialId": "cemento_50kg",
+    "source": "Manual",
+    "supplier": "Corralón local",
+    "price": 11800,
+    "currency": "ARS",
+    "unit": "bolsa",
+    "updatedAt": "2026-04-27",
+    "confidence": "high",
+    "notes": "Precio cargado manualmente por Kapta"
+  },
+
+  {
+    "materialId": "cal_hidratada_kg",
+    "source": "Manual",
+    "supplier": "Corralón Colastiné",
+    "price": 6300,
+    "currency": "ARS",
+    "unit": "kg",
+    "updatedAt": "2025-10-31",
+    "confidence": "high",
+    "notes": "Cómputo Ampi y Dani (Oct 2025)"
+  },
+  {
+    "materialId": "cal_aerea_kg",
+    "source": "Manual",
+    "supplier": "Corralón Colastiné",
+    "price": 6780,
+    "currency": "ARS",
+    "unit": "kg",
+    "updatedAt": "2025-10-31",
+    "confidence": "high",
+    "notes": "Cómputo Ampi y Dani (Oct 2025)"
+  },
+  {
+    "materialId": "arena_m3",
+    "source": "Manual",
+    "supplier": "Corralón Colastiné",
+    "price": 42000,
+    "currency": "ARS",
+    "unit": "m3",
+    "updatedAt": "2025-10-31",
+    "confidence": "high",
+    "notes": "Cómputo Ampi y Dani (Oct 2025)"
+  },
+  {
+    "materialId": "ladrillo_hueco_18",
+    "source": "Manual",
+    "supplier": "Corralón Colastiné",
+    "price": 1090,
+    "currency": "ARS",
+    "unit": "unidad",
+    "updatedAt": "2025-10-31",
+    "confidence": "high",
+    "notes": "Cómputo Ampi y Dani (Oct 2025)"
+  },
+  {
+    "materialId": "hierro_del_6",
+    "source": "Manual",
+    "supplier": "Corralón Colastiné",
+    "price": 6700,
+    "currency": "ARS",
+    "unit": "barra",
+    "updatedAt": "2025-10-31",
+    "confidence": "medium",
+    "notes": "Verificar largo (12m estándar). Cómputo Ampi y Dani."
+  },
+  {
+    "materialId": "hierro_del_8",
+    "source": "Manual",
+    "supplier": "Corralón Colastiné",
+    "price": 10500,
+    "currency": "ARS",
+    "unit": "barra",
+    "updatedAt": "2025-10-31",
+    "confidence": "medium",
+    "notes": "Cómputo Ampi y Dani (Oct 2025)"
+  },
+  {
+    "materialId": "nylon_200_micrones",
+    "source": "Manual",
+    "price": 1300,
+    "currency": "ARS",
+    "unit": "m",
+    "updatedAt": "2025-10-31",
+    "confidence": "medium",
+    "notes": "Sin proveedor identificado. Cómputo Ampi y Dani."
+  },
+
+  {
+    "materialId": "microcemento_m2",
+    "source": "Manual",
+    "supplier": "Revestimientos Santa Fe (Héctor)",
+    "price": 32438,
+    "currency": "ARS",
+    "unit": "m2",
+    "updatedAt": "2025-10-31",
+    "confidence": "high",
+    "notes": "Solo material; mano de obra ~18000/m2 aparte. Estimativo Ampi y Dani."
+  },
+  {
+    "materialId": "ceramico_calcareo_33x33",
+    "source": "Manual",
+    "supplier": "Gilcomat",
+    "price": 32699,
+    "currency": "ARS",
+    "unit": "caja",
+    "updatedAt": "2025-10-31",
+    "confidence": "high",
+    "notes": "Sevilla PIU 33x33, caja x10. Estimativo Ampi y Dani."
+  },
+  {
+    "materialId": "revestimiento_brick_10x10",
+    "source": "Manual",
+    "supplier": "Syria Cerámicos",
+    "price": 39208,
+    "currency": "ARS",
+    "unit": "m2",
+    "updatedAt": "2025-10-31",
+    "confidence": "medium",
+    "url": "https://syriaceramicos.com.ar",
+    "notes": "Bricks Ice White, derivado: 274456 / 7m². Estimativo Ampi y Dani."
+  },
+  {
+    "materialId": "porcelanato_60x60",
+    "source": "Manual",
+    "supplier": "Diseño 10",
+    "price": 20139,
+    "currency": "ARS",
+    "unit": "m2",
+    "updatedAt": "2025-10-31",
+    "confidence": "medium",
+    "notes": "Urban Pearl 60x60, derivado: 322224 / 16m². Estimativo Ampi y Dani."
+  },
+  {
+    "materialId": "piso_vinilico_spc_4mm",
+    "source": "Manual",
+    "supplier": "Boden",
+    "price": 44980,
+    "currency": "ARS",
+    "unit": "m2",
+    "updatedAt": "2025-10-31",
+    "confidence": "medium",
+    "notes": "SPC Natural 4mm + 1mm EVA, derivado: 2.698.800 / 60m². Estimativo Ampi y Dani."
+  },
+  {
+    "materialId": "zocalo_eps_blanco",
+    "source": "Manual",
+    "supplier": "Boden",
+    "price": 16276,
+    "currency": "ARS",
+    "unit": "varilla",
+    "updatedAt": "2025-10-31",
+    "confidence": "medium",
+    "notes": "EPS Cover Blanco 22x100x2400mm, derivado de 895200/55ml aprox. Estimativo Ampi y Dani."
+  },
+  {
+    "materialId": "bacha_apoyar_loza",
+    "source": "Manual",
+    "supplier": "Cimbra",
+    "price": 138000,
+    "currency": "ARS",
+    "unit": "unidad",
+    "updatedAt": "2025-10-31",
+    "confidence": "high",
+    "url": "https://cimbraok.com",
+    "notes": "Modelo Siena. Estimativo Ampi y Dani."
+  },
+  {
+    "materialId": "rejilla_lineal_60",
+    "source": "Manual",
+    "supplier": "Decoturner (Atrim)",
+    "price": 52550,
+    "currency": "ARS",
+    "unit": "unidad",
+    "updatedAt": "2025-10-31",
+    "confidence": "high",
+    "notes": "Atrim 60cm lineal acero ABS mate. Estimativo Ampi y Dani."
+  },
+  {
+    "materialId": "calefon_electrico_chico",
+    "source": "Manual",
+    "supplier": "Atmor (Mercado Libre)",
+    "price": 526000,
+    "currency": "ARS",
+    "unit": "unidad",
+    "updatedAt": "2025-10-31",
+    "confidence": "medium",
+    "notes": "Atmor 12kW instantáneo. Estimativo Ampi y Dani."
+  }
+]

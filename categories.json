@@ -1,0 +1,27 @@
+{
+  "_doc": "Canonical material category list. The 'category' field of each entry in materials.json should be one of the 'id' values below. Categories are free strings — this file is documentation, not enforcement — but new entries should reuse an existing id rather than invent a new one.",
+  "categories": [
+    { "id": "obra_gruesa", "name": "Obra gruesa", "examples": "cemento, cal, hidrófugos, nylon de obra" },
+    { "id": "mamposteria", "name": "Mampostería", "examples": "ladrillos huecos, ladrillos comunes, bloques" },
+    { "id": "aridos", "name": "Áridos", "examples": "arena, piedra partida, canto rodado, pedregullo" },
+    { "id": "hierros", "name": "Hierros y mallas", "examples": "varillas nervuradas, mallas Sima, alambre" },
+    { "id": "hormigon", "name": "Hormigón elaborado", "examples": "hormigón H21, H30, autocompactante" },
+    { "id": "ceramicos", "name": "Cerámicos y porcelanatos", "examples": "porcelanato, cerámica calcárea, brick, listones" },
+    { "id": "revoques", "name": "Revoques y morteros", "examples": "revoque grueso, fino, microcemento, weber" },
+    { "id": "pegamentos", "name": "Pegamentos y selladores", "examples": "Klaukol, Sika, hidrófugos, siliconas" },
+    { "id": "placas", "name": "Placas y aislantes", "examples": "Durlock, Aquapanel, lana de vidrio, EPS, vinílicos" },
+    { "id": "perfileria", "name": "Perfilería", "examples": "montantes, soleras, perfil T, molduras, zócalos" },
+    { "id": "cielorraso_durlock", "name": "Cielorraso (Durlock / suspendido)", "examples": "placa Durlock, perfil omega, soleras de techo" },
+    { "id": "cubiertas", "name": "Cubiertas y zinguería", "examples": "chapa sinusoidal, tejas, canaletas, cumbreras" },
+    { "id": "pintura", "name": "Pintura y recubrimientos", "examples": "látex, esmaltes, enduidos, fijadores" },
+    { "id": "aberturas", "name": "Aberturas", "examples": "puertas, ventanas, marcos, mosquiteros" },
+    { "id": "carpinteria", "name": "Carpintería de obra", "examples": "placards, muebles a medida, melamina" },
+    { "id": "herrajes", "name": "Herrajes", "examples": "manijones, tiradores, bisagras, cerrojos" },
+    { "id": "sanitarios", "name": "Sanitarios", "examples": "inodoros, bachas, bidés, rejillas" },
+    { "id": "griferias", "name": "Griferías", "examples": "monocomandos, mezcladoras, duchas" },
+    { "id": "accesorios_bano", "name": "Accesorios de baño", "examples": "toalleros, jaboneras, dispensadores" },
+    { "id": "plomeria", "name": "Plomería", "examples": "caños, llaves de paso, calefones, termotanques" },
+    { "id": "electricidad", "name": "Electricidad", "examples": "cables, llaves, tomas, tableros, bandeja portacable" },
+    { "id": "iluminacion", "name": "Iluminación", "examples": "spots LED, plafones, perfiles LED, dicroicas, cardánicas" }
+  ]
+}

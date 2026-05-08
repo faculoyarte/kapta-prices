@@ -1,0 +1,230 @@
+[
+  {
+    "id": "cemento_50kg",
+    "name": "Cemento Portland 50kg",
+    "unit": "bolsa",
+    "category": "obra_gruesa",
+    "searchTerms": [
+      "cemento portland 50kg",
+      "cemento loma negra 50 kg"
+    ]
+  },
+  {
+    "id": "cemento_albanileria_25kg",
+    "name": "Cemento de albañilería 25kg",
+    "unit": "bolsa",
+    "category": "obra_gruesa",
+    "searchTerms": [
+      "cemento albañileria 25kg",
+      "cemento albanileria 25",
+      "cemento de albañileria 25",
+      "cemento maestro 25"
+    ]
+  },
+  {
+    "id": "cal_hidratada_25kg",
+    "name": "Cal hidratada 25kg",
+    "unit": "bolsa",
+    "category": "obra_gruesa",
+    "searchTerms": [
+      "cal hidratada 25kg",
+      "cal cacique 25",
+      "cal santa elena 25"
+    ]
+  },
+  {
+    "id": "ladrillo_hueco_18",
+    "name": "Ladrillo hueco 18x18x33",
+    "unit": "unidad",
+    "category": "mamposteria",
+    "searchTerms": [
+      "ladrillo hueco 18 18 33",
+      "ladrillo ceramico hueco 18"
+    ]
+  },
+  {
+    "id": "arena_m3",
+    "name": "Arena por m³",
+    "unit": "m3",
+    "category": "aridos",
+    "searchTerms": [
+      "arena construccion m3",
+      "arena gruesa m3"
+    ]
+  },
+  {
+    "id": "cal_hidratada_kg",
+    "name": "Cal hidratada",
+    "unit": "kg",
+    "category": "obra_gruesa",
+    "searchTerms": ["cal hidratada", "cal hidraulica", "cacique"]
+  },
+  {
+    "id": "cal_aerea_kg",
+    "name": "Cal aérea",
+    "unit": "kg",
+    "category": "obra_gruesa",
+    "searchTerms": ["cal aerea", "cal milagro", "cal de aire"]
+  },
+  {
+    "id": "hierro_del_6",
+    "name": "Hierro nervurado Ø6mm (12m)",
+    "unit": "barra",
+    "category": "hierros",
+    "searchTerms": ["hierro del 6", "hierro 6mm", "barra nervurada 6"]
+  },
+  {
+    "id": "hierro_del_8",
+    "name": "Hierro nervurado Ø8mm (12m)",
+    "unit": "barra",
+    "category": "hierros",
+    "searchTerms": ["hierro del 8", "hierro 8mm", "barra nervurada 8"]
+  },
+  {
+    "id": "nylon_200_micrones",
+    "name": "Nylon 200 micrones (rollo por metro)",
+    "unit": "m",
+    "category": "obra_gruesa",
+    "searchTerms": ["nylon 200 micrones", "polietileno 200", "film negro obra"]
+  },
+  {
+    "id": "ceramico_calcareo_33x33",
+    "name": "Cerámico calcáreo 33x33 (caja x10)",
+    "unit": "caja",
+    "category": "ceramicos",
+    "searchTerms": ["calcareo 33x33", "ceramica calcarea sevilla", "piu calcareo"]
+  },
+  {
+    "id": "porcelanato_60x60",
+    "name": "Porcelanato 60x60",
+    "unit": "m2",
+    "category": "ceramicos",
+    "searchTerms": ["porcelanato 60x60", "porcelanato urban", "porcelanato pulido"]
+  },
+  {
+    "id": "revestimiento_brick_10x10",
+    "name": "Revestimiento tipo Brick 10x10",
+    "unit": "m2",
+    "category": "ceramicos",
+    "searchTerms": ["brick 10x10", "zellige", "cifre ivory"]
+  },
+  {
+    "id": "microcemento_m2",
+    "name": "Microcemento aplicado (insumo)",
+    "unit": "m2",
+    "category": "revoques",
+    "searchTerms": ["microcemento", "microcemento revestimiento", "quimtex microcemento"]
+  },
+  {
+    "id": "piso_vinilico_spc_4mm",
+    "name": "Piso vinílico SPC 4mm",
+    "unit": "m2",
+    "category": "placas",
+    "searchTerms": ["piso vinilico spc", "spc 4mm", "boden piso"]
+  },
+  {
+    "id": "zocalo_eps_blanco",
+    "name": "Zócalo EPS Cover 22x100x2400mm",
+    "unit": "varilla",
+    "category": "perfileria",
+    "searchTerms": ["zocalo eps", "zocalo cover blanco", "varilla eps"]
+  },
+  {
+    "id": "placa_durlock_12_5",
+    "name": "Placa Durlock 12.5mm 1.20x2.40",
+    "unit": "placa",
+    "category": "cielorraso_durlock",
+    "searchTerms": ["durlock 12.5", "placa yeso 12.5", "rigitone"]
+  },
+  {
+    "id": "lana_vidrio_50mm",
+    "name": "Lana de vidrio 50mm (rollo)",
+    "unit": "m2",
+    "category": "cielorraso_durlock",
+    "searchTerms": ["lana vidrio 50", "isover", "aislante termico rollo"]
+  },
+  {
+    "id": "perfil_t_techo",
+    "name": "Perfil T para techo liviano",
+    "unit": "ml",
+    "category": "cielorraso_durlock",
+    "searchTerms": ["perfil t", "perfil techo liviano", "vladimisky"]
+  },
+  {
+    "id": "moldura_buna_z",
+    "name": "Moldura buña Z (perfil)",
+    "unit": "ml",
+    "category": "perfileria",
+    "searchTerms": ["buna z", "perfil buna", "moldura buna"]
+  },
+  {
+    "id": "chapa_sinusoidal_aislada",
+    "name": "Chapa sinusoidal con aislación",
+    "unit": "m2",
+    "category": "cubiertas",
+    "searchTerms": ["chapa sinusoidal", "chapa aislada", "cubierta liviana"]
+  },
+  {
+    "id": "latex_interior_20l",
+    "name": "Látex interior balde 20L",
+    "unit": "balde",
+    "category": "pintura",
+    "searchTerms": ["latex interior 20l", "alba latex", "quimtex latex"]
+  },
+  {
+    "id": "enduido_plastico_30kg",
+    "name": "Enduido plástico 30kg",
+    "unit": "balde",
+    "category": "pintura",
+    "searchTerms": ["enduido plastico", "enduido 30kg", "tarquini enduido"]
+  },
+  {
+    "id": "hidrofugo_pegamento_kg",
+    "name": "Hidrófugo / pegamento Sika",
+    "unit": "kg",
+    "category": "pegamentos",
+    "searchTerms": ["hidrofugo sika", "sika 1", "pegamento hidrofugo"]
+  },
+  {
+    "id": "inodoro_corto_valvula",
+    "name": "Inodoro corto con válvula",
+    "unit": "unidad",
+    "category": "sanitarios",
+    "searchTerms": ["inodoro corto", "inodoro pringles", "ferrum inodoro"]
+  },
+  {
+    "id": "bacha_apoyar_loza",
+    "name": "Bacha de apoyar (loza)",
+    "unit": "unidad",
+    "category": "sanitarios",
+    "searchTerms": ["bacha apoyar", "bacha siena", "ferrum bacha"]
+  },
+  {
+    "id": "griferia_monocomando_bacha",
+    "name": "Grifería monocomando bacha",
+    "unit": "unidad",
+    "category": "griferias",
+    "searchTerms": ["griferia monocomando bacha", "monocomando lavatorio", "fv monocomando"]
+  },
+  {
+    "id": "rejilla_lineal_60",
+    "name": "Rejilla lineal de ducha 60cm",
+    "unit": "unidad",
+    "category": "sanitarios",
+    "searchTerms": ["rejilla lineal", "desague lineal", "atrim rejilla"]
+  },
+  {
+    "id": "calefon_electrico_chico",
+    "name": "Calefón eléctrico instantáneo (chico)",
+    "unit": "unidad",
+    "category": "plomeria",
+    "searchTerms": ["calefon electrico", "atmor calefon", "calefon instantaneo"]
+  },
+  {
+    "id": "spot_dicroica_led",
+    "name": "Spot dicroico LED + caja cardánica",
+    "unit": "unidad",
+    "category": "iluminacion",
+    "searchTerms": ["spot dicroica", "caja cardanica", "luminaria embutir"]
+  }
+]
