@@ -32,6 +32,10 @@ on:
         description: 'Why are you running this manually?'
         required: false
         default: 'manual refresh'
+      runner:
+        description: 'Runner label (kapta = self-hosted in AR; ubuntu-latest = GitHub-hosted, will fail Santa Fe / Aremat behind Cloudflare)'
+        required: false
+        default: 'kapta'
 
 permissions:
   contents: write
@@ -42,7 +46,11 @@ concurrency:
 
 jobs:
   update:
-    runs-on: ubuntu-latest
+    # Default to the self-hosted `kapta` runner: it's on a residential AR IP,
+    # so Cloudflare-fronted suppliers (Santa Fe Materiales, Aremat) actually
+    # respond. The GitHub-hosted Azure ranges get blocked at the TCP level.
+    # `workflow_dispatch` can override to `ubuntu-latest` for one-off tests.
+    runs-on: ${{ inputs.runner || 'kapta' }}
     timeout-minutes: 30
     steps:
       - name: Check out kapta-prices
