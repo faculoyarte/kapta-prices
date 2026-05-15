@@ -1,0 +1,31 @@
+﻿id,name,category,unit,selectedPrice,selectedSource,minPrice,maxPrice,avgPrice,priceCount,generatedAt
+cemento_50kg,Cemento Portland 50kg,obra_gruesa,bolsa,11800,Manual,11800,11800,11800,1,2026-05-15T22:32:32.806Z
+cemento_albanileria_25kg,Cemento de albañilería 25kg,obra_gruesa,bolsa,7514.1,Median,6835.63,36185.29,16845.01,3,2026-05-15T22:32:32.806Z
+cal_hidratada_25kg,Cal hidratada 25kg,obra_gruesa,bolsa,8441.37,Median,7113.34,10097.05,8501,5,2026-05-15T22:32:32.806Z
+ladrillo_hueco_18,Ladrillo hueco 18x18x33,mamposteria,unidad,1090,Manual,996.67,1299,1128.56,3,2026-05-15T22:32:32.806Z
+arena_m3,Arena por m³,aridos,m3,42000,Manual,28367.15,46060.15,39932.07,4,2026-05-15T22:32:32.806Z
+cal_hidratada_kg,Cal hidratada,obra_gruesa,kg,6300,Manual,6300,10097.05,8134.17,6,2026-05-15T22:32:32.806Z
+cal_aerea_kg,Cal aérea,obra_gruesa,kg,6780,Manual,6780,6780,6780,1,2026-05-15T22:32:32.806Z
+hierro_del_6,Hierro nervurado Ø6mm (12m),hierros,barra,6700,Manual,2863.55,6700,4926.81,5,2026-05-15T22:32:32.806Z
+hierro_del_8,Hierro nervurado Ø8mm (12m),hierros,barra,10500,Manual,10080.5,86603.89,29423.02,4,2026-05-15T22:32:32.806Z
+nylon_200_micrones,Nylon 200 micrones (rollo por metro),obra_gruesa,m,1300,Median,1300,1300,1300,1,2026-05-15T22:32:32.806Z
+ceramico_calcareo_33x33,Cerámico calcáreo 33x33 (caja x10),ceramicos,caja,32699,Manual,32699,32699,32699,1,2026-05-15T22:32:32.806Z
+porcelanato_60x60,Porcelanato 60x60,ceramicos,m2,23288.425,Median,20139,26437.85,23288.42,2,2026-05-15T22:32:32.806Z
+revestimiento_brick_10x10,Revestimiento tipo Brick 10x10,ceramicos,m2,39208,Manual,39208,52448.81,45828.40,2,2026-05-15T22:32:32.806Z
+microcemento_m2,Microcemento aplicado (insumo),revoques,m2,32438,Manual,32438,32438,32438,1,2026-05-15T22:32:32.806Z
+piso_vinilico_spc_4mm,Piso vinílico SPC 4mm,placas,m2,44980,Manual,44980,44980,44980,1,2026-05-15T22:32:32.806Z
+zocalo_eps_blanco,Zócalo EPS Cover 22x100x2400mm,perfileria,varilla,16276,Manual,12237.24,20223.18,16245.47,3,2026-05-15T22:32:32.806Z
+placa_durlock_12_5,Placa Durlock 12.5mm 1.20x2.40,cielorraso_durlock,placa,25368.89,Median,15733.59,54553.57,31885.35,3,2026-05-15T22:32:32.806Z
+lana_vidrio_50mm,Lana de vidrio 50mm (rollo),cielorraso_durlock,m2,162681.38,Median,90429.77,211617.83,150299.20,9,2026-05-15T22:32:32.806Z
+perfil_t_techo,Perfil T para techo liviano,cielorraso_durlock,ml,3427.205,Median,2863.55,7260.77,3880.91,8,2026-05-15T22:32:32.806Z
+moldura_buna_z,Moldura buña Z (perfil),perfileria,ml,3847.03,Median,3847.03,3847.03,3847.03,1,2026-05-15T22:32:32.806Z
+chapa_sinusoidal_aislada,Chapa sinusoidal con aislación,cubiertas,m2,,,,,,0,2026-05-15T22:32:32.806Z
+latex_interior_20l,Látex interior balde 20L,pintura,balde,185724.95,Median,185724.95,185724.95,185724.95,1,2026-05-15T22:32:32.806Z
+enduido_plastico_30kg,Enduido plástico 30kg,pintura,balde,,,,,,0,2026-05-15T22:32:32.806Z
+hidrofugo_pegamento_kg,Hidrófugo / pegamento Sika,pegamentos,kg,21028.44,Median,7953,34103.88,21028.44,2,2026-05-15T22:32:32.806Z
+inodoro_corto_valvula,Inodoro corto con válvula,sanitarios,unidad,183574.72,Median,97128.49,506719.5,227544.87,7,2026-05-15T22:32:32.806Z
+bacha_apoyar_loza,Bacha de apoyar (loza),sanitarios,unidad,138000,Manual,41010.09,385770.25,154825.53,17,2026-05-15T22:32:32.806Z
+griferia_monocomando_bacha,Grifería monocomando bacha,griferias,unidad,112303.32,Median,31350.5,228500.98,126851.03,24,2026-05-15T22:32:32.806Z
+rejilla_lineal_60,Rejilla lineal de ducha 60cm,sanitarios,unidad,52550,Manual,52550,65115.14,57727.22,4,2026-05-15T22:32:32.806Z
+calefon_electrico_chico,Calefón eléctrico instantáneo (chico),plomeria,unidad,526000,Median,526000,526000,526000,1,2026-05-15T22:32:32.806Z
+spot_dicroica_led,Spot dicroico LED + caja cardánica,iluminacion,unidad,,,,,,0,2026-05-15T22:32:32.806Z
