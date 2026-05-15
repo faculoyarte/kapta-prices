@@ -56,6 +56,7 @@ jobs:
           repository: faculoyarte/kapta-desktop-app
           path: app
           ref: main
+          token: ${{ secrets.KAPTA_APP_READ_TOKEN }}
 
       - name: Set up Node
         uses: actions/setup-node@v4
