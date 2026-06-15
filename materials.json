@@ -1,14 +1,12 @@
 [
   {
-    "id": "cemento_25kg",
-    "name": "Cemento Portland 25kg",
+    "id": "cemento_50kg",
+    "name": "Cemento Portland 50kg",
     "unit": "bolsa",
     "category": "obra_gruesa",
     "searchTerms": [
-      "cemento portland 25kg",
-      "cemento loma negra 25",
-      "cemento holcim 25",
-      "cemento avellaneda 25"
+      "cemento portland 50kg",
+      "cemento loma negra 50 kg"
     ]
   },
   {
