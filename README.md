@@ -31,6 +31,7 @@ GitHub Actions, never on a laptop.
 | `latest.json` | Current price snapshot — every collected price per material plus a `selectedPrice` / `selectedSource` chosen by the rules below. | **Bot** (workflow only) |
 | `latest.csv` | CSV summary of `latest.json` (one row per material) | **Bot** (workflow only) |
 | `history/prices-YYYY-MM-DD.{json,csv}` | Dated snapshots, one pair per workflow run. Useful for tracking price drift. | **Bot** (workflow only) |
+| `history/index.json` | Listing of the `.json` snapshots in `history/`. Exists because `raw.githubusercontent.com` can't list a directory — it's how the desktop app discovers what to mirror. Regenerated every run. | **Bot** (workflow only) |
 
 ## How user machines consume this
 
@@ -46,11 +47,18 @@ On startup and via the *Refrescar* button, the app fetches:
 https://raw.githubusercontent.com/faculoyarte/kapta-prices/main/latest.json
 https://raw.githubusercontent.com/faculoyarte/kapta-prices/main/manual-prices.json
 https://raw.githubusercontent.com/faculoyarte/kapta-prices/main/materials.json
+https://raw.githubusercontent.com/faculoyarte/kapta-prices/main/history/index.json
 ```
+
+…then any `history/prices-YYYY-MM-DD.json` named in that index which the
+machine doesn't already have. That mirror is what fills the app's *Histórico de
+precios* view; without it a non-admin machine would have today's prices but no
+series to chart. It's additive and incremental — existing files are never
+re-fetched, nothing is deleted, so steady state is one small file per day.
 
 No auth. `raw.githubusercontent.com` doesn't apply api.github.com's 60/hr
 unauthenticated rate limit, so a studio with multiple machines + restarts is
-fine.
+fine — which is also why the index exists instead of calling the contents API.
 
 If a fetch fails (offline, GitHub down), the app keeps working with the local
 cache from the previous successful refresh.
@@ -68,7 +76,10 @@ runs daily at **06:00 UTC** (≈ 03:00 ART) and on manual dispatch. The job:
 4. Runs `npm run update-prices` in the app. Same scraper that admins used to
    run locally; uses the MELI secrets from this repo.
 5. Copies `latest.json` / `latest.csv` / `history/prices-YYYY-MM-DD.*` back
-   into this repo and commits + pushes if anything changed.
+   into this repo.
+6. Regenerates `history/index.json` from whatever is in `history/`, so the
+   desktop app can find the new snapshot.
+7. Commits + pushes if anything changed.
 
 Concurrency: a single in-flight job at a time (`concurrency.group: update-prices`)
 so a manual run while the cron is in progress queues rather than races.
@@ -156,6 +167,10 @@ git log -p latest.json                       # diff latest.json across days
 ```
 
 Old history files are kept indefinitely — they're tiny.
+
+If you add or remove files in `history/` by hand, re-run the workflow (or
+regenerate `history/index.json` yourself) — remote machines mirror the index,
+not the directory, so anything missing from it stays invisible to them.
 
 ## Editing categories
 
