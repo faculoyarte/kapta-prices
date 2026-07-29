@@ -12,7 +12,12 @@ name: Update prices
 #        app/data/prices/latest.json
 #        app/data/prices/latest.csv
 #        app/data/prices/history/prices-YYYY-MM-DD.{json,csv}
-#   5. Copy the outputs back into this repo and commit.
+#   5. Copy the outputs back into this repo.
+#   6. Rebuild `history/index.json` — the desktop app can't list a directory
+#      over raw.githubusercontent.com, so this is how it discovers which
+#      snapshots to mirror. See `mirrorHistory` in the app's
+#      `src/pricing/remoteSource.ts`.
+#   7. Commit and push.
 #
 # Failure modes:
 #   - All scraper sources can fail individually (the script tolerates this).
@@ -110,6 +115,26 @@ jobs:
             cp app/data/prices/history/prices-*.json prices/history/
             cp app/data/prices/history/prices-*.csv  prices/history/
           fi
+
+      - name: Rebuild history index
+        working-directory: prices
+        # raw.githubusercontent.com serves blobs, not directory listings, so
+        # the desktop app has no way to discover which snapshots exist. This
+        # index is that listing. Rebuilt from scratch each run so removals
+        # propagate too.
+        #
+        # Deliberately no timestamp field: a value that changes every run would
+        # dirty the tree on days with no price change and defeat the no-op
+        # commit guard below. Only the `.json` snapshots are listed — the CSV
+        # siblings are for humans, and the app's analytics never reads them.
+        run: |
+          node -e '
+            const fs = require("fs");
+            const re = /^prices-\d{4}-\d{2}-\d{2}\.json$/;
+            const snapshots = fs.readdirSync("history").filter((f) => re.test(f)).sort();
+            fs.writeFileSync("history/index.json", JSON.stringify({ snapshots }, null, 2) + "\n");
+            console.log("indexed " + snapshots.length + " snapshots");
+          '
 
       - name: Commit and push
         working-directory: prices
