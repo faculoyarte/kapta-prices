@@ -1,6 +1,6 @@
 name: Update prices
 
-# Daily price refresh + manual dispatch.
+# Twice-weekly price refresh (Tue 20:00 / Fri 07:00 ART) + manual dispatch.
 #
 # How it works:
 #   1. Check out this repo (the source of truth for `manual-prices.json`,
@@ -29,8 +29,9 @@ name: Update prices
 
 on:
   schedule:
-    # Daily at 06:00 UTC (≈ 03:00 ART). Avoids supplier traffic peaks.
-    - cron: '0 6 * * *'
+    # Tuesdays 23:00 UTC (= 20:00 ART) and Fridays 10:00 UTC (= 07:00 ART).
+    - cron: '0 23 * * 2'
+    - cron: '0 10 * * 5'
   workflow_dispatch:
     inputs:
       reason:
