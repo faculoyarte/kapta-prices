@@ -1,17 +1,5 @@
 [
   {
-    "materialId": "cemento_50kg",
-    "source": "Manual",
-    "supplier": "Corralón local",
-    "price": 11800,
-    "currency": "ARS",
-    "unit": "bolsa",
-    "updatedAt": "2026-04-27",
-    "confidence": "high",
-    "notes": "Precio cargado manualmente por Kapta"
-  },
-
-  {
     "materialId": "cal_hidratada_kg",
     "source": "Manual",
     "supplier": "Corralón Colastiné",
