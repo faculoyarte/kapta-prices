@@ -1,25 +1,25 @@
 [
   {
-    "materialId": "cal_hidratada_kg",
+    "materialId": "cal_hidratada_25kg",
     "source": "Manual",
     "supplier": "Corralón Colastiné",
     "price": 6300,
     "currency": "ARS",
-    "unit": "kg",
+    "unit": "bolsa",
     "updatedAt": "2025-10-31",
     "confidence": "high",
-    "notes": "Cómputo Ampi y Dani (Oct 2025)"
+    "notes": "Cómputo Ampi y Dani (Oct 2025). Corregido 2026-10-23: era el precio de la bolsa de 25 kg cargado como precio por kg (antes cal_hidratada_kg, 6300/kg); movido a cal_hidratada_25kg por bolsa."
   },
   {
     "materialId": "cal_aerea_kg",
     "source": "Manual",
     "supplier": "Corralón Colastiné",
-    "price": 6780,
+    "price": 271.2,
     "currency": "ARS",
     "unit": "kg",
     "updatedAt": "2025-10-31",
     "confidence": "high",
-    "notes": "Cómputo Ampi y Dani (Oct 2025)"
+    "notes": "Cómputo Ampi y Dani (Oct 2025). Corregido 2026-10-23: 6780 era el precio de la bolsa de 25 kg cargado como precio por kg; dividido por 25 (6780/25 = 271.2/kg). No hay material de cal aérea por bolsa."
   },
   {
     "materialId": "arena_m3",
