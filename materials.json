@@ -185,7 +185,7 @@
     "name": "Hidrófugo / pegamento Sika",
     "unit": "kg",
     "category": "pegamentos",
-    "searchTerms": ["hidrofugo sika", "sika 1", "pegamento hidrofugo"]
+    "searchTerms": ["hidrofugo sika", "hidrofugo ceresita", "aditivo hidrofugo"]
   },
   {
     "id": "inodoro_corto_valvula",
@@ -269,7 +269,7 @@
     "name": "Aislante espuma con aluminio 10mm (rollo)",
     "unit": "m2",
     "category": "placas",
-    "searchTerms": ["aislante isolant 10mm", "aislante espuma aluminio 10mm", "membrana aislante 10mm aluminio"]
+    "searchTerms": ["aislante isolant 10mm", "aislante espuma aluminio 10mm", "kover 10mm"]
   },
   {
     "id": "cano_pvc_electrico_20mm",
