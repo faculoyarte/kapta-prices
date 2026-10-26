@@ -228,5 +228,89 @@
     "unit": "unidad",
     "category": "iluminacion",
     "searchTerms": ["spot dicroica", "caja cardanica", "luminaria embutir"]
+  },
+  {
+    "id": "pegamento_ceramico_30kg",
+    "name": "Adhesivo para cerámicos y porcelanatos 30kg",
+    "unit": "bolsa",
+    "category": "pegamentos",
+    "searchTerms": ["pegamento ceramico", "pegamento porcelanato", "adhesivo porcelanato", "adhesivo ceramico", "klaukol porcelanato", "klaukol grandes piezas"]
+  },
+  {
+    "id": "ladrillo_comun",
+    "name": "Ladrillo común macizo",
+    "unit": "unidad",
+    "category": "mamposteria",
+    "searchTerms": ["ladrillo comun", "ladrillo macizo"]
+  },
+  {
+    "id": "masilla_placa_yeso_32kg",
+    "name": "Masilla para placa de yeso 32kg",
+    "unit": "balde",
+    "category": "placas",
+    "searchTerms": ["masilla durlock 32kg", "masilla placa de yeso 32kg", "masilla lista para usar 32kg", "masilla durlock 32 kg"]
+  },
+  {
+    "id": "montante_69",
+    "name": "Montante 69mm x 2.60m",
+    "unit": "unidad",
+    "category": "perfileria",
+    "searchTerms": ["montante 69mm", "perfil montante 69mm"]
+  },
+  {
+    "id": "solera_70",
+    "name": "Solera 70mm x 2.60m",
+    "unit": "unidad",
+    "category": "perfileria",
+    "searchTerms": ["solera 70mm", "perfil solera 70mm"]
+  },
+  {
+    "id": "aislante_aluminio_10mm",
+    "name": "Aislante espuma con aluminio 10mm (rollo)",
+    "unit": "m2",
+    "category": "placas",
+    "searchTerms": ["aislante isolant 10mm", "aislante espuma aluminio 10mm", "membrana aislante 10mm aluminio"]
+  },
+  {
+    "id": "cano_pvc_electrico_20mm",
+    "name": "Caño rígido PVC eléctrico 20mm (3m)",
+    "unit": "unidad",
+    "category": "electricidad",
+    "searchTerms": ["caño pvc electrico 20mm", "caño rigido pvc 3/4 electrico", "caño genrod 20mm"]
+  },
+  {
+    "id": "toma_doble_con_tapa",
+    "name": "Toma doble 10A con bastidor y tapa",
+    "unit": "unidad",
+    "category": "electricidad",
+    "searchTerms": ["toma doble con tapa", "toma doble jeluz", "toma doble cambre bastidor"]
+  },
+  {
+    "id": "termica_2x20a",
+    "name": "Interruptor termomagnético 2x20A",
+    "unit": "unidad",
+    "category": "electricidad",
+    "searchTerms": ["termica 2x20", "termomagnetica bipolar 20a", "interruptor termomagnetico 2x20"]
+  },
+  {
+    "id": "fijador_sellador_20l",
+    "name": "Fijador sellador al agua balde 20L",
+    "unit": "balde",
+    "category": "pintura",
+    "searchTerms": ["fijador sellador 20l", "fijador sellador al agua 20 litros", "fijador al agua 20l"]
+  },
+  {
+    "id": "membrana_liquida_20kg",
+    "name": "Membrana líquida para techos 20kg",
+    "unit": "balde",
+    "category": "cubiertas",
+    "searchTerms": ["membrana liquida 20kg", "membrana liquida techos 20 kg", "impermeabilizante techos 20kg"]
+  },
+  {
+    "id": "wall_panel_eps",
+    "name": "Wall panel EPS varillado 0.12x2.85m (tabla)",
+    "unit": "unidad",
+    "category": "placas",
+    "searchTerms": ["wall panel eps", "wallpanel eps varillado", "revestimiento eps varillado"]
   }
 ]
