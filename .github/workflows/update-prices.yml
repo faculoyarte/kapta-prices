@@ -34,8 +34,14 @@ name: Update prices
 #   - `update-products` is `continue-on-error` with its own timeout. A store
 #     that fails keeps its previous file (the script writes into `products/`
 #     directly and only replaces a store's file on success); the step then
-#     exits 1 so the run shows a warning, and the lists that did refresh are
-#     still committed.
+#     exits 1, and the lists that did refresh are still committed (the index
+#     is rebuilt from disk first, so it always matches them).
+#   - Because of `continue-on-error` the job stays green when the product
+#     step fails, so nobody gets a failure email. The step after it writes a
+#     warning to the run summary instead. Check the summary now and then: a
+#     silent outage is how the 10-week gap described below went unnoticed.
+#   - A store removed from the app's `stores.ts` has its list deleted on the
+#     next run (the script prunes lists of stores no longer configured).
 
 on:
   schedule:
@@ -109,6 +115,9 @@ jobs:
           cp prices/categories.json    app/data/catalog/categories.json
 
       - name: Run update-prices
+        # Its own limit: the job's is now 80 min for the product lists, and a
+        # stuck scrape must not hold the concurrency group that long.
+        timeout-minutes: 30
         working-directory: app
         env:
           MELI_REFRESH_TOKEN: ${{ secrets.MELI_REFRESH_TOKEN }}
@@ -163,11 +172,19 @@ jobs:
           fi
 
       - name: Run update-products
+        id: products
         # Never blocks the price snapshot: that was committed and pushed above.
         continue-on-error: true
         timeout-minutes: 45
         working-directory: app
         run: npm run update-products -- --out ../prices/products
+
+      - name: Warn about product lists
+        if: steps.products.outcome == 'failure'
+        run: |
+          echo "::warning title=update-products::One or more stores failed or the step timed out. Their previous lists were kept."
+          echo "### ⚠️ update-products falló" >> "$GITHUB_STEP_SUMMARY"
+          echo "Alguna tienda falló o el paso llegó al timeout; esas tiendas conservan su lista anterior. Ver el log de *Run update-products*." >> "$GITHUB_STEP_SUMMARY"
 
       - name: Commit and push product lists
         working-directory: prices
@@ -179,10 +196,18 @@ jobs:
           # A step killed by its timeout mid-write leaves `<store>.json.tmp`
           # behind (lists are written via a temp file + rename). Never commit it.
           rm -f products/*.tmp
+          # The script rewrites the index after each store, but a kill can land
+          # between a list and its index update. Rebuild it from what is on disk.
+          (cd ../app && npm run --silent update-products -- --out ../prices/products --index-only) \
+            || echo "::warning::index rebuild failed; committing the script's own index.json"
           git add products/
           if git diff --cached --quiet; then
             echo "no product list changes"
           else
             git commit -m "products: listas de tiendas $(date -u +%Y-%m-%d)"
+            # The checkout is ~45 min old by now; anything pushed to main
+            # meanwhile would reject a plain push. Only the bot writes
+            # products/, so the rebase does not conflict.
+            git pull --rebase
             git push
           fi
