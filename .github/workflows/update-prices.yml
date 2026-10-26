@@ -202,8 +202,13 @@ jobs:
           rm -f products/*.tmp
           # The script rewrites the index after each store, but a kill can land
           # between a list and its index update. Rebuild it from what is on disk.
-          (cd ../app && npm run --silent update-products -- --out ../prices/products --index-only) \
-            || echo "::warning::index rebuild failed; committing the script's own index.json"
+          # If that fails, commit nothing: lists and an index that may disagree
+          # are worse than skipping this run's lists (the price commit above is
+          # already pushed; the next run refreshes the lists).
+          if ! (cd ../app && npm run --silent update-products -- --out ../prices/products --index-only); then
+            echo "::error title=update-products::index rebuild failed; product lists not committed this run"
+            exit 1
+          fi
           git add products/
           if git diff --cached --quiet; then
             echo "no product list changes"
