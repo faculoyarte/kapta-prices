@@ -55,7 +55,7 @@ on:
         required: false
         default: 'manual refresh'
       runner:
-        description: 'Runner label. Leave as ubuntu-latest; `kapta` is the self-hosted AR box, currently offline.'
+        description: 'Runner label. Leave as ubuntu-latest; `kapta` is the self-hosted AR box, currently offline (and needs Actions Runner v2.327.1+ for checkout/setup-node v5).'
         required: false
         default: 'ubuntu-latest'
 
@@ -84,20 +84,25 @@ jobs:
     timeout-minutes: 80
     steps:
       - name: Check out kapta-prices
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           path: prices
 
       - name: Check out kapta-desktop-app
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           repository: faculoyarte/kapta-desktop-app
           path: app
           ref: main
           token: ${{ secrets.KAPTA_APP_READ_TOKEN }}
+          # Don't leave the token in app/.git/config. The next steps
+          # `npm install` unpinned (`latest`) packages, and any install script
+          # could read it. Nothing in this job runs git inside app/ — only the
+          # prices checkout needs its credentials, for the push at the end.
+          persist-credentials: false
 
       - name: Set up Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
           node-version: '22'
 
