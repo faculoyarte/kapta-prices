@@ -18,6 +18,11 @@ name: Update prices
 #      snapshots to mirror. See `mirrorHistory` in the app's
 #      `src/pricing/remoteSource.ts`.
 #   7. Commit and push.
+#   8. Run `npm run update-products` (#397): every configured store's whole
+#      catalogue as a priced product list in `products/<sourceName>.json` +
+#      `products/index.json`, read by the `/presupuesto` skill. Runs AFTER
+#      the price commit and in its own commit, so it can never hold back
+#      `latest.json`.
 #
 # Failure modes:
 #   - All scraper sources can fail individually (the script tolerates this).
@@ -26,6 +31,11 @@ name: Update prices
 #     stays as the latest, which is the desired behavior.
 #   - If `npm run update-prices` produces no diff (rare), the commit step
 #     no-ops (`git commit ... || echo "no changes"`).
+#   - `update-products` is `continue-on-error` with its own timeout. A store
+#     that fails keeps its previous file (the script writes into `products/`
+#     directly and only replaces a store's file on success); the step then
+#     exits 1 so the run shows a warning, and the lists that did refresh are
+#     still committed.
 
 on:
   schedule:
@@ -63,7 +73,9 @@ jobs:
     # `workflow_dispatch` can still override the label if a supplier ever does
     # start blocking, but `kapta` needs bringing back online first.
     runs-on: ${{ inputs.runner || 'ubuntu-latest' }}
-    timeout-minutes: 30
+    # Was 30 for prices alone; product lists add up to 35 more (Junelec's
+    # Store API answers ~0.5 s per product, ~15 min for the store).
+    timeout-minutes: 60
     steps:
       - name: Check out kapta-prices
         uses: actions/checkout@v4
@@ -147,5 +159,30 @@ jobs:
             echo "no price changes today"
           else
             git commit -m "prices: daily update $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Run update-products
+        # Never blocks the price snapshot: that was committed and pushed above.
+        continue-on-error: true
+        timeout-minutes: 35
+        working-directory: app
+        run: npm run update-products -- --out ../prices/products
+
+      - name: Commit and push product lists
+        working-directory: prices
+        run: |
+          if [ ! -d products ]; then
+            echo "no product lists"
+            exit 0
+          fi
+          # A step killed by its timeout mid-write leaves `<store>.json.tmp`
+          # behind (lists are written via a temp file + rename). Never commit it.
+          rm -f products/*.tmp
+          git add products/
+          if git diff --cached --quiet; then
+            echo "no product list changes"
+          else
+            git commit -m "products: listas de tiendas $(date -u +%Y-%m-%d)"
             git push
           fi
