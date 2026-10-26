@@ -255,14 +255,14 @@
     "name": "Montante 69mm x 2.60m",
     "unit": "unidad",
     "category": "perfileria",
-    "searchTerms": ["montante 69 2.60", "montante durlock 69", "perfil montante 69mm"]
+    "searchTerms": ["montante 69mm", "perfil montante 69mm"]
   },
   {
     "id": "solera_70",
     "name": "Solera 70mm x 2.60m",
     "unit": "unidad",
     "category": "perfileria",
-    "searchTerms": ["solera 70 2.60", "solera 70 durlock", "perfil solera 70mm"]
+    "searchTerms": ["solera 70mm", "perfil solera 70mm"]
   },
   {
     "id": "aislante_aluminio_10mm",
