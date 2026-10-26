@@ -168,6 +168,10 @@ jobs:
             echo "no price changes today"
           else
             git commit -m "prices: daily update $(date -u +%Y-%m-%d)"
+            # The checkout is as old as the scrape (up to 30 min); a push to main
+            # meanwhile would reject a plain push and skip the product steps.
+            # Only the bot writes these files, so the rebase does not conflict.
+            git pull --rebase
             git push
           fi
 
