@@ -1,0 +1,23 @@
+[
+  {
+    "sourceName": "Junelec",
+    "name": "Junelec",
+    "city": "Rosario",
+    "count": 1861,
+    "fetchedAt": "2026-10-26T22:38:10Z"
+  },
+  {
+    "sourceName": "Roselec",
+    "name": "Roselec",
+    "city": "Rosario",
+    "count": 44,
+    "fetchedAt": "2026-10-26T22:21:23Z"
+  },
+  {
+    "sourceName": "SerraOnline",
+    "name": "Serra Online",
+    "city": "Rosario",
+    "count": 7434,
+    "fetchedAt": "2026-10-26T22:20:52Z"
+  }
+]
