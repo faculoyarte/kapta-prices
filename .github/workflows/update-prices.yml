@@ -18,6 +18,11 @@ name: Update prices
 #      snapshots to mirror. See `mirrorHistory` in the app's
 #      `src/pricing/remoteSource.ts`.
 #   7. Commit and push.
+#   8. Run `npm run update-products` (#397): every configured store's whole
+#      catalogue as a priced product list in `products/<sourceName>.json` +
+#      `products/index.json`, read by the `/presupuesto` skill. Runs AFTER
+#      the price commit and in its own commit, so it can never hold back
+#      `latest.json`.
 #
 # Failure modes:
 #   - All scraper sources can fail individually (the script tolerates this).
@@ -26,6 +31,17 @@ name: Update prices
 #     stays as the latest, which is the desired behavior.
 #   - If `npm run update-prices` produces no diff (rare), the commit step
 #     no-ops (`git commit ... || echo "no changes"`).
+#   - `update-products` is `continue-on-error` with its own timeout. A store
+#     that fails keeps its previous file (the script writes into `products/`
+#     directly and only replaces a store's file on success); the step then
+#     exits 1, and the lists that did refresh are still committed (the index
+#     is rebuilt from disk first, so it always matches them).
+#   - Because of `continue-on-error` the job stays green when the product
+#     step fails, so nobody gets a failure email. The step after it writes a
+#     warning to the run summary instead. Check the summary now and then: a
+#     silent outage is how the 10-week gap described below went unnoticed.
+#   - A store removed from the app's `stores.ts` has its list deleted on the
+#     next run (the script prunes lists of stores no longer configured).
 
 on:
   schedule:
@@ -63,7 +79,9 @@ jobs:
     # `workflow_dispatch` can still override the label if a supplier ever does
     # start blocking, but `kapta` needs bringing back online first.
     runs-on: ${{ inputs.runner || 'ubuntu-latest' }}
-    timeout-minutes: 30
+    # Was 30 for prices alone. Product lists add ~27 min (Junelec's Store API
+    # alone took 24 min on 2026-10-26), capped at 45 by the step below.
+    timeout-minutes: 80
     steps:
       - name: Check out kapta-prices
         uses: actions/checkout@v4
@@ -97,6 +115,9 @@ jobs:
           cp prices/categories.json    app/data/catalog/categories.json
 
       - name: Run update-prices
+        # Its own limit: the job's is now 80 min for the product lists, and a
+        # stuck scrape must not hold the concurrency group that long.
+        timeout-minutes: 30
         working-directory: app
         env:
           MELI_REFRESH_TOKEN: ${{ secrets.MELI_REFRESH_TOKEN }}
@@ -147,5 +168,55 @@ jobs:
             echo "no price changes today"
           else
             git commit -m "prices: daily update $(date -u +%Y-%m-%d)"
+            # The checkout is as old as the scrape (up to 30 min); a push to main
+            # meanwhile would reject a plain push and skip the product steps.
+            # Only the bot writes these files, so the rebase does not conflict.
+            git pull --rebase
+            git push
+          fi
+
+      - name: Run update-products
+        id: products
+        # Never blocks the price snapshot: that was committed and pushed above.
+        continue-on-error: true
+        timeout-minutes: 45
+        working-directory: app
+        run: npm run update-products -- --out ../prices/products
+
+      - name: Warn about product lists
+        if: steps.products.outcome == 'failure'
+        run: |
+          echo "::warning title=update-products::One or more stores failed or the step timed out. Their previous lists were kept."
+          echo "### ⚠️ update-products falló" >> "$GITHUB_STEP_SUMMARY"
+          echo "Alguna tienda falló o el paso llegó al timeout; esas tiendas conservan su lista anterior. Ver el log de *Run update-products*." >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit and push product lists
+        working-directory: prices
+        run: |
+          if [ ! -d products ]; then
+            echo "no product lists"
+            exit 0
+          fi
+          # A step killed by its timeout mid-write leaves `<store>.json.tmp`
+          # behind (lists are written via a temp file + rename). Never commit it.
+          rm -f products/*.tmp
+          # The script rewrites the index after each store, but a kill can land
+          # between a list and its index update. Rebuild it from what is on disk.
+          # If that fails, commit nothing: lists and an index that may disagree
+          # are worse than skipping this run's lists (the price commit above is
+          # already pushed; the next run refreshes the lists).
+          if ! (cd ../app && npm run --silent update-products -- --out ../prices/products --index-only); then
+            echo "::error title=update-products::index rebuild failed; product lists not committed this run"
+            exit 1
+          fi
+          git add products/
+          if git diff --cached --quiet; then
+            echo "no product list changes"
+          else
+            git commit -m "products: listas de tiendas $(date -u +%Y-%m-%d)"
+            # The checkout is ~45 min old by now; anything pushed to main
+            # meanwhile would reject a plain push. Only the bot writes
+            # products/, so the rebase does not conflict.
+            git pull --rebase
             git push
           fi

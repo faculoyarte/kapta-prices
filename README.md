@@ -32,6 +32,8 @@ GitHub Actions, never on a laptop.
 | `latest.csv` | CSV summary of `latest.json` (one row per material) | **Bot** (workflow only) |
 | `history/prices-YYYY-MM-DD.{json,csv}` | Dated snapshots, one pair per workflow run. Useful for tracking price drift. | **Bot** (workflow only) |
 | `history/index.json` | Listing of the `.json` snapshots in `history/`. Exists because `raw.githubusercontent.com` can't list a directory — it's how the desktop app discovers what to mirror. Regenerated every run. | **Bot** (workflow only) |
+| `products/<sourceName>.json` | One store's whole catalogue as a priced product list (format in [kapta-desktop-app#396](https://github.com/faculoyarte/kapta-desktop-app/issues/396)), searched by the `/presupuesto` skill. Public retail prices only. History is git's. | **Bot** (workflow only) |
+| `products/index.json` | `[{ sourceName, name, city, count, fetchedAt }]` for the lists present. Rebuilt every run. | **Bot** (workflow only) |
 
 ## How user machines consume this
 
