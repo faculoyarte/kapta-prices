@@ -75,7 +75,6 @@
     "confidence": "medium",
     "notes": "Sin proveedor identificado. Cómputo de una obra del estudio (oct 2025)."
   },
-
   {
     "materialId": "microcemento_m2",
     "source": "Manual",
@@ -178,28 +177,6 @@
     "notes": "Atmor 12kW instantáneo. Estimativo de una obra del estudio (oct 2025)."
   },
   {
-    "materialId": "cable_unipolar_1_5mm",
-    "source": "Manual",
-    "supplier": "Electroconstrucción",
-    "price": 451.41,
-    "currency": "ARS",
-    "unit": "ml",
-    "updatedAt": "2025-05-19",
-    "confidence": "medium",
-    "notes": "Cable 1x1,5 mm Fonseca, precio de lista por metro (la lista total tenía 10 % de descuento pagando contado). Precio pagado en una obra del estudio."
-  },
-  {
-    "materialId": "cable_unipolar_4mm",
-    "source": "Manual",
-    "supplier": "Electroconstrucción",
-    "price": 1165.54,
-    "currency": "ARS",
-    "unit": "ml",
-    "updatedAt": "2025-05-19",
-    "confidence": "medium",
-    "notes": "Cable 1x4 mm Fonseca, precio de lista por metro (10 % de descuento pagando contado). Precio pagado en una obra del estudio."
-  },
-  {
     "materialId": "termica_2x20a",
     "source": "Manual",
     "supplier": "Electroconstrucción",
@@ -208,28 +185,7 @@
     "unit": "unidad",
     "updatedAt": "2025-05-19",
     "confidence": "medium",
-    "notes": "Térmica 2x20 A, precio de lista. Precio pagado en una obra del estudio."
-  },
-  {
-    "materialId": "revoque_2_en_1_25kg",
-    "source": "Manual",
-    "supplier": "Germat",
-    "price": 7913.5,
-    "currency": "ARS",
-    "unit": "bolsa",
-    "updatedAt": "2025-08-27",
-    "confidence": "medium",
-    "notes": "Weber revoque 2 en 1 (5 bolsas por 39.567,5). El tamaño de bolsa no quedó anotado. Precio pagado en una obra del estudio."
-  },
-  {
-    "materialId": "revoque_fino_exterior_25kg",
-    "source": "Manual",
-    "price": 12785,
-    "currency": "ARS",
-    "unit": "bolsa",
-    "updatedAt": "2025-05-15",
-    "confidence": "medium",
-    "notes": "Weber fino exterior 25 kg (2 bolsas por 25.570,56). Sin proveedor anotado. Precio pagado en una obra del estudio."
+    "notes": "Térmica 2x20 A. Precio de lista de una cotización para una obra del estudio."
   },
   {
     "materialId": "ladrillo_comun",

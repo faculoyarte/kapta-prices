@@ -234,28 +234,14 @@
     "name": "Adhesivo para cerámicos y porcelanatos 30kg",
     "unit": "bolsa",
     "category": "pegamentos",
-    "searchTerms": ["pegamento ceramico 30kg", "pegamento porcelanato 30kg", "klaukol 30kg", "adhesivo ceramico 30kg"]
-  },
-  {
-    "id": "revoque_2_en_1_25kg",
-    "name": "Revoque grueso y fino 2 en 1 25kg",
-    "unit": "bolsa",
-    "category": "revoques",
-    "searchTerms": ["revoque 2 en 1 25kg", "weber rev 2 en 1", "revoque grueso fino 2 en 1"]
-  },
-  {
-    "id": "revoque_fino_exterior_25kg",
-    "name": "Revoque fino exterior a la cal 25kg",
-    "unit": "bolsa",
-    "category": "revoques",
-    "searchTerms": ["revoque fino exterior 25kg", "weber fino exterior 25kg"]
+    "searchTerms": ["pegamento ceramico", "pegamento porcelanato", "adhesivo porcelanato", "adhesivo ceramico", "klaukol porcelanato", "klaukol grandes piezas"]
   },
   {
     "id": "ladrillo_comun",
     "name": "Ladrillo común macizo",
     "unit": "unidad",
     "category": "mamposteria",
-    "searchTerms": ["ladrillo comun", "ladrillo macizo comun", "ladrillo comun de campo"]
+    "searchTerms": ["ladrillo comun", "ladrillo macizo"]
   },
   {
     "id": "masilla_placa_yeso_32kg",
@@ -265,11 +251,11 @@
     "searchTerms": ["masilla durlock 32kg", "masilla placa de yeso 32kg", "masilla lista para usar 32kg", "masilla durlock 32 kg"]
   },
   {
-    "id": "montante_70",
-    "name": "Montante 70mm x 2.60m",
+    "id": "montante_69",
+    "name": "Montante 69mm x 2.60m",
     "unit": "unidad",
     "category": "perfileria",
-    "searchTerms": ["montante 70 2.60", "montante 69 durlock", "perfil montante 70mm", "montante 69mm"]
+    "searchTerms": ["montante 69 2.60", "montante durlock 69", "perfil montante 69mm"]
   },
   {
     "id": "solera_70",
@@ -279,39 +265,11 @@
     "searchTerms": ["solera 70 2.60", "solera 70 durlock", "perfil solera 70mm"]
   },
   {
-    "id": "lana_de_roca_50mm",
-    "name": "Lana de roca 50mm (panel)",
-    "unit": "m2",
-    "category": "placas",
-    "searchTerms": ["lana de roca 50mm", "panel lana de roca 50", "rockwool 50mm"]
-  },
-  {
     "id": "aislante_aluminio_10mm",
     "name": "Aislante espuma con aluminio 10mm (rollo)",
     "unit": "m2",
     "category": "placas",
     "searchTerms": ["aislante isolant 10mm", "aislante espuma aluminio 10mm", "membrana aislante 10mm aluminio"]
-  },
-  {
-    "id": "cable_unipolar_1_5mm",
-    "name": "Cable unipolar 1.5mm por metro",
-    "unit": "ml",
-    "category": "electricidad",
-    "searchTerms": ["cable unipolar 1.5mm", "cable unipolar 1,5 mm", "cable 1x1.5 mm"]
-  },
-  {
-    "id": "cable_unipolar_2_5mm",
-    "name": "Cable unipolar 2.5mm por metro",
-    "unit": "ml",
-    "category": "electricidad",
-    "searchTerms": ["cable unipolar 2.5mm", "cable unipolar 2,5 mm", "cable 1x2.5 mm"]
-  },
-  {
-    "id": "cable_unipolar_4mm",
-    "name": "Cable unipolar 4mm por metro",
-    "unit": "ml",
-    "category": "electricidad",
-    "searchTerms": ["cable unipolar 4mm", "cable unipolar 4 mm", "cable 1x4 mm"]
   },
   {
     "id": "cano_pvc_electrico_20mm",
@@ -335,20 +293,6 @@
     "searchTerms": ["termica 2x20", "termomagnetica bipolar 20a", "interruptor termomagnetico 2x20"]
   },
   {
-    "id": "latex_exterior_20l",
-    "name": "Látex exterior balde 20L",
-    "unit": "balde",
-    "category": "pintura",
-    "searchTerms": ["latex exterior 20l", "latex exterior 20 litros", "pintura latex frentes 20l"]
-  },
-  {
-    "id": "latex_cielorraso_antihongos_20l",
-    "name": "Látex cielorraso antihongos balde 20L",
-    "unit": "balde",
-    "category": "pintura",
-    "searchTerms": ["latex cielorraso antihongos 20l", "latex cielorrasos 20 litros", "pintura cielorraso antihongo 20l"]
-  },
-  {
     "id": "fijador_sellador_20l",
     "name": "Fijador sellador al agua balde 20L",
     "unit": "balde",
@@ -368,12 +312,5 @@
     "unit": "unidad",
     "category": "placas",
     "searchTerms": ["wall panel eps", "wallpanel eps varillado", "revestimiento eps varillado"]
-  },
-  {
-    "id": "chapa_sinusoidal_c25",
-    "name": "Chapa sinusoidal C25 galvanizada o cincalum (por metro)",
-    "unit": "ml",
-    "category": "cubiertas",
-    "searchTerms": ["chapa sinusoidal c25", "chapa sinusoidal galvanizada c25", "chapa sinusoidal cincalum c25"]
   }
 ]
