@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T11:34:12.029Z",
+  "generatedAt": "2026-10-26T21:59:45.368Z",
   "currency": "ARS",
   "items": [
     {
@@ -1095,6 +1095,28 @@
         {
           "source": "SantaFeMateriales",
           "supplier": "Santa Fe Materiales",
+          "price": 9268.21527777778,
+          "currency": "ARS",
+          "unit": "m2",
+          "updatedAt": "2026-10-26",
+          "confidence": "medium",
+          "url": "https://tienda.santafemateriales.com.ar/search?q=lana%20vidrio%2050",
+          "notes": "LANA DE VIDRIO C/ALUMINIO INROTS 50mm 1.20x18m",
+          "meta": {
+            "rawProductName": "LANA DE VIDRIO C/ALUMINIO INROTS 50mm 1.20x18m",
+            "normalizedName": "lana de vidrio c/aluminio inrots 50mm 1.20x18m",
+            "sku": "181800902",
+            "quantity": 21.599999999999998,
+            "unit": "m2",
+            "categoryPath": [
+              "TECHOS Y LOSA",
+              "AISLANTES Y LANA DE VIDRIO"
+            ]
+          }
+        },
+        {
+          "source": "SantaFeMateriales",
+          "supplier": "Santa Fe Materiales",
           "price": 8359.59537037037,
           "currency": "ARS",
           "unit": "m2",
@@ -1275,7 +1297,7 @@
           }
         }
       ],
-      "selectedPrice": 5986.759206018518,
+      "selectedPrice": 6550.356428240741,
       "selectedSource": "Median"
     },
     {
@@ -1751,9 +1773,296 @@
       "name": "Hidrófugo / pegamento Sika",
       "category": "pegamentos",
       "unit": "kg",
-      "prices": [],
-      "selectedPrice": null,
-      "selectedSource": null
+      "prices": [
+        {
+          "source": "ArematPuerto",
+          "supplier": "Aremat Puerto",
+          "price": 1581.7967,
+          "currency": "ARS",
+          "unit": "kg",
+          "updatedAt": "2026-10-26",
+          "confidence": "medium",
+          "url": "https://arematpuerto.com.ar/producto/ceresita-x200kg/",
+          "notes": "Hidrófugo Ceresita x200kg | Aremat",
+          "meta": {
+            "rawProductName": "Hidrófugo Ceresita x200kg | Aremat",
+            "normalizedName": "hidrofugo ceresita x200kg aremat",
+            "sku": "140005",
+            "quantity": 200,
+            "unit": "kg",
+            "categoryPath": [
+              "Construcción",
+              "Obra Gruesa",
+              "Hidrofugos y Ligantes"
+            ]
+          }
+        },
+        {
+          "source": "ArematPuerto",
+          "supplier": "Aremat Puerto",
+          "price": 2876.707,
+          "currency": "ARS",
+          "unit": "kg",
+          "updatedAt": "2026-10-26",
+          "confidence": "medium",
+          "url": "https://arematpuerto.com.ar/producto/ceresita-x10kg/",
+          "notes": "Hidrófugo Ceresita x10kg | Aremat",
+          "meta": {
+            "rawProductName": "Hidrófugo Ceresita x10kg | Aremat",
+            "normalizedName": "hidrofugo ceresita x10kg aremat",
+            "sku": "140003",
+            "quantity": 10,
+            "unit": "kg",
+            "categoryPath": [
+              "Construcción",
+              "Obra Gruesa",
+              "Hidrofugos y Ligantes"
+            ]
+          }
+        },
+        {
+          "source": "ArematPuerto",
+          "supplier": "Aremat Puerto",
+          "price": 2418.5195,
+          "currency": "ARS",
+          "unit": "kg",
+          "updatedAt": "2026-10-26",
+          "confidence": "medium",
+          "url": "https://arematpuerto.com.ar/producto/ceresita-x20kg/",
+          "notes": "Hidrófugo Ceresita x20kg | Aremat",
+          "meta": {
+            "rawProductName": "Hidrófugo Ceresita x20kg | Aremat",
+            "normalizedName": "hidrofugo ceresita x20kg aremat",
+            "sku": "140004",
+            "quantity": 20,
+            "unit": "kg",
+            "categoryPath": [
+              "Construcción",
+              "Obra Gruesa",
+              "Hidrofugos y Ligantes"
+            ]
+          }
+        },
+        {
+          "source": "ArematPuerto",
+          "supplier": "Aremat Puerto",
+          "price": 4940.14,
+          "currency": "ARS",
+          "unit": "kg",
+          "updatedAt": "2026-10-26",
+          "confidence": "medium",
+          "url": "https://arematpuerto.com.ar/producto/ceresita-x1kg/",
+          "notes": "Hidrófugo Ceresita x1kg | Aremat",
+          "meta": {
+            "rawProductName": "Hidrófugo Ceresita x1kg | Aremat",
+            "normalizedName": "hidrofugo ceresita x1kg aremat",
+            "sku": "140001",
+            "quantity": 1,
+            "unit": "kg",
+            "categoryPath": [
+              "Construcción",
+              "Obra Gruesa",
+              "Hidrofugos y Ligantes"
+            ]
+          }
+        },
+        {
+          "source": "ArematPuerto",
+          "supplier": "Aremat Puerto",
+          "price": 3251.8975,
+          "currency": "ARS",
+          "unit": "kg",
+          "updatedAt": "2026-10-26",
+          "confidence": "medium",
+          "url": "https://arematpuerto.com.ar/producto/ceresita-x4kg/",
+          "notes": "Hidrófugo Ceresita x4kg | Aremat",
+          "meta": {
+            "rawProductName": "Hidrófugo Ceresita x4kg | Aremat",
+            "normalizedName": "hidrofugo ceresita x4kg aremat",
+            "sku": "140002",
+            "quantity": 4,
+            "unit": "kg",
+            "categoryPath": [
+              "Construcción",
+              "Obra Gruesa",
+              "Hidrofugos y Ligantes"
+            ]
+          }
+        },
+        {
+          "source": "LaAlianzaCorralon",
+          "supplier": "La Alianza Corralón",
+          "price": 4125,
+          "currency": "ARS",
+          "unit": "kg",
+          "updatedAt": "2026-10-26",
+          "confidence": "low",
+          "url": "https://laalianzacorralon.mitiendanube.com/search?q=hidrofugo%20sika",
+          "notes": "Aditivo Hidrófugo Ceresita Weber 4kg",
+          "meta": {
+            "rawProductName": "Aditivo Hidrófugo Ceresita Weber 4kg",
+            "normalizedName": "aditivo hidrofugo ceresita weber 4kg",
+            "sku": "CERESITA-PASTA-4KG",
+            "quantity": 4,
+            "unit": "kg"
+          }
+        },
+        {
+          "source": "LaAlianzaCorralon",
+          "supplier": "La Alianza Corralón",
+          "price": 3350,
+          "currency": "ARS",
+          "unit": "kg",
+          "updatedAt": "2026-10-26",
+          "confidence": "low",
+          "url": "https://laalianzacorralon.mitiendanube.com/search?q=hidrofugo%20sika",
+          "notes": "Aditivo Hidrófugo Ceresita Weber 10kg",
+          "meta": {
+            "rawProductName": "Aditivo Hidrófugo Ceresita Weber 10kg",
+            "normalizedName": "aditivo hidrofugo ceresita weber 10kg",
+            "sku": "CERESITA-PASTA-10KG",
+            "quantity": 10,
+            "unit": "kg"
+          }
+        },
+        {
+          "source": "LaAlianzaCorralon",
+          "supplier": "La Alianza Corralón",
+          "price": 2350,
+          "currency": "ARS",
+          "unit": "kg",
+          "updatedAt": "2026-10-26",
+          "confidence": "low",
+          "url": "https://laalianzacorralon.mitiendanube.com/search?q=hidrofugo%20sika",
+          "notes": "Aditivo Hidrófugo Ceresita Weber 20kg",
+          "meta": {
+            "rawProductName": "Aditivo Hidrófugo Ceresita Weber 20kg",
+            "normalizedName": "aditivo hidrofugo ceresita weber 20kg",
+            "sku": "CERESITA-PASTA-20KG",
+            "quantity": 20,
+            "unit": "kg"
+          }
+        },
+        {
+          "source": "LaAlianzaCorralon",
+          "supplier": "La Alianza Corralón",
+          "price": 1675,
+          "currency": "ARS",
+          "unit": "kg",
+          "updatedAt": "2026-10-26",
+          "confidence": "low",
+          "url": "https://laalianzacorralon.mitiendanube.com/search?q=hidrofugo%20sika",
+          "notes": "Aditivo Hidrófugo para Morteros Sinteplast 20kg",
+          "meta": {
+            "rawProductName": "Aditivo Hidrófugo para Morteros Sinteplast 20kg",
+            "normalizedName": "aditivo hidrofugo para morteros sinteplast 20kg",
+            "sku": "HID-SINTEPLAST-20KG",
+            "quantity": 20,
+            "unit": "kg"
+          }
+        },
+        {
+          "source": "LaAlianzaCorralon",
+          "supplier": "La Alianza Corralón",
+          "price": 1780,
+          "currency": "ARS",
+          "unit": "kg",
+          "updatedAt": "2026-10-26",
+          "confidence": "low",
+          "url": "https://laalianzacorralon.mitiendanube.com/search?q=hidrofugo%20sika",
+          "notes": "Aditivo Hidrófugo para Morteros Sinteplast 5kg",
+          "meta": {
+            "rawProductName": "Aditivo Hidrófugo para Morteros Sinteplast 5kg",
+            "normalizedName": "aditivo hidrofugo para morteros sinteplast 5kg",
+            "sku": "HID-SINTEPLAST-5KG",
+            "quantity": 5,
+            "unit": "kg"
+          }
+        },
+        {
+          "source": "LaAlianzaCorralon",
+          "supplier": "La Alianza Corralón",
+          "price": 2750,
+          "currency": "ARS",
+          "unit": "kg",
+          "updatedAt": "2026-10-26",
+          "confidence": "low",
+          "url": "https://laalianzacorralon.mitiendanube.com/search?q=hidrofugo%20sika",
+          "notes": "Aditivo Hidrófugo para Morteros Sinteplast 1kg",
+          "meta": {
+            "rawProductName": "Aditivo Hidrófugo para Morteros Sinteplast 1kg",
+            "normalizedName": "aditivo hidrofugo para morteros sinteplast 1kg",
+            "sku": "HID-SINTEPLAST-1KG",
+            "quantity": 1,
+            "unit": "kg"
+          }
+        },
+        {
+          "source": "LaAlianzaCorralon",
+          "supplier": "La Alianza Corralón",
+          "price": 1450,
+          "currency": "ARS",
+          "unit": "kg",
+          "updatedAt": "2026-10-26",
+          "confidence": "low",
+          "url": "https://laalianzacorralon.mitiendanube.com/search?q=hidrofugo%20sika",
+          "notes": "Aditivo Hidrófugo Ceresita Weber 200kg",
+          "meta": {
+            "rawProductName": "Aditivo Hidrófugo Ceresita Weber 200kg",
+            "normalizedName": "aditivo hidrofugo ceresita weber 200kg",
+            "sku": "CERESITA-PASTA-200KG",
+            "quantity": 200,
+            "unit": "kg"
+          }
+        },
+        {
+          "source": "PintureriasMM",
+          "supplier": "Pinturerías MM",
+          "price": 3246.09,
+          "currency": "ARS",
+          "unit": "kg",
+          "updatedAt": "2026-10-26",
+          "confidence": "low",
+          "url": "https://pintureriasmm.com.ar/search?q=hidrofugo%20sika",
+          "notes": "Ceresita Weber Hidrofugo 20 K Pasta Pared Exterior Pisotecho",
+          "meta": {
+            "rawProductName": "Ceresita Weber Hidrofugo 20 K Pasta Pared Exterior Pisotecho",
+            "normalizedName": "ceresita weber hidrofugo 20 k pasta pared exterior pisotecho",
+            "sku": "279795381",
+            "quantity": 20,
+            "unit": "kg",
+            "categoryPath": [
+              "Construcción",
+              "Otros"
+            ]
+          }
+        },
+        {
+          "source": "PintureriasMM",
+          "supplier": "Pinturerías MM",
+          "price": 3286.95,
+          "currency": "ARS",
+          "unit": "kg",
+          "updatedAt": "2026-10-26",
+          "confidence": "low",
+          "url": "https://pintureriasmm.com.ar/search?q=hidrofugo%20sika",
+          "notes": "Ceresita Weber Hidrofugo 4 K Pasta Pared Exterior Piso Techo",
+          "meta": {
+            "rawProductName": "Ceresita Weber Hidrofugo 4 K Pasta Pared Exterior Piso Techo",
+            "normalizedName": "ceresita weber hidrofugo 4 k pasta pared exterior piso techo",
+            "sku": "279699373",
+            "quantity": 4,
+            "unit": "kg",
+            "categoryPath": [
+              "Construcción",
+              "Pinturería",
+              "Protección de Superficies"
+            ]
+          }
+        }
+      ],
+      "selectedPrice": 2876.707,
+      "selectedSource": "Median"
     },
     {
       "id": "inodoro_corto_valvula",
@@ -2940,28 +3249,9 @@
       "name": "Adhesivo para cerámicos y porcelanatos 30kg",
       "category": "pegamentos",
       "unit": "bolsa",
-      "prices": [
-        {
-          "source": "CorralonFernandes",
-          "supplier": "Corralón Fernandes",
-          "price": 39103.89,
-          "currency": "ARS",
-          "unit": "bolsa",
-          "updatedAt": "2026-10-26",
-          "confidence": "low",
-          "url": "https://www.corralon-fernandes.com/adhesivos/161-adhesivo-sika-klaukol-grandes-piezas-porc-x-30-kg.html",
-          "notes": "Adhesivo - Sika Klaukol - Grandes Piezas Porc. X 30 Kg.",
-          "meta": {
-            "rawProductName": "Adhesivo - Sika Klaukol - Grandes Piezas Porc. X 30 Kg.",
-            "normalizedName": "adhesivo - sika klaukol - grandes piezas porc. x 30 kg.",
-            "sku": "161",
-            "quantity": 30,
-            "unit": "kg"
-          }
-        }
-      ],
-      "selectedPrice": 39103.89,
-      "selectedSource": "Median"
+      "prices": [],
+      "selectedPrice": null,
+      "selectedSource": null
     },
     {
       "id": "ladrillo_comun",
@@ -3218,9 +3508,30 @@
       "name": "Montante 69mm x 2.60m",
       "category": "perfileria",
       "unit": "unidad",
-      "prices": [],
-      "selectedPrice": null,
-      "selectedSource": null
+      "prices": [
+        {
+          "source": "SantaFeMateriales",
+          "supplier": "Santa Fe Materiales",
+          "price": 6619.02,
+          "currency": "ARS",
+          "unit": "unidad",
+          "updatedAt": "2026-10-26",
+          "confidence": "low",
+          "url": "https://tienda.santafemateriales.com.ar/search?q=montante%2069mm",
+          "notes": "MONTANTE 70mm KNAUF",
+          "meta": {
+            "rawProductName": "MONTANTE 70mm KNAUF",
+            "normalizedName": "montante 70mm knauf",
+            "sku": "181800780",
+            "categoryPath": [
+              "CONSTRUCCIÓN EN SECO Y YESERÍA",
+              "PERFILERIA"
+            ]
+          }
+        }
+      ],
+      "selectedPrice": 6619.02,
+      "selectedSource": "Median"
     },
     {
       "id": "solera_70",
@@ -3247,25 +3558,9 @@
               "PERFILERIA"
             ]
           }
-        },
-        {
-          "source": "CorralonFernandes",
-          "supplier": "Corralón Fernandes",
-          "price": 6239.62,
-          "currency": "ARS",
-          "unit": "unidad",
-          "updatedAt": "2026-10-26",
-          "confidence": "medium",
-          "url": "https://www.corralon-fernandes.com/drywall/239-cons-en-seco-p-solera-k-70-mm-x-260-mts.html",
-          "notes": "Cons. En Seco- P. Solera K 70 Mm.  X 2.60 Mts",
-          "meta": {
-            "rawProductName": "Cons. En Seco- P. Solera K 70 Mm.  X 2.60 Mts",
-            "normalizedName": "cons. en seco- p. solera k 70 mm. x 2.60 mts",
-            "sku": "239"
-          }
         }
       ],
-      "selectedPrice": 6045.610000000001,
+      "selectedPrice": 5851.6,
       "selectedSource": "Median"
     },
     {
@@ -3273,9 +3568,54 @@
       "name": "Aislante espuma con aluminio 10mm (rollo)",
       "category": "placas",
       "unit": "m2",
-      "prices": [],
-      "selectedPrice": null,
-      "selectedSource": null
+      "prices": [
+        {
+          "source": "SantaFeMateriales",
+          "supplier": "Santa Fe Materiales",
+          "price": 2417.6925,
+          "currency": "ARS",
+          "unit": "m2",
+          "updatedAt": "2026-10-26",
+          "confidence": "medium",
+          "url": "https://tienda.santafemateriales.com.ar/search?q=espuma%20aluminio%2010mm",
+          "notes": "MEMBRANA FERROHOUSE ESPUMA ALUMINIO SIMPLE 10 MM - 1X20 M",
+          "meta": {
+            "rawProductName": "MEMBRANA FERROHOUSE ESPUMA ALUMINIO SIMPLE 10 MM - 1X20 M",
+            "normalizedName": "membrana ferrohouse espuma aluminio simple 10 mm - 1x20 m",
+            "sku": "181800892",
+            "quantity": 20,
+            "unit": "m2",
+            "categoryPath": [
+              "TECHOS Y LOSA",
+              "AISLANTES Y LANA DE VIDRIO"
+            ]
+          }
+        },
+        {
+          "source": "SantaFeMateriales",
+          "supplier": "Santa Fe Materiales",
+          "price": 3436.6904999999997,
+          "currency": "ARS",
+          "unit": "m2",
+          "updatedAt": "2026-10-26",
+          "confidence": "medium",
+          "url": "https://tienda.santafemateriales.com.ar/search?q=espuma%20aluminio%2010mm",
+          "notes": "MEMBRANA THERMO ESPUMA DOBLE ALUMINIO 10 MM - 1X20 M",
+          "meta": {
+            "rawProductName": "MEMBRANA THERMO ESPUMA DOBLE ALUMINIO 10 MM - 1X20 M",
+            "normalizedName": "membrana thermo espuma doble aluminio 10 mm - 1x20 m",
+            "sku": "181800896",
+            "quantity": 20,
+            "unit": "m2",
+            "categoryPath": [
+              "TECHOS Y LOSA",
+              "AISLANTES Y LANA DE VIDRIO"
+            ]
+          }
+        }
+      ],
+      "selectedPrice": 2927.1915,
+      "selectedSource": "Median"
     },
     {
       "id": "cano_pvc_electrico_20mm",
