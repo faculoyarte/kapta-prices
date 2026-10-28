@@ -4,20 +4,20 @@
     "name": "Junelec",
     "city": "Rosario",
     "count": 1861,
-    "fetchedAt": "2026-10-26T22:38:10Z"
+    "fetchedAt": "2026-10-28T02:49:10Z"
   },
   {
     "sourceName": "Roselec",
     "name": "Roselec",
     "city": "Rosario",
     "count": 44,
-    "fetchedAt": "2026-10-26T22:21:23Z"
+    "fetchedAt": "2026-10-28T02:20:25Z"
   },
   {
     "sourceName": "SerraOnline",
     "name": "Serra Online",
     "city": "Rosario",
-    "count": 7434,
-    "fetchedAt": "2026-10-26T22:20:52Z"
+    "count": 7426,
+    "fetchedAt": "2026-10-28T02:19:52Z"
   }
 ]

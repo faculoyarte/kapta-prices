@@ -1,6 +1,6 @@
 {
   "store": {"sourceName":"Roselec","name":"Roselec","city":"Rosario","url":"https://roselecelectricidad.com.ar","platform":"tiendanube","pricesIncludeIva":true},
-  "fetchedAt": "2026-10-26T22:21:23Z",
+  "fetchedAt": "2026-10-28T02:20:25Z",
   "items": [
     {"id":"267307901","name":"Disyuntor interruptor diferencial Sica bipolar 25 A","price":39000,"url":"https://roselecelectricidad.com.ar/productos/disyuntor-interruptor-diferencial-sica-bipolar-25-a/","category":["Protecciones"],"brand":"Sica","inStock":true,"pack":null,"unitPrice":null},
     {"id":"267308716","name":"Disyuntor interruptor diferencial Sica bipolar 40 A","price":45000,"url":"https://roselecelectricidad.com.ar/productos/disyuntor-interruptor-diferencial-sica-bipolar-40-a/","category":["Protecciones"],"brand":"Sica","inStock":true,"pack":null,"unitPrice":null},

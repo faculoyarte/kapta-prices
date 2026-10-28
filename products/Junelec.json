@@ -1,6 +1,6 @@
 {
   "store": {"sourceName":"Junelec","name":"Junelec","city":"Rosario","url":"https://junelec.com.ar","platform":"woocommerce","pricesIncludeIva":true},
-  "fetchedAt": "2026-10-26T22:38:10Z",
+  "fetchedAt": "2026-10-28T02:49:10Z",
   "items": [
     {"id":"1480","name":"Timbre Inalámbrico Candela","price":8237.92,"url":"https://junelec.com.ar/producto/timbre-inalambrico-candela/","category":["Herramientas","Timbres y Porteros"],"brand":"CANDELA","inStock":true,"pack":null,"unitPrice":null},
     {"id":"1511","name":"Pila Alcalina AA Candela","price":573.33,"url":"https://junelec.com.ar/producto/pilas-aa-candela/","category":["Baterías y Pilas","Electricidad"],"brand":"CANDELA","inStock":true,"pack":null,"unitPrice":null},
