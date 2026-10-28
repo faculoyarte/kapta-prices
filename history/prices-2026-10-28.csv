@@ -1,0 +1,43 @@
+﻿id,name,category,unit,selectedPrice,selectedSource,manualExpired,carriedForward,minPrice,maxPrice,avgPrice,priceCount,generatedAt
+cemento_25kg,Cemento Portland 25kg,obra_gruesa,bolsa,8850,Median,,,8016.11,9000,8622.04,3,2026-10-28T02:01:04.017Z
+cemento_albanileria_25kg,Cemento de albañilería 25kg,obra_gruesa,bolsa,8250,Median,,,7500,10560.56,8666.23,4,2026-10-28T02:01:04.017Z
+cal_hidratada_25kg,Cal hidratada 25kg,obra_gruesa,bolsa,9596.895,Median,,,6300,15000,11450.89,8,2026-10-28T02:01:04.017Z
+ladrillo_hueco_18,Ladrillo hueco 18x18x33,mamposteria,unidad,1030.26,Median,,,883.22,1368,1092.87,4,2026-10-28T02:01:04.017Z
+arena_m3,Arena por m³,aridos,m3,40496.4725,Median,,,38515.07,43318.82,40977.47,4,2026-10-28T02:01:04.017Z
+cal_hidratada_kg,Cal hidratada,obra_gruesa,kg,334.20489999999995,Median,,,233.33333333333334,846.7919999999999,426.48,5,2026-10-28T02:01:04.017Z
+cal_aerea_kg,Cal aérea,obra_gruesa,kg,540.0626666666666,Median,,,233.33333333333334,846.7919999999999,450.44,3,2026-10-28T02:01:04.017Z
+hierro_del_6,Hierro nervurado Ø6mm (12m),hierros,barra,7072.985,Median,,,6700,7200.36,6948.66,3,2026-10-28T02:01:04.017Z
+hierro_del_8,Hierro nervurado Ø8mm (12m),hierros,barra,12172.56,Median,,,10500,12421.72,11615.04,3,2026-10-28T02:01:04.017Z
+nylon_200_micrones,Nylon 200 micrones (rollo por metro),obra_gruesa,m,1300,Manual,vencido,,1300,1300,1300,1,2026-10-28T02:01:04.017Z
+ceramico_calcareo_33x33,Cerámico calcáreo 33x33 (caja x10),ceramicos,caja,32699,Manual,vencido,,32699,32699,32699,1,2026-10-28T02:01:04.017Z
+porcelanato_60x60,Porcelanato 60x60,ceramicos,m2,34666.502,Median,,,14844.511111111111,71535.6,31271.94,8,2026-10-28T02:01:04.017Z
+revestimiento_brick_10x10,Revestimiento tipo Brick 10x10,ceramicos,m2,39208,Manual,vencido,,39208,39208,39208,1,2026-10-28T02:01:04.017Z
+microcemento_m2,Microcemento aplicado (insumo),revoques,m2,13018.782857142858,Median,,,13018.782857142858,32438,22728.39,2,2026-10-28T02:01:04.017Z
+piso_vinilico_spc_4mm,Piso vinílico SPC 4mm,placas,m2,44980,Manual,vencido,,44980,44980,44980,1,2026-10-28T02:01:04.017Z
+zocalo_eps_blanco,Zócalo EPS Cover 22x100x2400mm,perfileria,varilla,17254.79,Median,,,13271.24,21238.34,16928.53,3,2026-10-28T02:01:04.017Z
+placa_durlock_12_5,Placa Durlock 12.5mm 1.20x2.40,cielorraso_durlock,placa,28963.754999999997,Median,,,19111.64,75302.71,38085.47,4,2026-10-28T02:01:04.017Z
+lana_vidrio_50mm,Lana de vidrio 50mm (rollo),cielorraso_durlock,m2,8359.59537037037,Median,,,1973.7383333333335,13235.561111111112,7271.89,11,2026-10-28T02:01:04.017Z
+perfil_t_techo,Perfil T para techo liviano,cielorraso_durlock,ml,1797.3838797814208,Median,,,1608.327868852459,1991.934426229508,1781.60,6,2026-10-28T02:01:04.017Z
+moldura_buna_z,Moldura buña Z (perfil),perfileria,ml,1549.603846153846,Median,,,1549.603846153846,1549.603846153846,1549.60,1,2026-10-28T02:01:04.017Z
+chapa_sinusoidal_aislada,Chapa sinusoidal con aislación,cubiertas,m2,,,,,,,,0,2026-10-28T02:01:04.017Z
+latex_interior_20l,Látex interior balde 20L,pintura,balde,163595.655,Median,,,99999,260349.3,164857.02,14,2026-10-28T02:01:04.017Z
+enduido_plastico_30kg,Enduido plástico 30kg,pintura,balde,101131.2,Median,,,101131.2,101131.2,101131.20,1,2026-10-28T02:01:04.017Z
+hidrofugo_pegamento_kg,Hidrófugo / pegamento Sika,pegamentos,kg,3071.6135,Median,,,1450,5731.69,3070.17,18,2026-10-28T02:01:04.017Z
+inodoro_corto_valvula,Inodoro corto con válvula,sanitarios,unidad,203281.33500000002,Median,,,99328.28,891976.82,270706.76,9,2026-10-28T02:01:04.017Z
+bacha_apoyar_loza,Bacha de apoyar (loza),sanitarios,unidad,165257.785,Median,,,45119.58,545216.44,179440.22,27,2026-10-28T02:01:04.017Z
+griferia_monocomando_bacha,Grifería monocomando bacha,griferias,unidad,139500,Median,,,34470.01,251870.33,155301.23,29,2026-10-28T02:01:04.017Z
+rejilla_lineal_60,Rejilla lineal de ducha 60cm,sanitarios,unidad,59464.14,Median,,,52550,68383.75,59965.51,4,2026-10-28T02:01:04.017Z
+calefon_electrico_chico,Calefón eléctrico instantáneo (chico),plomeria,unidad,220000,Median,,,180000,526000,322000,3,2026-10-28T02:01:04.017Z
+spot_dicroica_led,Spot dicroico LED + caja cardánica,iluminacion,unidad,,,,,,,,0,2026-10-28T02:01:04.017Z
+pegamento_ceramico_30kg,Adhesivo para cerámicos y porcelanatos 30kg,pegamentos,bolsa,39103.89,Median,,,39103.89,39103.89,39103.89,1,2026-10-28T02:01:04.017Z
+ladrillo_comun,Ladrillo común macizo,mamposteria,unidad,18889.1,Median,,,317.99,37460.21,12700.07,3,2026-10-28T02:01:04.017Z
+masilla_placa_yeso_32kg,Masilla para placa de yeso 32kg,placas,balde,50988.8875,Median,,,24999,72761.4,51890.17,8,2026-10-28T02:01:04.017Z
+montante_69,Montante 69mm x 2.60m,perfileria,unidad,6751.97,Median,,,6619.02,6884.92,6751.97,2,2026-10-28T02:01:04.017Z
+solera_70,Solera 70mm x 2.60m,perfileria,unidad,6045.610000000001,Median,,,5851.6,6239.62,6045.61,2,2026-10-28T02:01:04.017Z
+aislante_aluminio_10mm,Aislante espuma con aluminio 10mm (rollo),placas,m2,3723.45225,Median,,,2417.6925,4519.713,3458.03,3,2026-10-28T02:01:04.017Z
+cano_pvc_electrico_20mm,Caño rígido PVC eléctrico 20mm (3m),electricidad,unidad,,,,,,,,0,2026-10-28T02:01:04.017Z
+toma_doble_con_tapa,Toma doble 10A con bastidor y tapa,electricidad,unidad,,,,,,,,0,2026-10-28T02:01:04.017Z
+termica_2x20a,Interruptor termomagnético 2x20A,electricidad,unidad,8760,Manual,vencido,,8760,8760,8760,1,2026-10-28T02:01:04.017Z
+fijador_sellador_20l,Fijador sellador al agua balde 20L,pintura,balde,73940.4,Median,,,63099.75,344426.4,109990.34,10,2026-10-28T02:01:04.017Z
+membrana_liquida_20kg,Membrana líquida para techos 20kg,cubiertas,balde,102838.61,Median,,,54999,197033.4,126416.33,12,2026-10-28T02:01:04.017Z
+wall_panel_eps,Wall panel EPS varillado 0.12x2.85m (tabla),placas,unidad,33015,Manual,vencido,,33015,33015,33015,1,2026-10-28T02:01:04.017Z
