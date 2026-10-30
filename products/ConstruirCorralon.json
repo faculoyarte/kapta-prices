@@ -1,0 +1,8 @@
+{
+  "store": {"sourceName":"ConstruirCorralon","name":"Construir Corralón","city":"Corrientes (por el teléfono)","url":"https://construircorralon.mitiendanube.com","platform":"tiendanube","pricesIncludeIva":true},
+  "fetchedAt": "2026-10-30T17:18:47Z",
+  "items": [
+    {"id":"229373956","name":"Cemento Portland Holcim x50 Kg","price":8800,"url":"https://construircorralon.mitiendanube.com/productos/cemento-portland-holcim-x50-kg/","category":["Cementos"],"inStock":true,"pack":{"quantity":50,"unit":"kg"},"unitPrice":{"value":176,"per":"kg"}},
+    {"id":"229681269","name":"Weber Pegamento Cerámico x 25 Kgs.","price":5100,"url":"https://construircorralon.mitiendanube.com/productos/weber-pegamento-ceramico-x-25-kgs/","category":["Pegamentos"],"inStock":true,"pack":{"quantity":25,"unit":"kg"},"unitPrice":{"value":204,"per":"kg"}}
+  ]
+}
