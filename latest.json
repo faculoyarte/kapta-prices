@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T02:54:41.478Z",
+  "generatedAt": "2026-11-06T17:06:15.247Z",
   "currency": "ARS",
   "items": [
     {
@@ -14,7 +14,7 @@
           "price": 9115,
           "currency": "ARS",
           "unit": "bolsa",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "high",
           "url": "https://tienda.santafemateriales.com.ar/search?q=cemento%2025kg",
           "notes": "CEMENTO LOMA NEGRA CPC 40 x 25kgs",
@@ -36,7 +36,7 @@
           "price": 8016.11,
           "currency": "ARS",
           "unit": "bolsa",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "high",
           "url": "https://arematpuerto.com.ar/producto/cemento-holcim-x-25-kgs/",
           "notes": "CEMENTO HOLCIM X 25 KGS | Aremat",
@@ -59,7 +59,7 @@
           "price": 9000,
           "currency": "ARS",
           "unit": "bolsa",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://laalianzacorralon.mitiendanube.com/search?q=cemento%2025kg",
           "notes": "Cemento Loma Negra 25kg",
@@ -87,7 +87,7 @@
           "price": 7604.34,
           "currency": "ARS",
           "unit": "bolsa",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "high",
           "url": "https://arematpuerto.com.ar/producto/cemento-de-albanileria-maestro-x-25-kgs/",
           "notes": "CEMENTO DE ALBAÑILERIA MAESTRO X 25 KGS | Aremat",
@@ -110,7 +110,7 @@
           "price": 7500,
           "currency": "ARS",
           "unit": "bolsa",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://laalianzacorralon.mitiendanube.com/search?q=cemento%20alba%C3%B1ileria%2025kg",
           "notes": "Cemento de Albañilería Plasticor 25kg",
@@ -128,7 +128,7 @@
           "price": 9000,
           "currency": "ARS",
           "unit": "bolsa",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://laalianzacorralon.mitiendanube.com/search?q=cemento%20alba%C3%B1ileria%2025kg",
           "notes": "Cemento Loma Negra 25kg",
@@ -139,27 +139,9 @@
             "quantity": 25,
             "unit": "kg"
           }
-        },
-        {
-          "source": "CorralonFernandes",
-          "supplier": "Corralón Fernandes",
-          "price": 10560.56,
-          "currency": "ARS",
-          "unit": "bolsa",
-          "updatedAt": "2026-11-04",
-          "confidence": "medium",
-          "url": "https://www.corralon-fernandes.com/cementos/151-caltex-cemento-alba%C3%B1ileria-x-25-kgrs-p-c-r-p80.html",
-          "notes": "Caltex Cemento Albañileria X 25 Kgrs P C R  (p.80)",
-          "meta": {
-            "rawProductName": "Caltex Cemento Albañileria X 25 Kgrs P C R  (p.80)",
-            "normalizedName": "caltex cemento albanileria x 25 kgrs p c r p.80",
-            "sku": "151",
-            "quantity": 25,
-            "unit": "kg"
-          }
         }
       ],
-      "selectedPrice": 8250,
+      "selectedPrice": 7927.17,
       "selectedSource": "Median"
     },
     {
@@ -181,10 +163,10 @@
         {
           "source": "SantaFeMateriales",
           "supplier": "Santa Fe Materiales",
-          "price": 10470.32,
+          "price": 10673.55,
           "currency": "ARS",
           "unit": "bolsa",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://tienda.santafemateriales.com.ar/search?q=cal%20hidratada%2025kg",
           "notes": "CAL HIDRATADA ANDINA X 25 Kgs",
@@ -206,7 +188,7 @@
           "price": 8832.9,
           "currency": "ARS",
           "unit": "bolsa",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=cal%20hidratada%2025kg",
           "notes": "CAL HIDRATADA CACIQUE MAX L.N X 25 KGS",
@@ -228,7 +210,7 @@
           "price": 7113.35,
           "currency": "ARS",
           "unit": "bolsa",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://arematpuerto.com.ar/producto/cal-hidratada-su-cal-x25kg/",
           "notes": "Cal hidratada SU-CAL x25kg | Aremat",
@@ -251,7 +233,7 @@
           "price": 14000,
           "currency": "ARS",
           "unit": "bolsa",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://laalianzacorralon.mitiendanube.com/search?q=cal%20hidratada%2025kg",
           "notes": "Revoque Fino Interior a la Cal Weber 25kg",
@@ -269,7 +251,7 @@
           "price": 15000,
           "currency": "ARS",
           "unit": "bolsa",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://laalianzacorralon.mitiendanube.com/search?q=cal%20hidratada%2025kg",
           "notes": "Revoque Fino Interior a la Cal Finoteix 25kg",
@@ -287,7 +269,7 @@
           "price": 15000,
           "currency": "ARS",
           "unit": "bolsa",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://laalianzacorralon.mitiendanube.com/search?q=cal%20hidratada%2025kg",
           "notes": "Revoque Fino Exterior a la Cal Finoteix 25kg",
@@ -305,7 +287,7 @@
           "price": 15000,
           "currency": "ARS",
           "unit": "bolsa",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://laalianzacorralon.mitiendanube.com/search?q=cal%20hidratada%2025kg",
           "notes": "Revoque Fino Exterior Cal y Cemento Weber 25kg",
@@ -318,7 +300,7 @@
           }
         }
       ],
-      "selectedPrice": 9651.61,
+      "selectedPrice": 9753.224999999999,
       "selectedSource": "Median"
     },
     {
@@ -343,9 +325,9 @@
           "price": 1368,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
-          "url": "https://tienda.santafemateriales.com.ar/search?q=ladrillon%2018",
+          "url": "https://tienda.santafemateriales.com.ar/search?q=ladrillo%20hueco%2018%2018%2033",
           "notes": "LAD.HUECO 18-18-33 PALMAR por unidad",
           "meta": {
             "rawProductName": "LAD.HUECO 18-18-33 PALMAR por unidad",
@@ -365,7 +347,7 @@
           "price": 1124.89,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://arematpuerto.com.ar/producto/ladrillos-18x18x33/",
           "notes": "Ladrillos 18x18x33 | Aremat",
@@ -377,25 +359,9 @@
               "Construcción"
             ]
           }
-        },
-        {
-          "source": "CorralonFernandes",
-          "supplier": "Corralón Fernandes",
-          "price": 883.22,
-          "currency": "ARS",
-          "unit": "unidad",
-          "updatedAt": "2026-11-04",
-          "confidence": "medium",
-          "url": "https://www.corralon-fernandes.com/ladrillos-ceramicos/354-ladrillo-ceramico-de-18-x-18-x-33.html",
-          "notes": "Ladrillo Ceramico De 18 X 18 X 33",
-          "meta": {
-            "rawProductName": "Ladrillo Ceramico De 18 X 18 X 33",
-            "normalizedName": "ladrillo ceramico de 18 x 18 x 33",
-            "sku": "354"
-          }
         }
       ],
-      "selectedPrice": 1124.89,
+      "selectedPrice": 1246.4450000000002,
       "selectedSource": "Median"
     },
     {
@@ -417,10 +383,10 @@
         {
           "source": "SantaFeMateriales",
           "supplier": "Santa Fe Materiales",
-          "price": 40193.333333333336,
+          "price": 40312,
           "currency": "ARS",
           "unit": "m3",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=arena%20m3",
           "notes": "BOLSÓN DE ARENA FINA X 3/4 M3 (NO INCLUYE FLETE Y GRÚA)- consultar costos de envío",
@@ -442,7 +408,7 @@
           "price": 38515.07,
           "currency": "ARS",
           "unit": "m3",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://arematpuerto.com.ar/producto/arepack-arena-x1-mt3-bolson/",
           "notes": "Arepack Arena x1 mt3 | Aremat",
@@ -465,7 +431,7 @@
           "price": 43318.82,
           "currency": "ARS",
           "unit": "m3",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://arematpuerto.com.ar/producto/arepack-arena-x1-2-mt3-bolson/",
           "notes": "Arepack Arena x1/2 mt3 | Aremat",
@@ -483,7 +449,7 @@
           }
         }
       ],
-      "selectedPrice": 40555.13916666667,
+      "selectedPrice": 40614.4725,
       "selectedSource": "Median"
     },
     {
@@ -495,10 +461,10 @@
         {
           "source": "SantaFeMateriales",
           "supplier": "Santa Fe Materiales",
-          "price": 418.8128,
+          "price": 426.94199999999995,
           "currency": "ARS",
           "unit": "kg",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=cal%20hidratada",
           "notes": "CAL HIDRATADA ANDINA X 25 Kgs",
@@ -520,7 +486,7 @@
           "price": 353.316,
           "currency": "ARS",
           "unit": "kg",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=cal%20hidratada",
           "notes": "CAL HIDRATADA CACIQUE MAX L.N X 25 KGS",
@@ -542,7 +508,7 @@
           "price": 284.534,
           "currency": "ARS",
           "unit": "kg",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://arematpuerto.com.ar/producto/cal-hidratada-su-cal-x25kg/",
           "notes": "Cal hidratada SU-CAL x25kg | Aremat",
@@ -565,7 +531,7 @@
           "price": 273.3333333333333,
           "currency": "ARS",
           "unit": "kg",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://laalianzacorralon.mitiendanube.com/search?q=cal%20hidratada",
           "notes": "Cal Hidráulica Cacique Max 30 kg (8 baldes)",
@@ -583,7 +549,7 @@
           "price": 846.7919999999999,
           "currency": "ARS",
           "unit": "kg",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://pintureriasmm.com.ar/search?q=cal%20hidratada",
           "notes": "Revoque Fino A La Cal Exterior 25 Kg 90-2760",
@@ -599,7 +565,7 @@
           }
         }
       ],
-      "selectedPrice": 335.2992,
+      "selectedPrice": 337.3315,
       "selectedSource": "Median"
     },
     {
@@ -624,7 +590,7 @@
           "price": 273.3333333333333,
           "currency": "ARS",
           "unit": "kg",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://laalianzacorralon.mitiendanube.com/search?q=cal%20aerea",
           "notes": "Cal Hidráulica Cacique Max 30 kg (8 baldes)",
@@ -642,7 +608,7 @@
           "price": 846.7919999999999,
           "currency": "ARS",
           "unit": "kg",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://pintureriasmm.com.ar/search?q=cal%20aerea",
           "notes": "Revoque Fino A La Cal Exterior 25 Kg 90-2760",
@@ -680,10 +646,10 @@
         {
           "source": "SantaFeMateriales",
           "supplier": "Santa Fe Materiales",
-          "price": 7011.32,
+          "price": 7077.02,
           "currency": "ARS",
           "unit": "barra",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=hierro%20del%206",
           "notes": "HIERRO NERVADO 6 mm.",
@@ -700,10 +666,10 @@
         {
           "source": "SantaFeMateriales",
           "supplier": "Santa Fe Materiales",
-          "price": 7268.58,
+          "price": 7336.8,
           "currency": "ARS",
           "unit": "barra",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=hierro%20del%206",
           "notes": "HIERRO LISO 6 mm.",
@@ -718,7 +684,7 @@
           }
         }
       ],
-      "selectedPrice": 7139.95,
+      "selectedPrice": 7206.91,
       "selectedSource": "Median"
     },
     {
@@ -740,10 +706,10 @@
         {
           "source": "SantaFeMateriales",
           "supplier": "Santa Fe Materiales",
-          "price": 12036.02,
+          "price": 12148.63,
           "currency": "ARS",
           "unit": "barra",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=hierro%20del%208",
           "notes": "HIERRO NERVADO 8 mm.",
@@ -760,10 +726,10 @@
         {
           "source": "SantaFeMateriales",
           "supplier": "Santa Fe Materiales",
-          "price": 12539.26,
+          "price": 12656.79,
           "currency": "ARS",
           "unit": "barra",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=hierro%20del%208",
           "notes": "HIERRO LISO 8 mm.",
@@ -778,7 +744,7 @@
           }
         }
       ],
-      "selectedPrice": 12287.64,
+      "selectedPrice": 12402.71,
       "selectedSource": "Median"
     },
     {
@@ -844,7 +810,7 @@
           "price": 14844.511111111111,
           "currency": "ARS",
           "unit": "m2",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://tienda.santafemateriales.com.ar/search?q=porcelanato%2060x60",
           "notes": "PORCELLANATO FORUM TIZA 60X60- PRECIO POR CAJA x 1.80M2",
@@ -861,97 +827,12 @@
           }
         },
         {
-          "source": "CorralonFernandes",
-          "supplier": "Corralón Fernandes",
-          "price": 42531.982,
-          "currency": "ARS",
-          "unit": "m2",
-          "updatedAt": "2026-11-04",
-          "confidence": "low",
-          "url": "https://www.corralon-fernandes.com/porcelanato-vite/574-porc-vite-liscio-ivory-pul-60x60-180-pkd.html",
-          "notes": "Porc. Vite Liscio   Ivory Pul.  60x60  (1.80)  Pk*d",
-          "meta": {
-            "rawProductName": "Porc. Vite Liscio   Ivory Pul.  60x60  (1.80)  Pk*d",
-            "normalizedName": "porc. vite liscio ivory pul. 60x60 1.80 pk d",
-            "sku": "574",
-            "unit": "m2"
-          }
-        },
-        {
-          "source": "CorralonFernandes",
-          "supplier": "Corralón Fernandes",
-          "price": 34666.502,
-          "currency": "ARS",
-          "unit": "m2",
-          "updatedAt": "2026-11-04",
-          "confidence": "low",
-          "url": "https://www.corralon-fernandes.com/porcelanato-ilva/603-porc-ilva-compac-neutral-rec-60x60-180.html",
-          "notes": "Porc. Ilva Compac Neutral Rec. 60x60 (1.80)",
-          "meta": {
-            "rawProductName": "Porc. Ilva Compac Neutral Rec. 60x60 (1.80)",
-            "normalizedName": "porc. ilva compac neutral rec. 60x60 1.80",
-            "sku": "603",
-            "unit": "m2"
-          }
-        },
-        {
-          "source": "CorralonFernandes",
-          "supplier": "Corralón Fernandes",
-          "price": 34666.502,
-          "currency": "ARS",
-          "unit": "m2",
-          "updatedAt": "2026-11-04",
-          "confidence": "low",
-          "url": "https://www.corralon-fernandes.com/porcelanato-ilva/604-porc-ilva-compac-evolution-rec-60x60-180.html",
-          "notes": "Porc. Ilva Compac Evolution Rec. 60x60 (1.80)",
-          "meta": {
-            "rawProductName": "Porc. Ilva Compac Evolution Rec. 60x60 (1.80)",
-            "normalizedName": "porc. ilva compac evolution rec. 60x60 1.80",
-            "sku": "604",
-            "unit": "m2"
-          }
-        },
-        {
-          "source": "CorralonFernandes",
-          "supplier": "Corralón Fernandes",
-          "price": 16760.382,
-          "currency": "ARS",
-          "unit": "m2",
-          "updatedAt": "2026-11-04",
-          "confidence": "low",
-          "url": "https://www.corralon-fernandes.com/ceramico-cortines/720-cer-cortines-portland-grey-60x60-216.html",
-          "notes": "Cer. Cortines Portland Grey  60x60 (2.16)",
-          "meta": {
-            "rawProductName": "Cer. Cortines Portland Grey  60x60 (2.16)",
-            "normalizedName": "cer. cortines portland grey 60x60 2.16",
-            "sku": "720",
-            "unit": "m2"
-          }
-        },
-        {
-          "source": "CorralonFernandes",
-          "supplier": "Corralón Fernandes",
-          "price": 15031.012,
-          "currency": "ARS",
-          "unit": "m2",
-          "updatedAt": "2026-11-04",
-          "confidence": "low",
-          "url": "https://www.corralon-fernandes.com/ceramico-cortines/735-cer-cortines-roma-grigio-60x60-144.html",
-          "notes": "Cer. Cortines Roma Grigio  60x60 (1.44)",
-          "meta": {
-            "rawProductName": "Cer. Cortines Roma Grigio  60x60 (1.44)",
-            "normalizedName": "cer. cortines roma grigio 60x60 1.44",
-            "sku": "735",
-            "unit": "m2"
-          }
-        },
-        {
           "source": "PintureriasMM",
           "supplier": "Pinturerías MM",
           "price": 71535.6,
           "currency": "ARS",
           "unit": "m2",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://pintureriasmm.com.ar/search?q=porcelanato%2060x60",
           "notes": "Porcelanato Domo Natural Rectificado 60x60 1ra Alberdi Mm (Natural)",
@@ -967,7 +848,7 @@
           }
         }
       ],
-      "selectedPrice": 34666.502,
+      "selectedPrice": 43190.05555555556,
       "selectedSource": "Median"
     },
     {
@@ -1014,7 +895,7 @@
           "price": 13018.782857142858,
           "currency": "ARS",
           "unit": "m2",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://pintureriasmm.com.ar/search?q=microcemento%20revestimiento",
           "notes": "Micropiso Microcemento Anclafloor Kit 35 M2 Anclaflex Mm (Hueso)",
@@ -1075,10 +956,10 @@
         {
           "source": "SantaFeMateriales",
           "supplier": "Santa Fe Materiales",
-          "price": 13400.49,
+          "price": 13529.74,
           "currency": "ARS",
           "unit": "varilla",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://tienda.santafemateriales.com.ar/search?q=zocalo%20eps",
           "notes": "ZOCALO DE PVC MOD. ZB 761 BLANCO",
@@ -1093,12 +974,32 @@
           }
         },
         {
-          "source": "ArematPuerto",
-          "supplier": "Aremat Puerto",
-          "price": 21238.34,
+          "source": "SantaFeMateriales",
+          "supplier": "Santa Fe Materiales",
+          "price": 8575,
           "currency": "ARS",
           "unit": "varilla",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
+          "confidence": "low",
+          "url": "https://tienda.santafemateriales.com.ar/search?q=zocalo%20eps",
+          "notes": "ZOCALO DE PVC TOP ROUND BLANCO 2.40M LARGO X 5.7CM ALTO",
+          "meta": {
+            "rawProductName": "ZOCALO DE PVC TOP ROUND BLANCO 2.40M LARGO X 5.7CM ALTO",
+            "normalizedName": "zocalo de pvc top round blanco 2.40m largo x 5.7cm alto",
+            "sku": "379163561",
+            "categoryPath": [
+              "CERAMICOS Y PORCELANATOS",
+              "GUARDAS - LISTELES - GUARDACANTOS"
+            ]
+          }
+        },
+        {
+          "source": "ArematPuerto",
+          "supplier": "Aremat Puerto",
+          "price": 22512.64,
+          "currency": "ARS",
+          "unit": "varilla",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://arematpuerto.com.ar/producto/atrim-adhesivo-rellenador-pro-fix-para-zocalos-de-eps-x420gr/",
           "notes": "Atrim adhesivo rellenador Pro-Fix para zocalos de EPS x420gr. | Aremat",
@@ -1114,10 +1015,10 @@
         {
           "source": "ArematPuerto",
           "supplier": "Aremat Puerto",
-          "price": 21588.16,
+          "price": 16850.27,
           "currency": "ARS",
           "unit": "varilla",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://arematpuerto.com.ar/producto/atrim-zocalo-reforme-line-blanco-mate-120-mm-244-m/",
           "notes": "Atrim Zócalo Reforme Line Blanco Mate 120 mm – 2,44 m | Aremat",
@@ -1131,7 +1032,7 @@
           }
         }
       ],
-      "selectedPrice": 17406.87,
+      "selectedPrice": 15366.9125,
       "selectedSource": "Median"
     },
     {
@@ -1146,7 +1047,7 @@
           "price": 75302.71,
           "currency": "ARS",
           "unit": "placa",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=durlock%2012.5",
           "notes": "PLACA SP GLASS 12.5MM 1.20-x 2.40 mts - KNAUF",
@@ -1166,7 +1067,7 @@
           "price": 19111.64,
           "currency": "ARS",
           "unit": "placa",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=durlock%2012.5",
           "notes": "PLACA DE YESO ST 12.5MM 1.20 x 2.40 mts - KNAUF",
@@ -1186,7 +1087,7 @@
           "price": 27111.85,
           "currency": "ARS",
           "unit": "placa",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=placa%20yeso%2012.5",
           "notes": "PLACA DE YESO RESISTENTE AL FUEGO 12.50 MM 1.20 x 2.40 mts - KNAUF",
@@ -1206,7 +1107,7 @@
           "price": 30815.66,
           "currency": "ARS",
           "unit": "placa",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=placa%20yeso%2012.5",
           "notes": "PLACA DE YESO KNAUF PYRH - RESISTENTE A LA HUMEDAD - 12.5MM 1.2 X2.4 mts",
@@ -1236,7 +1137,7 @@
           "price": 9268.21527777778,
           "currency": "ARS",
           "unit": "m2",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=lana%20vidrio%2050",
           "notes": "LANA DE VIDRIO C/ALUMINIO INROTS 50mm 1.20x18m",
@@ -1255,10 +1156,10 @@
         {
           "source": "SantaFeMateriales",
           "supplier": "Santa Fe Materiales",
-          "price": 8359.59537037037,
+          "price": 9373.667592592592,
           "currency": "ARS",
           "unit": "m2",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=lana%20vidrio%2050",
           "notes": "LANA DE VIDRIO ISOVER ROLAC PLATA HR DE 50 MM (21,60m2)",
@@ -1280,7 +1181,7 @@
           "price": 6795.3601851851845,
           "currency": "ARS",
           "unit": "m2",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=lana%20vidrio%2050",
           "notes": "LANA DE VIDRIO 50mm. (C/PAPEL KRAFT) 1,20 X 18 MTS. (21,6 M2)",
@@ -1302,7 +1203,7 @@
           "price": 6279.845138888889,
           "currency": "ARS",
           "unit": "m2",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://arematpuerto.com.ar/producto/lana-de-vidrio-rolac-plata-cubierta-50mmx12mt-144m2-por-rollo/",
           "notes": "Lana de Vidrio Rolac plata cubierta 50mmx12mt (14,4m2 por rollo) | Aremat",
@@ -1325,7 +1226,7 @@
           "price": 2699.1383333333333,
           "currency": "ARS",
           "unit": "m2",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://arematpuerto.com.ar/producto/lana-de-vidrio-acustiver-r-50mmx2184mt-2-rollos/",
           "notes": "Lana de vidrio Acustiver R 50mmx21mt (84m2) | Aremat",
@@ -1348,7 +1249,7 @@
           "price": 1973.7383333333335,
           "currency": "ARS",
           "unit": "m2",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://arematpuerto.com.ar/producto/lana-de-vidrio-fieltro-sin-revestimiento-50mmx216mt/",
           "notes": "Lana de Vidrio fieltro sin revestimiento 50mmx21mt (60m2) | Aremat",
@@ -1371,7 +1272,7 @@
           "price": 13235.561111111112,
           "currency": "ARS",
           "unit": "m2",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://arematpuerto.com.ar/producto/lana-de-vidrio-acustiver-r-100mmx9mt-2-rollos/",
           "notes": "Lana de vidrio Acustiver R 100mmx9mt (9m2) | Aremat",
@@ -1394,7 +1295,7 @@
           "price": 3202.3898333333336,
           "currency": "ARS",
           "unit": "m2",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://arematpuerto.com.ar/producto/lana-de-vidrio-acustiver-r-70mmx1560mt-2-rollos/",
           "notes": "Lana de vidrio Acustiver R 70mmx15mt (60m2) | Aremat",
@@ -1417,7 +1318,7 @@
           "price": 9569.304,
           "currency": "ARS",
           "unit": "m2",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://arematpuerto.com.ar/producto/lana-de-vidrio-isovertech-galpon-45mmx20mt/",
           "notes": "Lana de vidrio Isovertech galpón 45mmx20mt (20m2) | Aremat",
@@ -1433,45 +1334,9 @@
               "Aislación"
             ]
           }
-        },
-        {
-          "source": "CorralonFernandes",
-          "supplier": "Corralón Fernandes",
-          "price": 11432.584027777779,
-          "currency": "ARS",
-          "unit": "m2",
-          "updatedAt": "2026-11-04",
-          "confidence": "medium",
-          "url": "https://www.corralon-fernandes.com/lanas-de-vidrio/400-lana-de-vidrio-50-mm-c-alum-120x12-mts-.html",
-          "notes": "Lana De Vidrio  50 Mm C/alum.  1,20x12 Mts. **",
-          "meta": {
-            "rawProductName": "Lana De Vidrio  50 Mm C/alum.  1,20x12 Mts. **",
-            "normalizedName": "lana de vidrio 50 mm c/alum. 1,20x12 mts.",
-            "sku": "400",
-            "quantity": 14.399999999999999,
-            "unit": "m2"
-          }
-        },
-        {
-          "source": "CorralonFernandes",
-          "supplier": "Corralón Fernandes",
-          "price": 7865.193055555557,
-          "currency": "ARS",
-          "unit": "m2",
-          "updatedAt": "2026-11-04",
-          "confidence": "medium",
-          "url": "https://www.corralon-fernandes.com/lanas-de-vidrio/403-lana-de-vidrio-50-mm-simple-120x18-mts.html",
-          "notes": "Lana De Vidrio  50 Mm Simple    1,20x18 Mts.",
-          "meta": {
-            "rawProductName": "Lana De Vidrio  50 Mm Simple    1,20x18 Mts.",
-            "normalizedName": "lana de vidrio 50 mm simple 1,20x18 mts.",
-            "sku": "403",
-            "quantity": 21.599999999999998,
-            "unit": "m2"
-          }
         }
       ],
-      "selectedPrice": 8359.59537037037,
+      "selectedPrice": 7004.666381944446,
       "selectedSource": "Median"
     },
     {
@@ -1483,10 +1348,10 @@
         {
           "source": "SantaFeMateriales",
           "supplier": "Santa Fe Materiales",
-          "price": 1734.0655737704917,
+          "price": 1750.7923497267757,
           "currency": "ARS",
           "unit": "ml",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://tienda.santafemateriales.com.ar/search?q=larguero",
           "notes": "LN36 LARGUERO 24x28x3660",
@@ -1503,10 +1368,10 @@
         {
           "source": "SantaFeMateriales",
           "supplier": "Santa Fe Materiales",
-          "price": 1678.122950819672,
+          "price": 1694.311475409836,
           "currency": "ARS",
           "unit": "ml",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://tienda.santafemateriales.com.ar/search?q=traves",
           "notes": "TN12 TRAVESAÑO LARGO",
@@ -1523,10 +1388,10 @@
         {
           "source": "SantaFeMateriales",
           "supplier": "Santa Fe Materiales",
-          "price": 1790.0000000000002,
+          "price": 1807.2622950819673,
           "currency": "ARS",
           "unit": "ml",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://tienda.santafemateriales.com.ar/search?q=traves",
           "notes": "TN06 TRAVESAÑO CORTO",
@@ -1539,57 +1404,9 @@
               "CIELORASO DESMONTABLE"
             ]
           }
-        },
-        {
-          "source": "CorralonFernandes",
-          "supplier": "Corralón Fernandes",
-          "price": 1779.01912568306,
-          "currency": "ARS",
-          "unit": "ml",
-          "updatedAt": "2026-11-04",
-          "confidence": "low",
-          "url": "https://www.corralon-fernandes.com/desmontables/240-cons-en-seco-p-larguero-26-mm-x-366-ml.html",
-          "notes": "Cons. En Seco- P. Larguero 26 Mm X 3.66 Ml",
-          "meta": {
-            "rawProductName": "Cons. En Seco- P. Larguero 26 Mm X 3.66 Ml",
-            "normalizedName": "cons. en seco- p. larguero 26 mm x 3.66 ml",
-            "sku": "240"
-          }
-        },
-        {
-          "source": "CorralonFernandes",
-          "supplier": "Corralón Fernandes",
-          "price": 1991.934426229508,
-          "currency": "ARS",
-          "unit": "ml",
-          "updatedAt": "2026-11-04",
-          "confidence": "low",
-          "url": "https://www.corralon-fernandes.com/desmontables/241-cons-en-seco-p-traves-corto-26mm-x-061m.html",
-          "notes": "Cons. En Seco- P. Traves. Corto 26mm X 0.61m",
-          "meta": {
-            "rawProductName": "Cons. En Seco- P. Traves. Corto 26mm X 0.61m",
-            "normalizedName": "cons. en seco- p. traves. corto 26mm x 0.61m",
-            "sku": "241"
-          }
-        },
-        {
-          "source": "CorralonFernandes",
-          "supplier": "Corralón Fernandes",
-          "price": 1932.8278688524592,
-          "currency": "ARS",
-          "unit": "ml",
-          "updatedAt": "2026-11-04",
-          "confidence": "low",
-          "url": "https://www.corralon-fernandes.com/desmontables/242-cons-en-seco-p-traves-largo-26mm-x-122m.html",
-          "notes": "Cons. En Seco- P. Traves. Largo 26mm X 1.22m",
-          "meta": {
-            "rawProductName": "Cons. En Seco- P. Traves. Largo 26mm X 1.22m",
-            "normalizedName": "cons. en seco- p. traves. largo 26mm x 1.22m",
-            "sku": "242"
-          }
         }
       ],
-      "selectedPrice": 1833.4467213114754,
+      "selectedPrice": 1750.7923497267757,
       "selectedSource": "Median"
     },
     {
@@ -1601,10 +1418,10 @@
         {
           "source": "SantaFeMateriales",
           "supplier": "Santa Fe Materiales",
-          "price": 1564.6961538461537,
+          "price": 1579.7923076923078,
           "currency": "ARS",
           "unit": "ml",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=buna%20z",
           "notes": "BUÑA \" Z\" PERIMETRAL KNAUF 2.60 mts",
@@ -1619,7 +1436,7 @@
           }
         }
       ],
-      "selectedPrice": 1564.6961538461537,
+      "selectedPrice": 1579.7923076923078,
       "selectedSource": "Median"
     },
     {
@@ -1643,7 +1460,7 @@
           "price": 185759.91,
           "currency": "ARS",
           "unit": "balde",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://arematpuerto.com.ar/producto/acrilmex-interior-x20lts-rodillo-de-regalo/",
           "notes": "Quimex Látex Acrilmex interior x20lts + ¡rodillo de regalo! | Aremat",
@@ -1664,7 +1481,7 @@
           "price": 179242,
           "currency": "ARS",
           "unit": "balde",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "high",
           "url": "https://pintureriasmm.com.ar/search?q=latex%20interior%2020l",
           "notes": "Látex Interior Lavable Tersuave Mate Blanco 20L",
@@ -1687,7 +1504,7 @@
           "price": 208070.1,
           "currency": "ARS",
           "unit": "balde",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "high",
           "url": "https://pintureriasmm.com.ar/search?q=latex%20interior%2020l",
           "notes": "Latex Interior Alto Rendimiento 20l Color Blanco Polacrin Mm (Blanco)",
@@ -1710,7 +1527,7 @@
           "price": 260349.3,
           "currency": "ARS",
           "unit": "balde",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "high",
           "url": "https://pintureriasmm.com.ar/search?q=latex%20interior%2020l",
           "notes": "Latex Plavicon Interior Satinado 20l Bco Pintumm",
@@ -1733,7 +1550,7 @@
           "price": 116800,
           "currency": "ARS",
           "unit": "balde",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "high",
           "url": "https://pintureriasmm.com.ar/search?q=latex%20interior%2020l",
           "notes": "Latex Plavicon Interior Mate 20l Bco Pintumm",
@@ -1756,7 +1573,7 @@
           "price": 141431.4,
           "currency": "ARS",
           "unit": "balde",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://pintureriasmm.com.ar/search?q=latex%20interior%2020l",
           "notes": "Látex Pintura King Interior/exterior Sinteplast 20l Pintumm (Blanco)",
@@ -1778,7 +1595,7 @@
           "price": 141431.4,
           "currency": "ARS",
           "unit": "balde",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://pintureriasmm.com.ar/search?q=latex%20interior%2020l",
           "notes": "Látex Pintura King Interior/exterior Sinteplast 20l Pintumm",
@@ -1800,7 +1617,7 @@
           "price": 141431.4,
           "currency": "ARS",
           "unit": "balde",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://pintureriasmm.com.ar/search?q=latex%20interior%2020l",
           "notes": "Látex Pintura King Interior/exterior Sinteplast 20l Pintumm",
@@ -1822,7 +1639,7 @@
           "price": 171000,
           "currency": "ARS",
           "unit": "balde",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "high",
           "url": "https://pintureriasmm.com.ar/search?q=latex%20interior%2020l",
           "notes": "Latex Recuplast Interior Superlavable 20l Mate Sinteplast Mm (Blanco)",
@@ -1845,7 +1662,7 @@
           "price": 141431.4,
           "currency": "ARS",
           "unit": "balde",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://pintureriasmm.com.ar/search?q=latex%20interior%2020l",
           "notes": "Látex Pintura King Interior/exterior Sinteplast 20l Pintumm",
@@ -1867,7 +1684,7 @@
           "price": 222370.2,
           "currency": "ARS",
           "unit": "balde",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "high",
           "url": "https://pintureriasmm.com.ar/search?q=latex%20interior%2020l",
           "notes": "Latex Interior Emocion Mate Colorin Color Blanco 20lts",
@@ -1890,7 +1707,7 @@
           "price": 99999,
           "currency": "ARS",
           "unit": "balde",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "high",
           "url": "https://pintureriasmm.com.ar/search?q=alba%20latex",
           "notes": "Alba Latex Profesional Interior Constructor 20 L Proteccion",
@@ -1913,7 +1730,7 @@
           "price": 108999,
           "currency": "ARS",
           "unit": "balde",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "high",
           "url": "https://pintureriasmm.com.ar/search?q=alba%20latex",
           "notes": "Alba Latex Profesional Interior Exterior Constructor 20lt Mm (Mate, Blanco)",
@@ -1933,10 +1750,10 @@
         {
           "source": "PintureriasMM",
           "supplier": "Pinturerías MM",
-          "price": 184900,
+          "price": 171690,
           "currency": "ARS",
           "unit": "balde",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "high",
           "url": "https://pintureriasmm.com.ar/search?q=alba%20latex",
           "notes": "Pintura Latex Albalatex Mate 20 Litros Alba Mm (Mate, Blanco)",
@@ -1959,7 +1776,7 @@
           "price": 107799,
           "currency": "ARS",
           "unit": "balde",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://pintureriasmm.com.ar/search?q=quimtex%20latex",
           "notes": "Tersuave Profesional 20 Lts Latex Interior Mate",
@@ -1982,7 +1799,7 @@
           "price": 145523.7,
           "currency": "ARS",
           "unit": "balde",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://pintureriasmm.com.ar/search?q=quimtex%20latex",
           "notes": "Colorín Acrylatex Interior Antihongo Látex 20 Lts",
@@ -2015,7 +1832,7 @@
           "price": 101131.2,
           "currency": "ARS",
           "unit": "balde",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "high",
           "url": "https://pintureriasmm.com.ar/search?q=enduido%2030kg",
           "notes": "Enduido Exterior Interior Alba standard 30kg Especial Obras",
@@ -2048,7 +1865,7 @@
           "price": 1581.7967,
           "currency": "ARS",
           "unit": "kg",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://arematpuerto.com.ar/producto/ceresita-x200kg/",
           "notes": "Hidrófugo Ceresita x200kg | Aremat",
@@ -2071,7 +1888,7 @@
           "price": 2876.707,
           "currency": "ARS",
           "unit": "kg",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://arematpuerto.com.ar/producto/ceresita-x10kg/",
           "notes": "Hidrófugo Ceresita x10kg | Aremat",
@@ -2094,7 +1911,7 @@
           "price": 2418.5195,
           "currency": "ARS",
           "unit": "kg",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://arematpuerto.com.ar/producto/ceresita-x20kg/",
           "notes": "Hidrófugo Ceresita x20kg | Aremat",
@@ -2117,7 +1934,7 @@
           "price": 4940.14,
           "currency": "ARS",
           "unit": "kg",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://arematpuerto.com.ar/producto/ceresita-x1kg/",
           "notes": "Hidrófugo Ceresita x1kg | Aremat",
@@ -2140,7 +1957,7 @@
           "price": 3251.8975,
           "currency": "ARS",
           "unit": "kg",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://arematpuerto.com.ar/producto/ceresita-x4kg/",
           "notes": "Hidrófugo Ceresita x4kg | Aremat",
@@ -2163,7 +1980,7 @@
           "price": 4125,
           "currency": "ARS",
           "unit": "kg",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://laalianzacorralon.mitiendanube.com/search?q=hidrofugo%20sika",
           "notes": "Aditivo Hidrófugo Ceresita Weber 4kg",
@@ -2181,7 +1998,7 @@
           "price": 3350,
           "currency": "ARS",
           "unit": "kg",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://laalianzacorralon.mitiendanube.com/search?q=hidrofugo%20sika",
           "notes": "Aditivo Hidrófugo Ceresita Weber 10kg",
@@ -2199,7 +2016,7 @@
           "price": 2350,
           "currency": "ARS",
           "unit": "kg",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://laalianzacorralon.mitiendanube.com/search?q=hidrofugo%20sika",
           "notes": "Aditivo Hidrófugo Ceresita Weber 20kg",
@@ -2217,7 +2034,7 @@
           "price": 1675,
           "currency": "ARS",
           "unit": "kg",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://laalianzacorralon.mitiendanube.com/search?q=hidrofugo%20sika",
           "notes": "Aditivo Hidrófugo para Morteros Sinteplast 20kg",
@@ -2235,7 +2052,7 @@
           "price": 1780,
           "currency": "ARS",
           "unit": "kg",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://laalianzacorralon.mitiendanube.com/search?q=hidrofugo%20sika",
           "notes": "Aditivo Hidrófugo para Morteros Sinteplast 5kg",
@@ -2253,7 +2070,7 @@
           "price": 2750,
           "currency": "ARS",
           "unit": "kg",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://laalianzacorralon.mitiendanube.com/search?q=hidrofugo%20sika",
           "notes": "Aditivo Hidrófugo para Morteros Sinteplast 1kg",
@@ -2271,7 +2088,7 @@
           "price": 1450,
           "currency": "ARS",
           "unit": "kg",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://laalianzacorralon.mitiendanube.com/search?q=hidrofugo%20sika",
           "notes": "Aditivo Hidrófugo Ceresita Weber 200kg",
@@ -2284,84 +2101,12 @@
           }
         },
         {
-          "source": "CorralonFernandes",
-          "supplier": "Corralón Fernandes",
-          "price": 3069.4314999999997,
-          "currency": "ARS",
-          "unit": "kg",
-          "updatedAt": "2026-11-04",
-          "confidence": "low",
-          "url": "https://www.corralon-fernandes.com/hidrofugos/396-hidrofugo-ceresita-en-pasta-x-20-kg-weber.html",
-          "notes": "Hidrofugo Ceresita En Pasta X 20 Kg. - Weber",
-          "meta": {
-            "rawProductName": "Hidrofugo Ceresita En Pasta X 20 Kg. - Weber",
-            "normalizedName": "hidrofugo ceresita en pasta x 20 kg. - weber",
-            "sku": "396",
-            "quantity": 20,
-            "unit": "kg"
-          }
-        },
-        {
-          "source": "CorralonFernandes",
-          "supplier": "Corralón Fernandes",
-          "price": 5731.69,
-          "currency": "ARS",
-          "unit": "kg",
-          "updatedAt": "2026-11-04",
-          "confidence": "low",
-          "url": "https://www.corralon-fernandes.com/hidrofugos/397-hidrofugo-ceresita-en-pasta-x-1-kg-weber.html",
-          "notes": "Hidrofugo Ceresita En Pasta X  1 Kg. - Weber",
-          "meta": {
-            "rawProductName": "Hidrofugo Ceresita En Pasta X  1 Kg. - Weber",
-            "normalizedName": "hidrofugo ceresita en pasta x 1 kg. - weber",
-            "sku": "397",
-            "quantity": 1,
-            "unit": "kg"
-          }
-        },
-        {
-          "source": "CorralonFernandes",
-          "supplier": "Corralón Fernandes",
-          "price": 3988.26,
-          "currency": "ARS",
-          "unit": "kg",
-          "updatedAt": "2026-11-04",
-          "confidence": "low",
-          "url": "https://www.corralon-fernandes.com/hidrofugos/398-hidrofugo-ceresita-en-pasta-x-4-kg-weber.html",
-          "notes": "Hidrofugo Ceresita En Pasta X  4 Kg. - Weber",
-          "meta": {
-            "rawProductName": "Hidrofugo Ceresita En Pasta X  4 Kg. - Weber",
-            "normalizedName": "hidrofugo ceresita en pasta x 4 kg. - weber",
-            "sku": "398",
-            "quantity": 4,
-            "unit": "kg"
-          }
-        },
-        {
-          "source": "CorralonFernandes",
-          "supplier": "Corralón Fernandes",
-          "price": 3391.5019999999995,
-          "currency": "ARS",
-          "unit": "kg",
-          "updatedAt": "2026-11-04",
-          "confidence": "low",
-          "url": "https://www.corralon-fernandes.com/hidrofugos/399-hidrofugo-ceresita-en-pasta-x-10-kg-weber.html",
-          "notes": "Hidrofugo Ceresita En Pasta X 10 Kg. - Weber",
-          "meta": {
-            "rawProductName": "Hidrofugo Ceresita En Pasta X 10 Kg. - Weber",
-            "normalizedName": "hidrofugo ceresita en pasta x 10 kg. - weber",
-            "sku": "399",
-            "quantity": 10,
-            "unit": "kg"
-          }
-        },
-        {
           "source": "PintureriasMM",
           "supplier": "Pinturerías MM",
           "price": 3246.09,
           "currency": "ARS",
           "unit": "kg",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://pintureriasmm.com.ar/search?q=hidrofugo%20sika",
           "notes": "Ceresita Weber Hidrofugo 20 K Pasta Pared Exterior Pisotecho",
@@ -2383,7 +2128,7 @@
           "price": 3286.95,
           "currency": "ARS",
           "unit": "kg",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://pintureriasmm.com.ar/search?q=hidrofugo%20sika",
           "notes": "Ceresita Weber Hidrofugo 4 K Pasta Pared Exterior Piso Techo",
@@ -2401,7 +2146,7 @@
           }
         }
       ],
-      "selectedPrice": 3071.6135,
+      "selectedPrice": 2876.707,
       "selectedSource": "Median"
     },
     {
@@ -2416,7 +2161,7 @@
           "price": 192264,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=inodoro%20corto",
           "notes": "INODORO CORTO BLANCO BARI - IKCM-B",
@@ -2436,7 +2181,7 @@
           "price": 213787.8,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://arematpuerto.com.ar/producto/sanitario-jade-corto-inodoro-corto-deposito-de-colgar-2/",
           "notes": "Sanitario Jade corto. Inodoro corto + depósito de colgar. | Aremat",
@@ -2455,7 +2200,7 @@
           "price": 99328.28,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://arematpuerto.com.ar/producto/inodoro-corto-andina/",
           "notes": "Inodoro corto Andina | Aremat",
@@ -2474,7 +2219,7 @@
           "price": 250000,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://laalianzacorralon.mitiendanube.com/search?q=inodoro%20corto",
           "notes": "Válvula Automática Descarga Inodoro Fv Pressmatic",
@@ -2483,89 +2228,9 @@
             "normalizedName": "valvula automatica descarga inodoro fv pressmatic",
             "sku": "365"
           }
-        },
-        {
-          "source": "CorralonFernandes",
-          "supplier": "Corralón Fernandes",
-          "price": 150579.12,
-          "currency": "ARS",
-          "unit": "unidad",
-          "updatedAt": "2026-11-04",
-          "confidence": "medium",
-          "url": "https://www.corralon-fernandes.com/ferrum/218-ferrum-andina-inodoro-corto-ifa-ifam.html",
-          "notes": "Ferrum Andina Inodoro Corto Ifa/ifam",
-          "meta": {
-            "rawProductName": "Ferrum Andina Inodoro Corto Ifa/ifam",
-            "normalizedName": "ferrum andina inodoro corto ifa/ifam",
-            "sku": "218"
-          }
-        },
-        {
-          "source": "CorralonFernandes",
-          "supplier": "Corralón Fernandes",
-          "price": 214298.67,
-          "currency": "ARS",
-          "unit": "unidad",
-          "updatedAt": "2026-11-04",
-          "confidence": "medium",
-          "url": "https://www.corralon-fernandes.com/ferrum/446-ferrum-bari-inodoro-corto-ikcm.html",
-          "notes": "Ferrum Bari Inodoro Corto Ikcm",
-          "meta": {
-            "rawProductName": "Ferrum Bari Inodoro Corto Ikcm",
-            "normalizedName": "ferrum bari inodoro corto ikcm",
-            "sku": "446"
-          }
-        },
-        {
-          "source": "CorralonFernandes",
-          "supplier": "Corralón Fernandes",
-          "price": 182597.62,
-          "currency": "ARS",
-          "unit": "unidad",
-          "updatedAt": "2026-11-04",
-          "confidence": "low",
-          "url": "https://www.corralon-fernandes.com/ferrum/219-ferrum-andina-inodoro-largo-ialm-ialq-alqe.html",
-          "notes": "Ferrum Andina Inodoro Largo Ialm/ialq/alqe",
-          "meta": {
-            "rawProductName": "Ferrum Andina Inodoro Largo Ialm/ialq/alqe",
-            "normalizedName": "ferrum andina inodoro largo ialm/ialq/alqe",
-            "sku": "219"
-          }
-        },
-        {
-          "source": "CorralonFernandes",
-          "supplier": "Corralón Fernandes",
-          "price": 241528.51,
-          "currency": "ARS",
-          "unit": "unidad",
-          "updatedAt": "2026-11-04",
-          "confidence": "low",
-          "url": "https://www.corralon-fernandes.com/ferrum/440-ferrum-bari-inodoro-largo-iklm.html",
-          "notes": "Ferrum Bari Inodoro Largo Iklm",
-          "meta": {
-            "rawProductName": "Ferrum Bari Inodoro Largo Iklm",
-            "normalizedName": "ferrum bari inodoro largo iklm",
-            "sku": "440"
-          }
-        },
-        {
-          "source": "CorralonFernandes",
-          "supplier": "Corralón Fernandes",
-          "price": 891976.82,
-          "currency": "ARS",
-          "unit": "unidad",
-          "updatedAt": "2026-11-04",
-          "confidence": "low",
-          "url": "https://www.corralon-fernandes.com/ferrum/593-ferrum-marina-bc-inodoro-largo-ihlmj.html",
-          "notes": "Ferrum Marina Bc Inodoro Largo  Ihlmj",
-          "meta": {
-            "rawProductName": "Ferrum Marina Bc Inodoro Largo  Ihlmj",
-            "normalizedName": "ferrum marina bc inodoro largo ihlmj",
-            "sku": "593"
-          }
         }
       ],
-      "selectedPrice": 203281.33500000002,
+      "selectedPrice": 192264,
       "selectedSource": "Median"
     },
     {
@@ -2591,7 +2256,7 @@
           "price": 135369.45,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=bacha%20apoyar",
           "notes": "BACHA APOYAR-PERSIS CHICA CELESTE - L17KF-CE",
@@ -2611,7 +2276,7 @@
           "price": 109059.72,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=bacha%20apoyar",
           "notes": "BACHA APOYAR - TORI RECTANGULAR SLIM - LK435-B",
@@ -2631,7 +2296,7 @@
           "price": 392247.38,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://tienda.santafemateriales.com.ar/search?q=bacha%20apoyar",
           "notes": "DEPOSITO DE APOYAR DESCARGA DUAL- VENETO - DTW6F B",
@@ -2651,7 +2316,7 @@
           "price": 382772,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://tienda.santafemateriales.com.ar/search?q=bacha%20apoyar",
           "notes": "DEPOSITO DE APOYAR DESCARGA DUAL- TRENTO - DEW6F-B",
@@ -2671,7 +2336,7 @@
           "price": 197646,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://tienda.santafemateriales.com.ar/search?q=bacha%20apoyar",
           "notes": "DEPOSITO DE APOYAR DESCARGA DUAL BLANCO BARI - DKW6F-B",
@@ -2691,7 +2356,7 @@
           "price": 105925.82,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=bacha%20apoyar",
           "notes": "BACHA APOYAR-PERSIS GRANDE BLANCA - LWPF - B",
@@ -2711,7 +2376,7 @@
           "price": 195146.12,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://tienda.santafemateriales.com.ar/search?q=bacha%20siena",
           "notes": "BACHA DE APOYO CITERA NEGRA - LWZF - N",
@@ -2731,7 +2396,7 @@
           "price": 112693.89,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://tienda.santafemateriales.com.ar/search?q=bacha%20siena",
           "notes": "BACHA DE APOYO PERSIS NARANJA - LWPF - OA",
@@ -2751,7 +2416,7 @@
           "price": 109255.38,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://tienda.santafemateriales.com.ar/search?q=bacha%20siena",
           "notes": "BACHA DE APOYO PERSIS UVA - LWPF - UV",
@@ -2771,7 +2436,7 @@
           "price": 86308.43,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://arematpuerto.com.ar/producto/bacha-apoyo-persis-grande-blanco-ferrum/",
           "notes": "Bacha apoyo Persis grande Blanco Ferrum | Aremat",
@@ -2791,7 +2456,7 @@
           "price": 45119.58,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://arematpuerto.com.ar/producto/bacha-esquel-bajomesada-armonica-blanco-ferrum/",
           "notes": "Bacha esquel bajomesada Armonica Blanco Ferrum | Aremat",
@@ -2811,7 +2476,7 @@
           "price": 137398.77,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://arematpuerto.com.ar/producto/bacha-apoyo-tori-cuadra-slim-blanco-ferrum/",
           "notes": "Bacha apoyo Tori cuadra Slim Blanco Ferrum | Aremat",
@@ -2831,7 +2496,7 @@
           "price": 65472,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://arematpuerto.com.ar/producto/bacha-apoyo-persis-chica-blanco-ferrum/",
           "notes": "Bacha apoyo Persis chica Blanco Ferrum | Aremat",
@@ -2851,7 +2516,7 @@
           "price": 164099.53,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://arematpuerto.com.ar/producto/bacha-apoyo-tori-37x37-cuadra-blanco-ferrum/",
           "notes": "Bacha apoyo Tori 37x37 cuadra Blanco Ferrum | Aremat",
@@ -2871,7 +2536,7 @@
           "price": 164162.12,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://arematpuerto.com.ar/producto/bacha-apoyo-tori-grande-3-agujeros-cuadra-blanco-ferrum/",
           "notes": "Bacha apoyo Tori grande 3 agujeros cuadra Blanco Ferrum | Aremat",
@@ -2891,7 +2556,7 @@
           "price": 170000,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://laalianzacorralon.mitiendanube.com/search?q=bacha%20apoyar",
           "notes": "Bacha De Cocina 60 X 42Cm Lusqtoff Bchl60-8 Acero Inoxidable Acero Inoxidable - LUSQTOFF",
@@ -2901,140 +2566,12 @@
           }
         },
         {
-          "source": "CorralonFernandes",
-          "supplier": "Corralón Fernandes",
-          "price": 545216.44,
-          "currency": "ARS",
-          "unit": "unidad",
-          "updatedAt": "2026-11-04",
-          "confidence": "medium",
-          "url": "https://www.corralon-fernandes.com/bachas/606-ferrum-bacha-country-baja-ii-ng-apoyar-60x34-lk390ns.html",
-          "notes": "Ferrum Bacha Country Baja Ii Ng Apoyar 60x34  Lk390ns",
-          "meta": {
-            "rawProductName": "Ferrum Bacha Country Baja Ii Ng Apoyar 60x34  Lk390ns",
-            "normalizedName": "ferrum bacha country baja ii ng apoyar 60x34 lk390ns",
-            "sku": "606"
-          }
-        },
-        {
-          "source": "CorralonFernandes",
-          "supplier": "Corralón Fernandes",
-          "price": 166753.13,
-          "currency": "ARS",
-          "unit": "unidad",
-          "updatedAt": "2026-11-04",
-          "confidence": "medium",
-          "url": "https://www.corralon-fernandes.com/bachas/618-ferrum-bacha-milos-estrella-apoyar-48x48x12-lk422-b.html",
-          "notes": "Ferrum Bacha Milos Estrella Apoyar 48x48x12  Lk422-b",
-          "meta": {
-            "rawProductName": "Ferrum Bacha Milos Estrella Apoyar 48x48x12  Lk422-b",
-            "normalizedName": "ferrum bacha milos estrella apoyar 48x48x12 lk422-b",
-            "sku": "618"
-          }
-        },
-        {
-          "source": "CorralonFernandes",
-          "supplier": "Corralón Fernandes",
-          "price": 168038.24,
-          "currency": "ARS",
-          "unit": "unidad",
-          "updatedAt": "2026-11-04",
-          "confidence": "medium",
-          "url": "https://www.corralon-fernandes.com/bachas/620-ferrum-bacha-milos-cilindrica-apoyar-43cm-lwbf-b.html",
-          "notes": "Ferrum Bacha Milos Cilindrica Apoyar 43cm  Lwbf-b",
-          "meta": {
-            "rawProductName": "Ferrum Bacha Milos Cilindrica Apoyar 43cm  Lwbf-b",
-            "normalizedName": "ferrum bacha milos cilindrica apoyar 43cm lwbf-b",
-            "sku": "620"
-          }
-        },
-        {
-          "source": "CorralonFernandes",
-          "supplier": "Corralón Fernandes",
-          "price": 144519.38,
-          "currency": "ARS",
-          "unit": "unidad",
-          "updatedAt": "2026-11-04",
-          "confidence": "low",
-          "url": "https://www.corralon-fernandes.com/bachas/465-ferrum-bacha-persis-blanca-355x164mm-lwpf-b.html",
-          "notes": "Ferrum Bacha Persis Blanca 355x164mm       Lwpf-b",
-          "meta": {
-            "rawProductName": "Ferrum Bacha Persis Blanca 355x164mm       Lwpf-b",
-            "normalizedName": "ferrum bacha persis blanca 355x164mm lwpf-b",
-            "sku": "465"
-          }
-        },
-        {
-          "source": "CorralonFernandes",
-          "supplier": "Corralón Fernandes",
-          "price": 139107.45,
-          "currency": "ARS",
-          "unit": "unidad",
-          "updatedAt": "2026-11-04",
-          "confidence": "low",
-          "url": "https://www.corralon-fernandes.com/bachas/529-piazza-bacha-de-apoyo-385x385x140-a-423bl-slim.html",
-          "notes": "Piazza Bacha De Apoyo 385x385x140  A-423bl Slim",
-          "meta": {
-            "rawProductName": "Piazza Bacha De Apoyo 385x385x140  A-423bl Slim",
-            "normalizedName": "piazza bacha de apoyo 385x385x140 a-423bl slim",
-            "sku": "529"
-          }
-        },
-        {
-          "source": "CorralonFernandes",
-          "supplier": "Corralón Fernandes",
-          "price": 119484.17,
-          "currency": "ARS",
-          "unit": "unidad",
-          "updatedAt": "2026-11-04",
-          "confidence": "low",
-          "url": "https://www.corralon-fernandes.com/bachas/595-ferrum-bacha-persis-blanca-ch-320x120mm-l17kf-b.html",
-          "notes": "Ferrum Bacha Persis Blanca-ch 320x120mm  L17kf-b",
-          "meta": {
-            "rawProductName": "Ferrum Bacha Persis Blanca-ch 320x120mm  L17kf-b",
-            "normalizedName": "ferrum bacha persis blanca-ch 320x120mm l17kf-b",
-            "sku": "595"
-          }
-        },
-        {
-          "source": "CorralonFernandes",
-          "supplier": "Corralón Fernandes",
-          "price": 153426.22,
-          "currency": "ARS",
-          "unit": "unidad",
-          "updatedAt": "2026-11-04",
-          "confidence": "low",
-          "url": "https://www.corralon-fernandes.com/bachas/596-ferrum-bacha-milos-andros-41cm-lfbf-b.html",
-          "notes": "Ferrum Bacha Milos Andros 41cm  Lfbf-b",
-          "meta": {
-            "rawProductName": "Ferrum Bacha Milos Andros 41cm  Lfbf-b",
-            "normalizedName": "ferrum bacha milos andros 41cm lfbf-b",
-            "sku": "596"
-          }
-        },
-        {
-          "source": "CorralonFernandes",
-          "supplier": "Corralón Fernandes",
-          "price": 182961.53,
-          "currency": "ARS",
-          "unit": "unidad",
-          "updatedAt": "2026-11-04",
-          "confidence": "low",
-          "url": "https://www.corralon-fernandes.com/bachas/646-ferrum-bacha-persis-negra-gr-355x164mm-lwpf-n.html",
-          "notes": "Ferrum Bacha Persis Negra-gr 355x164mm  Lwpf-n",
-          "meta": {
-            "rawProductName": "Ferrum Bacha Persis Negra-gr 355x164mm  Lwpf-n",
-            "normalizedName": "ferrum bacha persis negra-gr 355x164mm lwpf-n",
-            "sku": "646"
-          }
-        },
-        {
           "source": "PintureriasMM",
           "supplier": "Pinturerías MM",
           "price": 197207.1,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://pintureriasmm.com.ar/search?q=bacha%20apoyar",
           "notes": "Bacha Porcelana Sanitaria Baño De Apoyar Redonda Piazza Mm",
@@ -3050,7 +2587,7 @@
           }
         }
       ],
-      "selectedPrice": 160089.675,
+      "selectedPrice": 152684.725,
       "selectedSource": "Median"
     },
     {
@@ -3065,7 +2602,7 @@
           "price": 187983.8,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=griferia%20monocomando%20bacha",
           "notes": "GRIFERIA MONOCOMANDO PEIRANO SANTANDER",
@@ -3085,7 +2622,7 @@
           "price": 34470.01,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=griferia%20monocomando%20bacha",
           "notes": "GRIFERIA MONOCOMANDO BAJO FAUCET CROMO",
@@ -3105,7 +2642,7 @@
           "price": 193321.84,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=griferia%20monocomando%20bacha",
           "notes": "GRIFERIA MONOCOMANDO PICO CUADRADO PEIRANO MARBELLA",
@@ -3122,10 +2659,10 @@
         {
           "source": "SantaFeMateriales",
           "supplier": "Santa Fe Materiales",
-          "price": 213878.56,
+          "price": 224572.49,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=griferia%20monocomando%20bacha",
           "notes": "GRIFERÍA MONOCOMANDO DISCOVERY PICO RECTO CROMO",
@@ -3142,10 +2679,10 @@
         {
           "source": "SantaFeMateriales",
           "supplier": "Santa Fe Materiales",
-          "price": 245959.88,
+          "price": 258258.36,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=griferia%20monocomando%20bacha",
           "notes": "GRIFERÍA MONOCOMANDO DISCOVERY PICO RECTO BLACK",
@@ -3162,10 +2699,10 @@
         {
           "source": "SantaFeMateriales",
           "supplier": "Santa Fe Materiales",
-          "price": 196018.62,
+          "price": 205819.55,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=griferia%20monocomando%20bacha",
           "notes": "GRIFERÍA MONOCOMANDO DISCOVERY PICO CURVO CROM",
@@ -3182,10 +2719,30 @@
         {
           "source": "SantaFeMateriales",
           "supplier": "Santa Fe Materiales",
-          "price": 251870.33,
+          "price": 236692.49,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
+          "confidence": "medium",
+          "url": "https://tienda.santafemateriales.com.ar/search?q=griferia%20monocomando%20bacha",
+          "notes": "GRIFERÍA MONOCOMANDO DISCOVERY PICO CURVO BLACK",
+          "meta": {
+            "rawProductName": "GRIFERÍA MONOCOMANDO DISCOVERY PICO CURVO BLACK",
+            "normalizedName": "griferia monocomando discovery pico curvo black",
+            "sku": "181801618",
+            "categoryPath": [
+              "GRIFERÍAS",
+              "GRIFERÍA DE COCINA"
+            ]
+          }
+        },
+        {
+          "source": "SantaFeMateriales",
+          "supplier": "Santa Fe Materiales",
+          "price": 264462.43,
+          "currency": "ARS",
+          "unit": "unidad",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=griferia%20monocomando%20bacha",
           "notes": "GRIFERÍA MONOCOMANDO COCINA JOCKEY PICO RECTO BLACK",
@@ -3202,36 +2759,16 @@
         {
           "source": "SantaFeMateriales",
           "supplier": "Santa Fe Materiales",
-          "price": 225422.61,
+          "price": 211620.51,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=griferia%20monocomando%20bacha",
-          "notes": "GRIFERÍA MONOCOMANDO HIDROMET DISCOVERY PICO CURVO BLACK",
+          "notes": "GRIFERÍA MONOCOMANDO COCINA JOCKEY PICO CURVO CROMO",
           "meta": {
-            "rawProductName": "GRIFERÍA MONOCOMANDO HIDROMET DISCOVERY PICO CURVO BLACK",
-            "normalizedName": "griferia monocomando hidromet discovery pico curvo black",
-            "sku": "181801618",
-            "categoryPath": [
-              "GRIFERÍAS",
-              "GRIFERÍA DE COCINA"
-            ]
-          }
-        },
-        {
-          "source": "SantaFeMateriales",
-          "supplier": "Santa Fe Materiales",
-          "price": 201543.34,
-          "currency": "ARS",
-          "unit": "unidad",
-          "updatedAt": "2026-11-04",
-          "confidence": "medium",
-          "url": "https://tienda.santafemateriales.com.ar/search?q=griferia%20monocomando%20bacha",
-          "notes": "GRIFERÍA MONOCOMANDO COCINA HIDROMET JOCKEY PICO CURVO CROMO",
-          "meta": {
-            "rawProductName": "GRIFERÍA MONOCOMANDO COCINA HIDROMET JOCKEY PICO CURVO CROMO",
-            "normalizedName": "griferia monocomando cocina hidromet jockey pico curvo cromo",
+            "rawProductName": "GRIFERÍA MONOCOMANDO COCINA JOCKEY PICO CURVO CROMO",
+            "normalizedName": "griferia monocomando cocina jockey pico curvo cromo",
             "sku": "181801607",
             "categoryPath": [
               "GRIFERÍAS",
@@ -3242,16 +2779,16 @@
         {
           "source": "SantaFeMateriales",
           "supplier": "Santa Fe Materiales",
-          "price": 231773.75,
+          "price": 243363.58,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=griferia%20monocomando%20bacha",
-          "notes": "GRIFERÍA MONOCOMANDO COCINA HIDROMET JOCKEY PICO CURVO BLACK",
+          "notes": "GRIFERÍA MONOCOMANDO COCINA JOCKEY PICO CURVO BLACK",
           "meta": {
-            "rawProductName": "GRIFERÍA MONOCOMANDO COCINA HIDROMET JOCKEY PICO CURVO BLACK",
-            "normalizedName": "griferia monocomando cocina hidromet jockey pico curvo black",
+            "rawProductName": "GRIFERÍA MONOCOMANDO COCINA JOCKEY PICO CURVO BLACK",
+            "normalizedName": "griferia monocomando cocina jockey pico curvo black",
             "sku": "181801609",
             "categoryPath": [
               "GRIFERÍAS",
@@ -3262,10 +2799,10 @@
         {
           "source": "SantaFeMateriales",
           "supplier": "Santa Fe Materiales",
-          "price": 61677.13,
+          "price": 70928.7,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=monocomando%20lavatorio",
           "notes": "GRIFERIA LAVATORIO MONOCOMANDO SMALL CROMO",
@@ -3282,10 +2819,10 @@
         {
           "source": "SantaFeMateriales",
           "supplier": "Santa Fe Materiales",
-          "price": 103304.35,
+          "price": 103303.99,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=monocomando%20lavatorio",
           "notes": "GRIFERÍA LAVATORIO MONOCOMANDO FLAT BLACK",
@@ -3302,10 +2839,10 @@
         {
           "source": "SantaFeMateriales",
           "supplier": "Santa Fe Materiales",
-          "price": 126063.74,
+          "price": 134888.21,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=monocomando%20lavatorio",
           "notes": "GRIFERIA LAVATORIO RAPTOR MONOCOMANDO CROMO HIDROMET",
@@ -3322,10 +2859,10 @@
         {
           "source": "SantaFeMateriales",
           "supplier": "Santa Fe Materiales",
-          "price": 144972.01,
+          "price": 155121.44,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=monocomando%20lavatorio",
           "notes": "GRIFERIA LAVATORIO RAPTOR MONOCOMANDO BLACK HIDROMET",
@@ -3342,10 +2879,10 @@
         {
           "source": "SantaFeMateriales",
           "supplier": "Santa Fe Materiales",
-          "price": 152128.06,
+          "price": 159734.45,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=monocomando%20lavatorio",
           "notes": "GRIFERÍA LAVATORIO MEDIO MONOCOMANDO FLAT CROMO",
@@ -3362,10 +2899,30 @@
         {
           "source": "SantaFeMateriales",
           "supplier": "Santa Fe Materiales",
-          "price": 169031.18,
+          "price": 146787.66,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
+          "confidence": "medium",
+          "url": "https://tienda.santafemateriales.com.ar/search?q=monocomando%20lavatorio",
+          "notes": "GRIFERÍA LAVATORIO ALTO MONOCOMANDO FLAT CROMO",
+          "meta": {
+            "rawProductName": "GRIFERÍA LAVATORIO ALTO MONOCOMANDO FLAT CROMO",
+            "normalizedName": "griferia lavatorio alto monocomando flat cromo",
+            "sku": "181801585",
+            "categoryPath": [
+              "GRIFERÍAS",
+              "GRIFERÍA DE BAÑO"
+            ]
+          }
+        },
+        {
+          "source": "SantaFeMateriales",
+          "supplier": "Santa Fe Materiales",
+          "price": 177482.61,
+          "currency": "ARS",
+          "unit": "unidad",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=monocomando%20lavatorio",
           "notes": "GRIFERÍA LAVATORIO MEDIO MONOCOMANDO FLAT BLACK",
@@ -3382,16 +2939,36 @@
         {
           "source": "SantaFeMateriales",
           "supplier": "Santa Fe Materiales",
-          "price": 211739.39,
+          "price": 168805.81,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=monocomando%20lavatorio",
-          "notes": "GRIFERIA LAVATORIO ALTO HIDROMET RAPTOR MONOCOMANDO BLACK",
+          "notes": "GRIFERÍA LAVATORIO ALTO MONOCOMANDO FLAT BLACK",
           "meta": {
-            "rawProductName": "GRIFERIA LAVATORIO ALTO HIDROMET RAPTOR MONOCOMANDO BLACK",
-            "normalizedName": "griferia lavatorio alto hidromet raptor monocomando black",
+            "rawProductName": "GRIFERÍA LAVATORIO ALTO MONOCOMANDO FLAT BLACK",
+            "normalizedName": "griferia lavatorio alto monocomando flat black",
+            "sku": "181801602",
+            "categoryPath": [
+              "GRIFERÍAS",
+              "GRIFERÍA DE BAÑO"
+            ]
+          }
+        },
+        {
+          "source": "SantaFeMateriales",
+          "supplier": "Santa Fe Materiales",
+          "price": 218091.31,
+          "currency": "ARS",
+          "unit": "unidad",
+          "updatedAt": "2026-11-06",
+          "confidence": "medium",
+          "url": "https://tienda.santafemateriales.com.ar/search?q=monocomando%20lavatorio",
+          "notes": "GRIFERIA LAVATORIO ALTO RAPTOR MONOCOMANDO BLACK HIDROMET",
+          "meta": {
+            "rawProductName": "GRIFERIA LAVATORIO ALTO RAPTOR MONOCOMANDO BLACK HIDROMET",
+            "normalizedName": "griferia lavatorio alto raptor monocomando black hidromet",
             "sku": "181801414",
             "categoryPath": [
               "GRIFERÍAS",
@@ -3405,7 +2982,7 @@
           "price": 137914.72,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=monocomando%20lavatorio",
           "notes": "GRIFERÍA LAVATORIO DE PARED MONOCOMANDO FLAT CROMO",
@@ -3422,50 +2999,10 @@
         {
           "source": "SantaFeMateriales",
           "supplier": "Santa Fe Materiales",
-          "price": 146787.66,
-          "currency": "ARS",
-          "unit": "unidad",
-          "updatedAt": "2026-11-04",
-          "confidence": "medium",
-          "url": "https://tienda.santafemateriales.com.ar/search?q=monocomando%20lavatorio",
-          "notes": "GRIFERÍA LAVATORIO ALTO MONOCOMANDO HIDROMET FLAT CROMO",
-          "meta": {
-            "rawProductName": "GRIFERÍA LAVATORIO ALTO MONOCOMANDO HIDROMET FLAT CROMO",
-            "normalizedName": "griferia lavatorio alto monocomando hidromet flat cromo",
-            "sku": "181801585",
-            "categoryPath": [
-              "GRIFERÍAS",
-              "GRIFERÍA DE BAÑO"
-            ]
-          }
-        },
-        {
-          "source": "SantaFeMateriales",
-          "supplier": "Santa Fe Materiales",
-          "price": 158602.34,
-          "currency": "ARS",
-          "unit": "unidad",
-          "updatedAt": "2026-11-04",
-          "confidence": "medium",
-          "url": "https://tienda.santafemateriales.com.ar/search?q=monocomando%20lavatorio",
-          "notes": "GRIFERÍA LAVATORIO DE PARED MONOCOMANDO FLAT BLACK",
-          "meta": {
-            "rawProductName": "GRIFERÍA LAVATORIO DE PARED MONOCOMANDO FLAT BLACK",
-            "normalizedName": "griferia lavatorio de pared monocomando flat black",
-            "sku": "181801596",
-            "categoryPath": [
-              "GRIFERÍAS",
-              "GRIFERÍA DE BAÑO"
-            ]
-          }
-        },
-        {
-          "source": "SantaFeMateriales",
-          "supplier": "Santa Fe Materiales",
           "price": 76816,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=fv%20monocomando",
           "notes": "GRIFERIA MESADA MONOCOMANDO PEIRANO BETIS",
@@ -3482,10 +3019,10 @@
         {
           "source": "SantaFeMateriales",
           "supplier": "Santa Fe Materiales",
-          "price": 88715.56,
+          "price": 93151.85,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=fv%20monocomando",
           "notes": "GRIFERÍA BIDET WIN MONOCOMANDO CROMO",
@@ -3502,10 +3039,10 @@
         {
           "source": "SantaFeMateriales",
           "supplier": "Santa Fe Materiales",
-          "price": 166706.92,
+          "price": 178376.41,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://tienda.santafemateriales.com.ar/search?q=fv%20monocomando",
           "notes": "GRIFERIA BIDET RAPTOR MONOCOMANDO CROMO HIDROMET",
@@ -3525,7 +3062,7 @@
           "price": 109185.12,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://arematpuerto.com.ar/producto/griferia-ultragrift-monocomando-lavatorio-logan/",
           "notes": "Griferia Ultragrift Monocomando Lavatorio Logan | Aremat",
@@ -3545,7 +3082,7 @@
           "price": 94522.37,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://arematpuerto.com.ar/producto/griferia-ultragrift-monocomando-lavatorio-argos-bajo/",
           "notes": "Griferia Ultragrift Monocomando Lavatorio Argos Bajo | Aremat",
@@ -3565,7 +3102,7 @@
           "price": 143616.75,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://arematpuerto.com.ar/producto/griferiaultragrift-monocomando-lavatorio-argo-alto/",
           "notes": "GriferiaUltragrift Monocomando Lavatorio Argo Alto | Aremat",
@@ -3585,7 +3122,7 @@
           "price": 140505.41,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://arematpuerto.com.ar/producto/griferia-roca-monocomando-tiub-lavatorio-bajo/",
           "notes": "Griferia Roca Monocomando Tiub Lavatorio Bajo | Aremat",
@@ -3602,10 +3139,10 @@
         {
           "source": "LaAlianzaCorralon",
           "supplier": "La Alianza Corralón",
-          "price": 129600,
+          "price": 144000,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://laalianzacorralon.mitiendanube.com/search?q=monocomando%20lavatorio",
           "notes": "Juego monocomando para mesada de cocina 0411.02/B1 Arizona",
@@ -3617,10 +3154,10 @@
         {
           "source": "LaAlianzaCorralon",
           "supplier": "La Alianza Corralón",
-          "price": 139500,
+          "price": 155000,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://laalianzacorralon.mitiendanube.com/search?q=monocomando%20lavatorio",
           "notes": "Juego monocomando para mesada de cocina 0411.04/I1 Inox One",
@@ -3630,7 +3167,7 @@
           }
         }
       ],
-      "selectedPrice": 134550,
+      "selectedPrice": 149500,
       "selectedSource": "Median"
     },
     {
@@ -3652,10 +3189,10 @@
         {
           "source": "ArematPuerto",
           "supplier": "Aremat Puerto",
-          "price": 59464.14,
+          "price": 63031.99,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://arematpuerto.com.ar/producto/arim-desague-lineal-rio-de-cero-inoxidable-onda-mate-45cm/",
           "notes": "Arim Desague Lineal Río de cero inoxidable Onda mate 45cm | Aremat",
@@ -3672,10 +3209,10 @@
         {
           "source": "ArematPuerto",
           "supplier": "Aremat Puerto",
-          "price": 59464.14,
+          "price": 63031.99,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://arematpuerto.com.ar/producto/atrim-desague-lineal-rio-de-acero-inox-clasico-mate-45cm/",
           "notes": "Atrim Desague lineal Río de acero inox. clásico mate 45cm | Aremat",
@@ -3692,10 +3229,10 @@
         {
           "source": "ArematPuerto",
           "supplier": "Aremat Puerto",
-          "price": 68383.75,
+          "price": 72486.77,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://arematpuerto.com.ar/producto/atrim-desague-lineal-rio-de-acero-inox-clasico-mate-60cm/",
           "notes": "Atrim Desague lineal Río de acero inox. clásico mate 60cm | Aremat",
@@ -3710,7 +3247,7 @@
           }
         }
       ],
-      "selectedPrice": 59464.14,
+      "selectedPrice": 63031.99,
       "selectedSource": "Median"
     },
     {
@@ -3735,7 +3272,7 @@
           "price": 243000,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://laalianzacorralon.mitiendanube.com/search?q=calefon%20electrico",
           "notes": "Calefón Eléctrico Compacto Pro Blanco KLOSS",
@@ -3747,10 +3284,10 @@
         {
           "source": "LaAlianzaCorralon",
           "supplier": "La Alianza Corralón",
-          "price": 166500,
+          "price": 185000,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://laalianzacorralon.mitiendanube.com/search?q=calefon%20electrico",
           "notes": "Calefón Eléctrico Compacto Gris KLOSS EN EFECTIVO, DÉBITO, TRANSFERENCIA, TARJETA 1 PAGO.",
@@ -3760,7 +3297,7 @@
           }
         }
       ],
-      "selectedPrice": 204750,
+      "selectedPrice": 214000,
       "selectedSource": "Median"
     },
     {
@@ -3777,28 +3314,9 @@
       "name": "Adhesivo para cerámicos y porcelanatos 30kg",
       "category": "pegamentos",
       "unit": "bolsa",
-      "prices": [
-        {
-          "source": "CorralonFernandes",
-          "supplier": "Corralón Fernandes",
-          "price": 39103.89,
-          "currency": "ARS",
-          "unit": "bolsa",
-          "updatedAt": "2026-11-04",
-          "confidence": "low",
-          "url": "https://www.corralon-fernandes.com/adhesivos/161-adhesivo-sika-klaukol-grandes-piezas-porc-x-30-kg.html",
-          "notes": "Adhesivo - Sika Klaukol - Grandes Piezas Porc. X 30 Kg.",
-          "meta": {
-            "rawProductName": "Adhesivo - Sika Klaukol - Grandes Piezas Porc. X 30 Kg.",
-            "normalizedName": "adhesivo - sika klaukol - grandes piezas porc. x 30 kg.",
-            "sku": "161",
-            "quantity": 30,
-            "unit": "kg"
-          }
-        }
-      ],
-      "selectedPrice": 39103.89,
-      "selectedSource": "Median"
+      "prices": [],
+      "selectedPrice": null,
+      "selectedSource": null
     },
     {
       "id": "ladrillo_comun",
@@ -3816,12 +3334,34 @@
           "notes": "Ladrillo común (10 por 3.220). Sin proveedor anotado. Precio pagado en una obra del estudio."
         },
         {
+          "source": "SantaFeMateriales",
+          "supplier": "Santa Fe Materiales",
+          "price": 38687.15,
+          "currency": "ARS",
+          "unit": "unidad",
+          "updatedAt": "2026-11-06",
+          "confidence": "medium",
+          "url": "https://tienda.santafemateriales.com.ar/search?q=ladrillo%20comun",
+          "notes": "LADRILLOS COMUNES - POR 100 unidades",
+          "meta": {
+            "rawProductName": "LADRILLOS COMUNES - POR 100 unidades",
+            "normalizedName": "ladrillos comunes - por 100 unidades",
+            "sku": "181800528",
+            "unit": "unidad",
+            "categoryPath": [
+              "MATERIALES DE OBRA GRUESA",
+              "LADRILLOS Y BLOQUES",
+              "LADRILLOS COMUNES"
+            ]
+          }
+        },
+        {
           "source": "ArematPuerto",
           "supplier": "Aremat Puerto",
           "price": 317.99,
           "currency": "ARS",
           "unit": "unidad",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://arematpuerto.com.ar/producto/ladrillo-comun-por-unidad/",
           "notes": "Ladrillo común 12x25 | Aremat",
@@ -3837,7 +3377,7 @@
           }
         }
       ],
-      "selectedPrice": 317.99,
+      "selectedPrice": 19502.57,
       "selectedSource": "Median"
     },
     {
@@ -3847,12 +3387,56 @@
       "unit": "balde",
       "prices": [
         {
+          "source": "SantaFeMateriales",
+          "supplier": "Santa Fe Materiales",
+          "price": 40912.83,
+          "currency": "ARS",
+          "unit": "balde",
+          "updatedAt": "2026-11-06",
+          "confidence": "low",
+          "url": "https://tienda.santafemateriales.com.ar/search?q=masilla%20durlock%2032kg",
+          "notes": "MASILLA P/JUNTAS KNAUF 32Kg-BALDE",
+          "meta": {
+            "rawProductName": "MASILLA P/JUNTAS KNAUF 32Kg-BALDE",
+            "normalizedName": "masilla p/juntas knauf 32kg-balde",
+            "sku": "181800813",
+            "quantity": 32,
+            "unit": "kg",
+            "categoryPath": [
+              "CONSTRUCCIÓN EN SECO Y YESERÍA",
+              "MASILLAS - ADHESIVOS - CINTAS"
+            ]
+          }
+        },
+        {
+          "source": "SantaFeMateriales",
+          "supplier": "Santa Fe Materiales",
+          "price": 43666.57,
+          "currency": "ARS",
+          "unit": "balde",
+          "updatedAt": "2026-11-06",
+          "confidence": "low",
+          "url": "https://tienda.santafemateriales.com.ar/search?q=masilla%20durlock%2032kg",
+          "notes": "MASILLA PARA JUNTAS Y TERMINACIÓN KNAUF X 32KG",
+          "meta": {
+            "rawProductName": "MASILLA PARA JUNTAS Y TERMINACIÓN KNAUF X 32KG",
+            "normalizedName": "masilla para juntas y terminacion knauf x 32kg",
+            "sku": "334448904",
+            "quantity": 32,
+            "unit": "kg",
+            "categoryPath": [
+              "CONSTRUCCIÓN EN SECO Y YESERÍA",
+              "MASILLAS - ADHESIVOS - CINTAS"
+            ]
+          }
+        },
+        {
           "source": "PintureriasMM",
           "supplier": "Pinturerías MM",
           "price": 71143.2,
           "currency": "ARS",
           "unit": "balde",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://pintureriasmm.com.ar/search?q=masilla%20durlock%2032kg",
           "notes": "Masilla Placas De Yeso Durlock 32kg Anclaflex Multi Pintumm (Blanco)",
@@ -3874,7 +3458,7 @@
           "price": 42262.2,
           "currency": "ARS",
           "unit": "balde",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "medium",
           "url": "https://pintureriasmm.com.ar/search?q=masilla%20durlock%2032kg",
           "notes": "Masilla Placas De Yeso Durlock Anclaflex 32kg Multi Pintumm",
@@ -3896,7 +3480,7 @@
           "price": 72761.4,
           "currency": "ARS",
           "unit": "balde",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://pintureriasmm.com.ar/search?q=masilla%20durlock%2032kg",
           "notes": "Espátula Plástica + Masilla Multimix Anclaflex 32kg Mm",
@@ -3918,7 +3502,7 @@
           "price": 50000,
           "currency": "ARS",
           "unit": "balde",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "high",
           "url": "https://pintureriasmm.com.ar/search?q=masilla%20durlock%2032kg",
           "notes": "Espátula Plástica + Masilla Ingenia 32kg Placas De Yeso Mm",
@@ -3941,7 +3525,7 @@
           "price": 24999,
           "currency": "ARS",
           "unit": "balde",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://pintureriasmm.com.ar/search?q=masilla%20placa%20de%20yeso%2032kg",
           "notes": "Masilla Placa De Yeso Ingenia 32k Lista Para Usar",
@@ -3963,7 +3547,7 @@
           "price": 69376.15,
           "currency": "ARS",
           "unit": "balde",
-          "updatedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
           "confidence": "low",
           "url": "https://pintureriasmm.com.ar/search?q=masilla%20durlock%2032%20kg",
           "notes": "Espatula Masilla Ingenia Placa Yeso 32k Cinta Tramada 48mm",
@@ -3981,7 +3565,7 @@
           }
         }
       ],
-      "selectedPrice": 59688.075,
+      "selectedPrice": 50988.8875,
       "selectedSource": "Median"
     },
     {
@@ -3989,30 +3573,114 @@
       "name": "Montante 69mm x 2.60m",
       "category": "perfileria",
       "unit": "unidad",
-      "prices": [],
-      "selectedPrice": null,
-      "selectedSource": null,
-      "carriedForward": true
+      "prices": [
+        {
+          "source": "SantaFeMateriales",
+          "supplier": "Santa Fe Materiales",
+          "price": 6747.96,
+          "currency": "ARS",
+          "unit": "unidad",
+          "updatedAt": "2026-11-06",
+          "confidence": "low",
+          "url": "https://tienda.santafemateriales.com.ar/search?q=montante%2069mm",
+          "notes": "MONTANTE 70mm KNAUF",
+          "meta": {
+            "rawProductName": "MONTANTE 70mm KNAUF",
+            "normalizedName": "montante 70mm knauf",
+            "sku": "181800780",
+            "categoryPath": [
+              "CONSTRUCCIÓN EN SECO Y YESERÍA",
+              "PERFILERIA"
+            ]
+          }
+        }
+      ],
+      "selectedPrice": 6747.96,
+      "selectedSource": "Median"
     },
     {
       "id": "solera_70",
       "name": "Solera 70mm x 2.60m",
       "category": "perfileria",
       "unit": "unidad",
-      "prices": [],
-      "selectedPrice": null,
-      "selectedSource": null,
-      "carriedForward": true
+      "prices": [
+        {
+          "source": "SantaFeMateriales",
+          "supplier": "Santa Fe Materiales",
+          "price": 5965.59,
+          "currency": "ARS",
+          "unit": "unidad",
+          "updatedAt": "2026-11-06",
+          "confidence": "medium",
+          "url": "https://tienda.santafemateriales.com.ar/search?q=solera%2070mm",
+          "notes": "SOLERA 70mm KNAUF 2.60 mts",
+          "meta": {
+            "rawProductName": "SOLERA 70mm KNAUF 2.60 mts",
+            "normalizedName": "solera 70mm knauf 2.60 mts",
+            "sku": "181800776",
+            "categoryPath": [
+              "CONSTRUCCIÓN EN SECO Y YESERÍA",
+              "PERFILERIA"
+            ]
+          }
+        }
+      ],
+      "selectedPrice": 5965.59,
+      "selectedSource": "Median"
     },
     {
       "id": "aislante_aluminio_10mm",
       "name": "Aislante espuma con aluminio 10mm (rollo)",
       "category": "placas",
       "unit": "m2",
-      "prices": [],
-      "selectedPrice": null,
-      "selectedSource": null,
-      "carriedForward": true
+      "prices": [
+        {
+          "source": "SantaFeMateriales",
+          "supplier": "Santa Fe Materiales",
+          "price": 2417.6925,
+          "currency": "ARS",
+          "unit": "m2",
+          "updatedAt": "2026-11-06",
+          "confidence": "medium",
+          "url": "https://tienda.santafemateriales.com.ar/search?q=espuma%20aluminio%2010mm",
+          "notes": "MEMBRANA FERROHOUSE ESPUMA ALUMINIO SIMPLE 10 MM - 1X20 M",
+          "meta": {
+            "rawProductName": "MEMBRANA FERROHOUSE ESPUMA ALUMINIO SIMPLE 10 MM - 1X20 M",
+            "normalizedName": "membrana ferrohouse espuma aluminio simple 10 mm - 1x20 m",
+            "sku": "181800892",
+            "quantity": 20,
+            "unit": "m2",
+            "categoryPath": [
+              "TECHOS Y LOSA",
+              "AISLANTES Y LANA DE VIDRIO"
+            ]
+          }
+        },
+        {
+          "source": "SantaFeMateriales",
+          "supplier": "Santa Fe Materiales",
+          "price": 3608.525,
+          "currency": "ARS",
+          "unit": "m2",
+          "updatedAt": "2026-11-06",
+          "confidence": "medium",
+          "url": "https://tienda.santafemateriales.com.ar/search?q=espuma%20aluminio%2010mm",
+          "notes": "MEMBRANA THERMO ESPUMA DOBLE ALUMINIO 10 MM - 1X20 M",
+          "meta": {
+            "rawProductName": "MEMBRANA THERMO ESPUMA DOBLE ALUMINIO 10 MM - 1X20 M",
+            "normalizedName": "membrana thermo espuma doble aluminio 10 mm - 1x20 m",
+            "sku": "181800896",
+            "quantity": 20,
+            "unit": "m2",
+            "categoryPath": [
+              "TECHOS Y LOSA",
+              "AISLANTES Y LANA DE VIDRIO"
+            ]
+          }
+        }
+      ],
+      "selectedPrice": 3013.1087500000003,
+      "selectedSource": "Median"
     },
     {
       "id": "cano_pvc_electrico_20mm",
@@ -4021,8 +3689,7 @@
       "unit": "unidad",
       "prices": [],
       "selectedPrice": null,
-      "selectedSource": null,
-      "carriedForward": true
+      "selectedSource": null
     },
     {
       "id": "toma_doble_con_tapa",
@@ -4031,48 +3698,563 @@
       "unit": "unidad",
       "prices": [],
       "selectedPrice": null,
-      "selectedSource": null,
-      "carriedForward": true
+      "selectedSource": null
     },
     {
       "id": "termica_2x20a",
       "name": "Interruptor termomagnético 2x20A",
       "category": "electricidad",
       "unit": "unidad",
-      "prices": [],
-      "selectedPrice": null,
-      "selectedSource": null,
-      "carriedForward": true
+      "prices": [
+        {
+          "source": "Manual",
+          "supplier": "Electroconstrucción",
+          "price": 8760,
+          "currency": "ARS",
+          "unit": "unidad",
+          "updatedAt": "2025-05-19",
+          "confidence": "medium",
+          "notes": "Térmica 2x20 A. Precio de lista de una cotización para una obra del estudio."
+        }
+      ],
+      "selectedPrice": 8760,
+      "selectedSource": "Manual",
+      "manualExpired": true
     },
     {
       "id": "fijador_sellador_20l",
       "name": "Fijador sellador al agua balde 20L",
       "category": "pintura",
       "unit": "balde",
-      "prices": [],
-      "selectedPrice": null,
-      "selectedSource": null,
-      "carriedForward": true
+      "prices": [
+        {
+          "source": "PintureriasMM",
+          "supplier": "Pinturerías MM",
+          "price": 64350,
+          "currency": "ARS",
+          "unit": "balde",
+          "updatedAt": "2026-11-06",
+          "confidence": "low",
+          "url": "https://pintureriasmm.com.ar/search?q=fijador%20sellador%2020l",
+          "notes": "Fijador Sellador Al Agua Concentrado Casablanca 20 Lts",
+          "meta": {
+            "rawProductName": "Fijador Sellador Al Agua Concentrado Casablanca 20 Lts",
+            "normalizedName": "fijador sellador al agua concentrado casablanca 20 lts",
+            "sku": "279908534",
+            "quantity": 20,
+            "unit": "litro",
+            "categoryPath": [
+              "Construcción",
+              "Pinturería"
+            ]
+          }
+        },
+        {
+          "source": "PintureriasMM",
+          "supplier": "Pinturerías MM",
+          "price": 115507.8,
+          "currency": "ARS",
+          "unit": "balde",
+          "updatedAt": "2026-11-06",
+          "confidence": "medium",
+          "url": "https://pintureriasmm.com.ar/search?q=fijador%20sellador%2020l",
+          "notes": "Fijador Al Agua Sellaplast 20l Sinteplast Pintumm (Incoloro)",
+          "meta": {
+            "rawProductName": "Fijador Al Agua Sellaplast 20l Sinteplast Pintumm (Incoloro)",
+            "normalizedName": "fijador al agua sellaplast 20l sinteplast pintumm incoloro",
+            "sku": "279761977",
+            "quantity": 20,
+            "unit": "litro",
+            "categoryPath": [
+              "Construcción",
+              "Pinturería"
+            ]
+          }
+        },
+        {
+          "source": "PintureriasMM",
+          "supplier": "Pinturerías MM",
+          "price": 115507.8,
+          "currency": "ARS",
+          "unit": "balde",
+          "updatedAt": "2026-11-06",
+          "confidence": "medium",
+          "url": "https://pintureriasmm.com.ar/search?q=fijador%20sellador%2020l",
+          "notes": "Fijador Al Agua Sellaplast 20l Sinteplast Pintumm (Incoloro)",
+          "meta": {
+            "rawProductName": "Fijador Al Agua Sellaplast 20l Sinteplast Pintumm (Incoloro)",
+            "normalizedName": "fijador al agua sellaplast 20l sinteplast pintumm incoloro",
+            "sku": "279787130",
+            "quantity": 20,
+            "unit": "litro",
+            "categoryPath": [
+              "Construcción",
+              "Pinturería"
+            ]
+          }
+        },
+        {
+          "source": "PintureriasMM",
+          "supplier": "Pinturerías MM",
+          "price": 115507.8,
+          "currency": "ARS",
+          "unit": "balde",
+          "updatedAt": "2026-11-06",
+          "confidence": "medium",
+          "url": "https://pintureriasmm.com.ar/search?q=fijador%20sellador%2020l",
+          "notes": "Fijador Al Agua Sellaplast 20l Sinteplast Pintumm",
+          "meta": {
+            "rawProductName": "Fijador Al Agua Sellaplast 20l Sinteplast Pintumm",
+            "normalizedName": "fijador al agua sellaplast 20l sinteplast pintumm",
+            "sku": "279909177",
+            "quantity": 20,
+            "unit": "litro",
+            "categoryPath": [
+              "Construcción",
+              "Pinturería"
+            ]
+          }
+        },
+        {
+          "source": "PintureriasMM",
+          "supplier": "Pinturerías MM",
+          "price": 66811.5,
+          "currency": "ARS",
+          "unit": "balde",
+          "updatedAt": "2026-11-06",
+          "confidence": "medium",
+          "url": "https://pintureriasmm.com.ar/search?q=fijador%20sellador%2020l",
+          "notes": "Fijador Al Agua Concentrado 4 A 1 Anti Hongo 20l Pintumm",
+          "meta": {
+            "rawProductName": "Fijador Al Agua Concentrado 4 A 1 Anti Hongo 20l Pintumm",
+            "normalizedName": "fijador al agua concentrado 4 a 1 anti hongo 20l pintumm",
+            "sku": "279632054",
+            "quantity": 20,
+            "unit": "litro",
+            "categoryPath": [
+              "Construcción",
+              "Pinturería"
+            ]
+          }
+        },
+        {
+          "source": "PintureriasMM",
+          "supplier": "Pinturerías MM",
+          "price": 63099.75,
+          "currency": "ARS",
+          "unit": "balde",
+          "updatedAt": "2026-11-06",
+          "confidence": "medium",
+          "url": "https://pintureriasmm.com.ar/search?q=fijador%20sellador%20al%20agua%2020%20litros",
+          "notes": "Sellador Fijador Al Agua Ingenia X 20 Litros",
+          "meta": {
+            "rawProductName": "Sellador Fijador Al Agua Ingenia X 20 Litros",
+            "normalizedName": "sellador fijador al agua ingenia x 20 litros",
+            "sku": "279766694",
+            "quantity": 20,
+            "unit": "litro",
+            "categoryPath": [
+              "Construcción",
+              "Pinturería"
+            ]
+          }
+        },
+        {
+          "source": "PintureriasMM",
+          "supplier": "Pinturerías MM",
+          "price": 66811.5,
+          "currency": "ARS",
+          "unit": "balde",
+          "updatedAt": "2026-11-06",
+          "confidence": "medium",
+          "url": "https://pintureriasmm.com.ar/search?q=fijador%20sellador%20al%20agua%2020%20litros",
+          "notes": "Sellador Fijador Al Agua Anclaflex X 20 Litros Pintumm",
+          "meta": {
+            "rawProductName": "Sellador Fijador Al Agua Anclaflex X 20 Litros Pintumm",
+            "normalizedName": "sellador fijador al agua anclaflex x 20 litros pintumm",
+            "sku": "279715685",
+            "quantity": 20,
+            "unit": "litro",
+            "categoryPath": [
+              "Construcción",
+              "Pinturería"
+            ]
+          }
+        },
+        {
+          "source": "PintureriasMM",
+          "supplier": "Pinturerías MM",
+          "price": 81069.3,
+          "currency": "ARS",
+          "unit": "balde",
+          "updatedAt": "2026-11-06",
+          "confidence": "medium",
+          "url": "https://pintureriasmm.com.ar/search?q=fijador%20sellador%20al%20agua%2020%20litros",
+          "notes": "Sellador Fijador Hogar 20 Litros Al Agua Alba Mm (Translúcido, Incoloro)",
+          "meta": {
+            "rawProductName": "Sellador Fijador Hogar 20 Litros Al Agua Alba Mm (Translúcido, Incoloro)",
+            "normalizedName": "sellador fijador hogar 20 litros al agua alba mm translucido, incoloro",
+            "sku": "279799662",
+            "quantity": 20,
+            "unit": "litro",
+            "categoryPath": [
+              "Construcción",
+              "Pinturería"
+            ]
+          }
+        },
+        {
+          "source": "PintureriasMM",
+          "supplier": "Pinturerías MM",
+          "price": 66811.5,
+          "currency": "ARS",
+          "unit": "balde",
+          "updatedAt": "2026-11-06",
+          "confidence": "medium",
+          "url": "https://pintureriasmm.com.ar/search?q=fijador%20al%20agua%2020l",
+          "notes": "Fijador Al Agua Concentrado 4 A 1 Anti Hongo 20l Pintumm",
+          "meta": {
+            "rawProductName": "Fijador Al Agua Concentrado 4 A 1 Anti Hongo 20l Pintumm",
+            "normalizedName": "fijador al agua concentrado 4 a 1 anti hongo 20l pintumm",
+            "sku": "279684948",
+            "quantity": 20,
+            "unit": "litro",
+            "categoryPath": [
+              "Construcción",
+              "Pinturería"
+            ]
+          }
+        },
+        {
+          "source": "PintureriasMM",
+          "supplier": "Pinturerías MM",
+          "price": 344426.4,
+          "currency": "ARS",
+          "unit": "balde",
+          "updatedAt": "2026-11-06",
+          "confidence": "medium",
+          "url": "https://pintureriasmm.com.ar/search?q=fijador%20al%20agua%2020l",
+          "notes": "Nuevo Fijador Al Aguarras Antisalitre 2en1 Alba 20l Pintumm",
+          "meta": {
+            "rawProductName": "Nuevo Fijador Al Aguarras Antisalitre 2en1 Alba 20l Pintumm",
+            "normalizedName": "nuevo fijador al aguarras antisalitre 2en1 alba 20l pintumm",
+            "sku": "279623029",
+            "quantity": 20,
+            "unit": "litro",
+            "categoryPath": [
+              "Construcción",
+              "Pinturería"
+            ]
+          }
+        }
+      ],
+      "selectedPrice": 73940.4,
+      "selectedSource": "Median"
     },
     {
       "id": "membrana_liquida_20kg",
       "name": "Membrana líquida para techos 20kg",
       "category": "cubiertas",
       "unit": "balde",
-      "prices": [],
-      "selectedPrice": null,
-      "selectedSource": null,
-      "carriedForward": true
+      "prices": [
+        {
+          "source": "ArematPuerto",
+          "supplier": "Aremat Puerto",
+          "price": 74678.22,
+          "currency": "ARS",
+          "unit": "balde",
+          "updatedAt": "2026-11-06",
+          "confidence": "high",
+          "url": "https://arematpuerto.com.ar/producto/membrana-liquida-poliuretanica-emacril-x20kg-emapi/",
+          "notes": "Membrana líquida Poliuretánica Emacril x20kg Emapi | Aremat",
+          "meta": {
+            "rawProductName": "Membrana líquida Poliuretánica Emacril x20kg Emapi | Aremat",
+            "normalizedName": "membrana liquida poliuretanica emacril x20kg emapi aremat",
+            "sku": "2515",
+            "quantity": 20,
+            "unit": "kg",
+            "categoryPath": [
+              "Construcción",
+              "Obra Gruesa",
+              "Pintura asfáltica y Membranas"
+            ]
+          }
+        },
+        {
+          "source": "PintureriasMM",
+          "supplier": "Pinturerías MM",
+          "price": 54999,
+          "currency": "ARS",
+          "unit": "balde",
+          "updatedAt": "2026-11-06",
+          "confidence": "medium",
+          "url": "https://pintureriasmm.com.ar/search?q=membrana%20liquida%2020kg",
+          "notes": "Membrana Liquida Pasta 20kg Impermeable Transitable Ingenia (Satinado, Blanco)",
+          "meta": {
+            "rawProductName": "Membrana Liquida Pasta 20kg Impermeable Transitable Ingenia (Satinado, Blanco)",
+            "normalizedName": "membrana liquida pasta 20kg impermeable transitable ingenia satinado, blanco",
+            "sku": "279766795",
+            "quantity": 20,
+            "unit": "kg",
+            "categoryPath": [
+              "Construcción",
+              "Pinturería",
+              "Protección de Superficies"
+            ]
+          }
+        },
+        {
+          "source": "PintureriasMM",
+          "supplier": "Pinturerías MM",
+          "price": 130999,
+          "currency": "ARS",
+          "unit": "balde",
+          "updatedAt": "2026-11-06",
+          "confidence": "medium",
+          "url": "https://pintureriasmm.com.ar/search?q=membrana%20liquida%2020kg",
+          "notes": "Membrana Liquida Profesional Techos 20kg Sinteplast Pintumm (Mate, Blanco)",
+          "meta": {
+            "rawProductName": "Membrana Liquida Profesional Techos 20kg Sinteplast Pintumm (Mate, Blanco)",
+            "normalizedName": "membrana liquida profesional techos 20kg sinteplast pintumm mate, blanco",
+            "sku": "279830709",
+            "quantity": 20,
+            "unit": "kg",
+            "categoryPath": [
+              "Construcción",
+              "Pinturería",
+              "Protección de Superficies"
+            ]
+          }
+        },
+        {
+          "source": "PintureriasMM",
+          "supplier": "Pinturerías MM",
+          "price": 57999,
+          "currency": "ARS",
+          "unit": "balde",
+          "updatedAt": "2026-11-06",
+          "confidence": "medium",
+          "url": "https://pintureriasmm.com.ar/search?q=membrana%20liquida%2020kg",
+          "notes": "Membrana Liquida Pasta 20kg Impermeable Ingenia + Rodillo (Blanco)",
+          "meta": {
+            "rawProductName": "Membrana Liquida Pasta 20kg Impermeable Ingenia + Rodillo (Blanco)",
+            "normalizedName": "membrana liquida pasta 20kg impermeable ingenia rodillo blanco",
+            "sku": "279720727",
+            "quantity": 20,
+            "unit": "kg",
+            "categoryPath": [
+              "Construcción",
+              "Pinturería",
+              "Protección de Superficies"
+            ]
+          }
+        },
+        {
+          "source": "PintureriasMM",
+          "supplier": "Pinturerías MM",
+          "price": 107999,
+          "currency": "ARS",
+          "unit": "balde",
+          "updatedAt": "2026-11-06",
+          "confidence": "medium",
+          "url": "https://pintureriasmm.com.ar/search?q=membrana%20liquida%2020kg",
+          "notes": "Membrana Liquida Techos Y Muros Casablanca Pro 20kg - Mm (Mate, Teja)",
+          "meta": {
+            "rawProductName": "Membrana Liquida Techos Y Muros Casablanca Pro 20kg - Mm (Mate, Teja)",
+            "normalizedName": "membrana liquida techos y muros casablanca pro 20kg - mm mate, teja",
+            "sku": "279882481",
+            "quantity": 20,
+            "unit": "kg",
+            "categoryPath": [
+              "Construcción",
+              "Pinturería",
+              "Protección de Superficies"
+            ]
+          }
+        },
+        {
+          "source": "PintureriasMM",
+          "supplier": "Pinturerías MM",
+          "price": 58999,
+          "currency": "ARS",
+          "unit": "balde",
+          "updatedAt": "2026-11-06",
+          "confidence": "medium",
+          "url": "https://pintureriasmm.com.ar/search?q=membrana%20liquida%2020kg",
+          "notes": "Membrana Liquida Pasta 20kg + Rodillo + Venda Ingenia Mm (Blanco)",
+          "meta": {
+            "rawProductName": "Membrana Liquida Pasta 20kg + Rodillo + Venda Ingenia Mm (Blanco)",
+            "normalizedName": "membrana liquida pasta 20kg rodillo venda ingenia mm blanco",
+            "sku": "279771371",
+            "quantity": 20,
+            "unit": "kg",
+            "categoryPath": [
+              "Construcción",
+              "Pinturería",
+              "Protección de Superficies"
+            ]
+          }
+        },
+        {
+          "source": "PintureriasMM",
+          "supplier": "Pinturerías MM",
+          "price": 197033.4,
+          "currency": "ARS",
+          "unit": "balde",
+          "updatedAt": "2026-11-06",
+          "confidence": "medium",
+          "url": "https://pintureriasmm.com.ar/search?q=membrana%20liquida%2020kg",
+          "notes": "Albafrent Fibrado Membrana Liquida Impermeable 20kg Pintumm (Mate, Rojo)",
+          "meta": {
+            "rawProductName": "Albafrent Fibrado Membrana Liquida Impermeable 20kg Pintumm (Mate, Rojo)",
+            "normalizedName": "albafrent fibrado membrana liquida impermeable 20kg pintumm mate, rojo",
+            "sku": "279789783",
+            "quantity": 20,
+            "unit": "kg",
+            "categoryPath": [
+              "Construcción",
+              "Pinturería",
+              "Protección de Superficies"
+            ]
+          }
+        },
+        {
+          "source": "PintureriasMM",
+          "supplier": "Pinturerías MM",
+          "price": 180490,
+          "currency": "ARS",
+          "unit": "balde",
+          "updatedAt": "2026-11-06",
+          "confidence": "medium",
+          "url": "https://pintureriasmm.com.ar/search?q=membrana%20liquida%2020kg",
+          "notes": "Membrana Liquida Tersitech Blanco Techos Muros Tersuave 20k Mm",
+          "meta": {
+            "rawProductName": "Membrana Liquida Tersitech Blanco Techos Muros Tersuave 20k Mm",
+            "normalizedName": "membrana liquida tersitech blanco techos muros tersuave 20k mm",
+            "sku": "293181050",
+            "quantity": 20,
+            "unit": "kg",
+            "categoryPath": [
+              "Construcción",
+              "Pinturería",
+              "Protección de Superficies"
+            ]
+          }
+        },
+        {
+          "source": "PintureriasMM",
+          "supplier": "Pinturerías MM",
+          "price": 112051.8,
+          "currency": "ARS",
+          "unit": "balde",
+          "updatedAt": "2026-11-06",
+          "confidence": "medium",
+          "url": "https://pintureriasmm.com.ar/search?q=membrana%20liquida%20techos%2020%20kg",
+          "notes": "Plavipint Techos Membrana Liquida 20 Kg Plavicon Mm (Mate, Blanco)",
+          "meta": {
+            "rawProductName": "Plavipint Techos Membrana Liquida 20 Kg Plavicon Mm (Mate, Blanco)",
+            "normalizedName": "plavipint techos membrana liquida 20 kg plavicon mm mate, blanco",
+            "sku": "279878842",
+            "quantity": 20,
+            "unit": "kg",
+            "categoryPath": [
+              "Construcción",
+              "Pinturería",
+              "Protección de Superficies"
+            ]
+          }
+        },
+        {
+          "source": "PintureriasMM",
+          "supplier": "Pinturerías MM",
+          "price": 186547.5,
+          "currency": "ARS",
+          "unit": "balde",
+          "updatedAt": "2026-11-06",
+          "confidence": "medium",
+          "url": "https://pintureriasmm.com.ar/search?q=membrana%20liquida%20techos%2020%20kg",
+          "notes": "Membrana Líquida Techos Pu Weberdry 20k Poliuretano Weber Mm (Mate, Blanco)",
+          "meta": {
+            "rawProductName": "Membrana Líquida Techos Pu Weberdry 20k Poliuretano Weber Mm (Mate, Blanco)",
+            "normalizedName": "membrana liquida techos pu weberdry 20k poliuretano weber mm mate, blanco",
+            "sku": "279851296",
+            "quantity": 20,
+            "unit": "kg",
+            "categoryPath": [
+              "Construcción",
+              "Pinturería",
+              "Protección de Superficies"
+            ]
+          }
+        },
+        {
+          "source": "PintureriasMM",
+          "supplier": "Pinturerías MM",
+          "price": 175000,
+          "currency": "ARS",
+          "unit": "balde",
+          "updatedAt": "2026-11-06",
+          "confidence": "medium",
+          "url": "https://pintureriasmm.com.ar/search?q=impermeabilizante%20techos%2020kg",
+          "notes": "Sinteplast Recuplast Techos Impermeabilizante 20kg Mm (Mate, Negro)",
+          "meta": {
+            "rawProductName": "Sinteplast Recuplast Techos Impermeabilizante 20kg Mm (Mate, Negro)",
+            "normalizedName": "sinteplast recuplast techos impermeabilizante 20kg mm mate, negro",
+            "sku": "279861198",
+            "quantity": 20,
+            "unit": "kg",
+            "categoryPath": [
+              "Construcción",
+              "Pinturería"
+            ]
+          }
+        },
+        {
+          "source": "PintureriasMM",
+          "supplier": "Pinturerías MM",
+          "price": 175000,
+          "currency": "ARS",
+          "unit": "balde",
+          "updatedAt": "2026-11-06",
+          "confidence": "medium",
+          "url": "https://pintureriasmm.com.ar/search?q=impermeabilizante%20techos%2020kg",
+          "notes": "Recuplast Techos Impermeabilizante Teja 20kg Sinteplast Mm (Mate, Teja)",
+          "meta": {
+            "rawProductName": "Recuplast Techos Impermeabilizante Teja 20kg Sinteplast Mm (Mate, Teja)",
+            "normalizedName": "recuplast techos impermeabilizante teja 20kg sinteplast mm mate, teja",
+            "sku": "279923567",
+            "quantity": 20,
+            "unit": "kg",
+            "categoryPath": [
+              "Construcción",
+              "Pinturería"
+            ]
+          }
+        }
+      ],
+      "selectedPrice": 102838.61,
+      "selectedSource": "Median"
     },
     {
       "id": "wall_panel_eps",
       "name": "Wall panel EPS varillado 0.12x2.85m (tabla)",
       "category": "placas",
       "unit": "unidad",
-      "prices": [],
-      "selectedPrice": null,
-      "selectedSource": null,
-      "carriedForward": true
+      "prices": [
+        {
+          "source": "Manual",
+          "supplier": "Boden",
+          "price": 33015,
+          "currency": "ARS",
+          "unit": "unidad",
+          "updatedAt": "2025-12-18",
+          "confidence": "medium",
+          "notes": "Tabla WallPanel EPS Roble 0,12x2,85 m (12 tablas por 396.180, cotización). Estimativo de una obra del estudio."
+        }
+      ],
+      "selectedPrice": 33015,
+      "selectedSource": "Manual",
+      "manualExpired": true
     }
   ]
 }
