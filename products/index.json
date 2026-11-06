@@ -3,133 +3,133 @@
     "sourceName": "ArematPuerto",
     "name": "Aremat Puerto",
     "city": "Santa Fe",
-    "count": 1327,
-    "fetchedAt": "2026-11-04T03:18:18Z"
+    "count": 1328,
+    "fetchedAt": "2026-11-06T17:22:09Z"
   },
   {
     "sourceName": "Bourlot",
     "name": "Bourlot",
     "city": "Gualeguaychú (sucursal Santa Fe)",
     "count": 3782,
-    "fetchedAt": "2026-11-04T03:32:43Z"
+    "fetchedAt": "2026-11-06T17:36:27Z"
   },
   {
     "sourceName": "BrufauSanitarios",
     "name": "Brufau Sanitarios",
     "city": "Santa Fe",
     "count": 2975,
-    "fetchedAt": "2026-11-04T03:31:06Z"
+    "fetchedAt": "2026-11-06T17:34:57Z"
   },
   {
     "sourceName": "ConstruirCorralon",
     "name": "Construir Corralón",
     "city": "Corrientes (por el teléfono)",
     "count": 2,
-    "fetchedAt": "2026-11-04T03:47:33Z"
+    "fetchedAt": "2026-11-06T17:51:12Z"
   },
   {
     "sourceName": "DistribuidoraSur",
     "name": "Distribuidora Sur",
     "city": "Alvear",
     "count": 266,
-    "fetchedAt": "2026-11-04T03:25:37Z"
+    "fetchedAt": "2026-11-06T17:29:27Z"
   },
   {
     "sourceName": "ElEmporio",
     "name": "El Emporio",
     "city": "Santa Fe",
-    "count": 243,
-    "fetchedAt": "2026-11-04T03:30:03Z"
+    "count": 245,
+    "fetchedAt": "2026-11-06T17:33:55Z"
   },
   {
     "sourceName": "Germat",
     "name": "Germat",
     "city": "Santa Fe",
     "count": 355,
-    "fetchedAt": "2026-11-04T03:18:09Z"
+    "fetchedAt": "2026-11-06T17:21:58Z"
   },
   {
     "sourceName": "IngenieriaBoggio",
     "name": "Ingeniería Boggio",
     "city": "Rosario / Santa Fe / Rafaela",
-    "count": 27374,
-    "fetchedAt": "2026-11-04T03:55:38Z"
+    "count": 27385,
+    "fetchedAt": "2026-11-06T17:41:24Z"
   },
   {
     "sourceName": "Junelec",
     "name": "Junelec",
     "city": "Rosario",
     "count": 1861,
-    "fetchedAt": "2026-11-04T03:19:01Z"
+    "fetchedAt": "2026-11-06T17:22:45Z"
   },
   {
     "sourceName": "LaAlianzaCorralon",
     "name": "La Alianza Corralón",
     "city": "Pigüé, Bs. As. (por el teléfono)",
-    "count": 189,
-    "fetchedAt": "2026-11-04T03:47:29Z"
+    "count": 188,
+    "fetchedAt": "2026-11-06T17:51:09Z"
   },
   {
     "sourceName": "LaEconomica",
     "name": "La Económica",
     "city": "Rosario",
     "count": 357,
-    "fetchedAt": "2026-11-04T03:18:09Z"
+    "fetchedAt": "2026-11-06T17:22:03Z"
   },
   {
     "sourceName": "LaYeseraRosarina",
     "name": "La Yesera Rosarina",
     "city": "Rosario",
     "count": 145,
-    "fetchedAt": "2026-11-04T03:21:11Z"
+    "fetchedAt": "2026-11-06T17:25:03Z"
   },
   {
     "sourceName": "MoroRevestimientos",
     "name": "Moro Revestimientos",
     "city": "Rosario",
     "count": 436,
-    "fetchedAt": "2026-11-04T03:18:07Z"
+    "fetchedAt": "2026-11-06T17:21:57Z"
   },
   {
     "sourceName": "Orlandi",
     "name": "Orlandi",
     "city": "Rosario",
     "count": 788,
-    "fetchedAt": "2026-11-04T03:19:07Z"
+    "fetchedAt": "2026-11-06T17:22:55Z"
   },
   {
     "sourceName": "PintureriasMM",
     "name": "Pinturerías MM",
     "city": "AMBA (por el teléfono)",
-    "count": 4523,
-    "fetchedAt": "2026-11-04T03:48:30Z"
+    "count": 4513,
+    "fetchedAt": "2026-11-06T17:52:10Z"
   },
   {
     "sourceName": "Roselec",
     "name": "Roselec",
     "city": "Rosario",
     "count": 44,
-    "fetchedAt": "2026-11-04T03:18:32Z"
+    "fetchedAt": "2026-11-06T17:22:22Z"
   },
   {
     "sourceName": "SantaFeMateriales",
     "name": "Santa Fe Materiales",
     "city": "Santa Fe",
-    "count": 703,
-    "fetchedAt": "2026-11-04T03:44:01Z"
+    "count": 706,
+    "fetchedAt": "2026-11-06T17:47:41Z"
   },
   {
     "sourceName": "SerraOnline",
     "name": "Serra Online",
     "city": "Rosario",
-    "count": 7416,
-    "fetchedAt": "2026-11-04T03:20:17Z"
+    "count": 7409,
+    "fetchedAt": "2026-11-06T17:24:14Z"
   },
   {
     "sourceName": "SurianiBedetti",
     "name": "Suriani Bedetti",
     "city": "Rosario",
     "count": 6325,
-    "fetchedAt": "2026-11-04T03:20:16Z"
+    "fetchedAt": "2026-11-06T17:24:01Z"
   }
 ]
