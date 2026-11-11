@@ -1,6 +1,6 @@
 {
   "store": {"sourceName":"SurianiBedetti","name":"Suriani Bedetti","city":"Rosario","url":"https://sanitariossuriani.com.ar","platform":"woocommerce","pricesIncludeIva":true},
-  "fetchedAt": "2026-11-06T17:24:01Z",
+  "fetchedAt": "2026-11-11T02:48:29Z",
   "items": [
     {"id":"40455","name":"CAÑO GALVANIZADO 1/2 X METRO","price":9326.99,"url":"https://sanitariossuriani.com.ar/producto/cano-galvanizado-1-2-x-metro/","category":["AGUA","GALVANIZADO","INSTALACIONES"],"inStock":false,"pack":null,"unitPrice":null},
     {"id":"40456","name":"SIGAS THERMOFUSION CAÑO (20 MM) x 4 MTS","price":29699.2,"url":"https://sanitariossuriani.com.ar/producto/sigas-thermofusion-cano-20-mm-x-4-mts/","category":["GAS","INSTALACIONES","SIGAS"],"inStock":true,"pack":{"quantity":4,"unit":"m"},"unitPrice":{"value":7424.8,"per":"m"}},

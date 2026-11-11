@@ -1,6 +1,6 @@
 {
   "store": {"sourceName":"LaYeseraRosarina","name":"La Yesera Rosarina","city":"Rosario","url":"https://tienda.layeserarosarina.com.ar","platform":"tiendanube","pricesIncludeIva":true},
-  "fetchedAt": "2026-11-06T17:25:03Z",
+  "fetchedAt": "2026-11-11T02:49:25Z",
   "items": [
     {"id":"113093424","name":"MALLA FIBRA DE VIDRIO 90 GRS - 50 M","price":76000,"url":"https://tienda.layeserarosarina.com.ar/productos/malla-fibra-de-vidrio-90-grs-50-m/","category":[],"inStock":true,"pack":{"quantity":50,"unit":"m"},"unitPrice":{"value":1520,"per":"m"}},
     {"id":"113093442","name":"MALLA FIBRA DE VIDRIO 110 GRS - 50 M","price":83200,"url":"https://tienda.layeserarosarina.com.ar/productos/malla-fibra-de-vidrio-110-grs-50-m/","category":[],"inStock":true,"pack":{"quantity":50,"unit":"m"},"unitPrice":{"value":1664,"per":"m"}},
