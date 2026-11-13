@@ -1,6 +1,6 @@
 {
   "store": {"sourceName":"MoroRevestimientos","name":"Moro Revestimientos","city":"Rosario","url":"https://mororevestimientos.com","platform":"woocommerce","pricesIncludeIva":true},
-  "fetchedAt": "2026-11-11T02:46:20Z",
+  "fetchedAt": "2026-11-13T17:43:11Z",
   "items": [
     {"id":"2071","name":"MUEBLE WENGUE 50CM MDF C/MESADA TRAVERTINO MARMOL","price":550000,"url":"https://mororevestimientos.com/product/esquinero-de-vidrio/","category":["MUEBLES BAÑO/ VANITORYS","OFERTAS"],"inStock":true,"pack":null,"unitPrice":null},
     {"id":"2072","name":"DESNIVEL EN ZETA ACERO PARA PISOS ATRIM","price":30000,"url":"https://mororevestimientos.com/product/desnivel-en-zeta-acero-para-pisos-atrim/","category":["PERFILES Y ZOCALOS"],"inStock":true,"pack":null,"unitPrice":null},
@@ -127,7 +127,7 @@
     {"id":"2209","name":"MUEBLES PARA APOYO DE BACHAS DE 50CM C/PATAS","price":360000,"url":"https://mororevestimientos.com/product/muebles-para-apoyo-de-bachas-de-50cm-c-patas/","category":["Sin categoría"],"inStock":true,"pack":null,"unitPrice":null},
     {"id":"2210","name":"MALENA FV (JUEGO COMPLETO) lavatorio+bidet+ducha","price":715000,"url":"https://mororevestimientos.com/product/malena-fv-juego-completo/","category":["GRIFERIAS DE BAÑO"],"inStock":true,"pack":null,"unitPrice":null},
     {"id":"2212","name":"CLIP DE FIJACION PARA WALL PANELS INTERIOR Y EXTERIOR","price":900,"url":"https://mororevestimientos.com/product/espejo-artesanal-con-circulos-1-30x40/","category":["PLACAS PVC - REVESTIMIENTOS Y PISOS SPC","VARIOS"],"inStock":true,"pack":null,"unitPrice":null},
-    {"id":"2213","name":"BLANCO 20X20 MATE PISO-PARED","price":39000,"url":"https://mororevestimientos.com/product/gobi-gris-brillante-33x33-scop/","category":["CERAMICOS PARED","CERAMICOS PISOS"],"inStock":true,"pack":null,"unitPrice":null},
+    {"id":"2213","name":"BLANCO 20X20 MATE PISO-PARED","price":42000,"url":"https://mororevestimientos.com/product/gobi-gris-brillante-33x33-scop/","category":["CERAMICOS PARED","CERAMICOS PISOS"],"inStock":true,"pack":null,"unitPrice":null},
     {"id":"2214","name":"PISOS SPC CLIP 15X1.22 DE 4MM","price":35000,"url":"https://mororevestimientos.com/product/athenea-porfido-40x40-antideslizante/","category":["PLACAS PVC - REVESTIMIENTOS Y PISOS SPC"],"inStock":true,"pack":null,"unitPrice":null},
     {"id":"2215","name":"PORCELLANATO NEGRO PULIDO 60X60","price":42000,"url":"https://mororevestimientos.com/product/porcellanato-negro-pulido-60x60/","category":["PORCELLANATOS"],"inStock":true,"pack":null,"unitPrice":null},
     {"id":"2216","name":"LISTON GREGAR 6X24 PARA FRENTE EXTERIOR (57 unidades)","price":26000,"url":"https://mororevestimientos.com/product/tapa-asiento-andiana-o-florencia-cierre-suave-ferrum/","category":["CERAMICOS EXTERIORES","CERAMICOS PARED","OFERTAS"],"inStock":true,"pack":null,"unitPrice":null},
@@ -233,7 +233,7 @@
     {"id":"2332","name":"ESPEJO PIVOT 60X80 HERRAJES ALUMINIO","price":95000,"url":"https://mororevestimientos.com/product/espejo-pivot-60x80-herrajes-aluminio/","category":["ESPEJOS Y BOTIQUINES"],"inStock":true,"pack":null,"unitPrice":null},
     {"id":"2334","name":"LADRILLOS VIDRIO 20×20 VITROBLOCK POR UNIDAD","price":8700,"url":"https://mororevestimientos.com/product/ladrillos-vidrio-20x20-vitroblock/","category":["OFERTAS","VARIOS"],"inStock":true,"pack":null,"unitPrice":null},
     {"id":"2335","name":"JGO GRIFERIA MONOC. FABRIC GOLD PEIRANO","price":1150000,"url":"https://mororevestimientos.com/product/tapas-asiento-inodoro-andina-capea-florencia/","category":["GRIFERIAS DE BAÑO"],"inStock":true,"pack":null,"unitPrice":null},
-    {"id":"2336","name":"BLANCO 20X20 BRILLANTE PISO-PARED","price":39000,"url":"https://mororevestimientos.com/product/blanco-20x20-brillante-piso-pared/","category":["CERAMICOS PARED","CERAMICOS PISOS"],"inStock":true,"pack":null,"unitPrice":null},
+    {"id":"2336","name":"BLANCO 20X20 BRILLANTE PISO-PARED","price":42000,"url":"https://mororevestimientos.com/product/blanco-20x20-brillante-piso-pared/","category":["CERAMICOS PARED","CERAMICOS PISOS"],"inStock":true,"pack":null,"unitPrice":null},
     {"id":"2337","name":"PORCELLANATO BLACK 80X80 ALBERDI PULIDO","price":35000,"url":"https://mororevestimientos.com/product/inodoro-corto-bidet-jade-pringles/","category":["PORCELLANATOS"],"inStock":true,"pack":null,"unitPrice":null},
     {"id":"2338","name":"CANTABRIA BOTANICO 58X58 SAN LORENZO","price":28000,"url":"https://mororevestimientos.com/product/mueble-wengue-80cm-con-mesada-duo-marmol/","category":["PORCELLANATOS"],"inStock":true,"pack":null,"unitPrice":null},
     {"id":"2339","name":"SUBWAY FLOW COSMIC BLUE 7.7X30.5 ROCA","price":49000,"url":"https://mororevestimientos.com/product/mueble-con-mesada-acrilica-pino-50cm/","category":["CERAMICOS PARED"],"inStock":true,"pack":null,"unitPrice":null},
@@ -369,7 +369,7 @@
     {"id":"3142","name":"MAPEFLEX PU 45 SILICONA GRIETAS","price":20000,"url":"https://mororevestimientos.com/product/mapeflex-pu-45/","category":["ADHESIVOS","VARIOS"],"inStock":true,"pack":null,"unitPrice":null},
     {"id":"3150","name":"GUARDAS DE VIDRIO 7,5 X 30 CM GIOVANNI","price":6500,"url":"https://mororevestimientos.com/product/parquet-olivo-mate-50x50-cortines/","category":["GUARDAS Y MALLAS"],"inStock":true,"pack":null,"unitPrice":null},
     {"id":"3151","name":"ADHESIVO PARA PORCELLANATO MAPEI X 25KL","price":20000,"url":"https://mororevestimientos.com/product/proa-grey-33x45-san-lorenzo/","category":["ADHESIVOS"],"inStock":true,"pack":null,"unitPrice":null},
-    {"id":"3155","name":"GRANITO WHITE 29X59 CERRO NEGRO","price":12900,"url":"https://mororevestimientos.com/product/pileton-gastronomico-a-pedido-100x50x40/","category":["CERAMICOS PARED"],"inStock":true,"pack":null,"unitPrice":null},
+    {"id":"3155","name":"GRANITO WHITE 29X59 CERRO NEGRO","price":14500,"url":"https://mororevestimientos.com/product/pileton-gastronomico-a-pedido-100x50x40/","category":["CERAMICOS PARED"],"inStock":true,"pack":null,"unitPrice":null},
     {"id":"3158","name":"CRISTAL Y SCALA 45X45 BRILLANTE SAN LORENZO","price":12500,"url":"https://mororevestimientos.com/product/granada-gris-50x50-cortinez/","category":["CERAMICOS PISOS"],"inStock":true,"pack":null,"unitPrice":null},
     {"id":"3164","name":"PLACA PVC ARABE 1.22X2.44 PREMIUN","price":145000,"url":"https://mororevestimientos.com/product/parquet-fresno-35x60-cortinez/","category":["PLACAS PVC - REVESTIMIENTOS Y PISOS SPC"],"inStock":true,"pack":null,"unitPrice":null},
     {"id":"3165","name":"CALEB GRIS 45X45 SAN LORENZO","price":11900,"url":"https://mororevestimientos.com/product/caleb-gris-castano-45x45-san-lorenzo/","category":["CERAMICOS PARED","CERAMICOS PISOS"],"inStock":true,"pack":null,"unitPrice":null},
@@ -428,7 +428,7 @@
     {"id":"4172","name":"BLAU 58X58 SAN LORENZO","price":25000,"url":"https://mororevestimientos.com/product/blau-58x58-san-lorenzo/","category":["PORCELLANATOS"],"inStock":true,"pack":null,"unitPrice":null},
     {"id":"4202","name":"NANTES NEGRO 56X56 LOURDES","price":11900,"url":"https://mororevestimientos.com/product/porcellanico-piso-pared-de-1-16x0-61-pulidos-rectificado/","category":["CERAMICOS PARED","CERAMICOS PISOS"],"inStock":true,"pack":null,"unitPrice":null},
     {"id":"4204","name":"MUEBLE TOLVA GUARDADO EN BAÑO 40X1.80 WENGUE MDF C/VIDRIO ESMERILADO","price":485000,"url":"https://mororevestimientos.com/product/porcellanico-imperial-piso-pared-de-1-16x0-61-pulidos-rectificado/","category":["MUEBLES BAÑO/ VANITORYS","OFERTAS"],"inStock":true,"pack":null,"unitPrice":null},
-    {"id":"4207","name":"PISOS SPC (5 COLORES) X ENCASTRE 1.22X15","price":35000,"url":"https://mororevestimientos.com/product/piso-de-pvc-por-encastre-1-22x0-15-5-colores/","category":["SIN CATEGORIAS"],"inStock":true,"pack":null,"unitPrice":null},
+    {"id":"4207","name":"PASTINA ANTITERMICA X 30 KILOS -RINDE 15MT-","price":125000,"url":"https://mororevestimientos.com/product/piso-de-pvc-por-encastre-1-22x0-15-5-colores/","category":["ADHESIVOS"],"inStock":true,"pack":{"quantity":30,"unit":"kg"},"unitPrice":{"value":4166.67,"per":"kg"}},
     {"id":"4209","name":"CEPPO DI GRE GRIGGIO/MOKA 80X80 SAN LORENZO","price":26100,"url":"https://mororevestimientos.com/product/ceppo-di-gre-griggio-moka-80x80-san-lorenzo/","category":["PORCELLANATOS"],"inStock":true,"pack":null,"unitPrice":null},
     {"id":"4214","name":"TACO ARDESIA 45X45 SAN LORENZO","price":12600,"url":"https://mororevestimientos.com/product/taco-ardesia-45x45-san-lorenzo-2/","category":["CERAMICOS EXTERIORES","CERAMICOS PISOS"],"inStock":true,"pack":null,"unitPrice":null},
     {"id":"4225","name":"BACHA NEGRA ENKEL SE75 GB JOHNSON C/ACCESORIOS INCLUIDOS","price":1067000,"url":"https://mororevestimientos.com/product/bacha-negra-enkel-se75-gb-johnson/","category":["BACHAS COCINA"],"inStock":true,"pack":null,"unitPrice":null},
@@ -438,6 +438,7 @@
     {"id":"4707","name":"HEXAGONAL 17X19 DISTINTOS COLORES PISO-PARED","price":75000,"url":"https://mororevestimientos.com/product/hexagonal-17x19-distintos-colores-piso-pared/","category":["CERAMICOS PARED","CERAMICOS PISOS"],"inStock":true,"pack":null,"unitPrice":null},
     {"id":"4716","name":"SUBWAY NEGRO MARQUINA 8.5X30","price":75000,"url":"https://mororevestimientos.com/product/subway-negro-marquina-8-5x30/","category":["CERAMICOS PARED"],"inStock":true,"pack":null,"unitPrice":null},
     {"id":"4727","name":"PISOS DECK ENCASTRABLES 30X30 ALTA DURABILIDAD -4 COLORES-","price":89000,"url":"https://mororevestimientos.com/product/pisos-deck-encastrables-30x30-alta-durabilidad-4-colores/","category":["CERAMICOS EXTERIORES","CERAMICOS PISOS","PLACAS PVC - REVESTIMIENTOS Y PISOS SPC"],"inStock":true,"pack":null,"unitPrice":null},
-    {"id":"4889","name":"ZOCALO ROJO COLONIAL 7X33 LANIK","price":5500,"url":"https://mororevestimientos.com/product/malla-revestimientos-30x40-distintos-espacios/","category":["CERAMICOS EXTERIORES"],"inStock":true,"pack":null,"unitPrice":null}
+    {"id":"4889","name":"ZOCALO ROJO COLONIAL 7X33 LANIK","price":5500,"url":"https://mororevestimientos.com/product/malla-revestimientos-30x40-distintos-espacios/","category":["CERAMICOS EXTERIORES"],"inStock":true,"pack":null,"unitPrice":null},
+    {"id":"6031","name":"TINA DE BAÑO EXENTA 1.70X70 ACRILICO PREMIUN","price":1220000,"url":"https://mororevestimientos.com/product/tina-de-bano-exenta-1-70x70-acrilico-premiun/","category":["HIDROMASAJES"],"inStock":true,"pack":null,"unitPrice":null}
   ]
 }

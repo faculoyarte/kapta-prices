@@ -1,6 +1,6 @@
 {
   "store": {"sourceName":"LaAlianzaCorralon","name":"La Alianza Corralón","city":"Pigüé, Bs. As. (por el teléfono)","url":"https://laalianzacorralon.mitiendanube.com","platform":"tiendanube","pricesIncludeIva":true},
-  "fetchedAt": "2026-11-11T03:15:28Z",
+  "fetchedAt": "2026-11-13T18:12:36Z",
   "items": [
     {"id":"271593562","name":"Aditivo Vinílico Multiuso Tacurú 1 kg","price":12500,"url":"https://laalianzacorralon.mitiendanube.com/productos/aditivo-tacuru-1l/","category":["CONSTRUCCIÓN","Materiales de Obra","Otros"],"brand":"Tacurú","inStock":true,"pack":{"quantity":1,"unit":"kg"},"unitPrice":{"value":12500,"per":"kg"}},
     {"id":"271593566","name":"Membrana Asfáltica Maxiplas Aluminio Flexible Ormiflex 2mm 40kg","price":92000,"url":"https://laalianzacorralon.mitiendanube.com/productos/membrana-maxiplas-ormiflex-2mm-40kg/","category":["CONSTRUCCIÓN","Materiales de Obra","Construcción en Seco"],"brand":"ORMIFLEX","inStock":true,"pack":{"quantity":40,"unit":"kg"},"unitPrice":{"value":2300,"per":"kg"}},

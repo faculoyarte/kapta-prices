@@ -1,6 +1,6 @@
 {
   "store": {"sourceName":"Germat","name":"Germat","city":"Santa Fe","url":"https://germatsrl.com","platform":"woocommerce","pricesIncludeIva":true},
-  "fetchedAt": "2026-11-11T02:46:20Z",
+  "fetchedAt": "2026-11-13T17:43:12Z",
   "items": [
     {"id":"1231","name":"Barras de Hierro ADN 420 (Medida: 12mm)","price":25690,"url":"https://germatsrl.com/producto/barras-de-hierro-adn-420/?attribute_pa_medida=12mm","category":["Materiales Gruesos","Siderúrgicos"],"brand":"Acindar","inStock":true,"pack":null,"unitPrice":null},
     {"id":"1232","name":"Masilla en polvo Placostic (Peso: 3.6 Kg)","price":11640,"url":"https://germatsrl.com/producto/masilla-en-polvo-placostic-3-6-kg/?attribute_pa_peso=3-6-kg","category":["Construcción en seco","Masillas"],"brand":"Placo","inStock":true,"pack":{"quantity":3.6,"unit":"kg"},"unitPrice":{"value":3233.33,"per":"kg"}},

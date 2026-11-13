@@ -4,132 +4,132 @@
     "name": "Aremat Puerto",
     "city": "Santa Fe",
     "count": 1328,
-    "fetchedAt": "2026-11-11T02:46:29Z"
+    "fetchedAt": "2026-11-13T17:43:20Z"
   },
   {
     "sourceName": "Bourlot",
     "name": "Bourlot",
     "city": "Gualeguaychú (sucursal Santa Fe)",
-    "count": 3784,
-    "fetchedAt": "2026-11-11T03:00:54Z"
+    "count": 3794,
+    "fetchedAt": "2026-11-13T17:58:00Z"
   },
   {
     "sourceName": "BrufauSanitarios",
     "name": "Brufau Sanitarios",
     "city": "Santa Fe",
-    "count": 2971,
-    "fetchedAt": "2026-11-11T02:59:20Z"
+    "count": 2976,
+    "fetchedAt": "2026-11-13T17:56:13Z"
   },
   {
     "sourceName": "ConstruirCorralon",
     "name": "Construir Corralón",
     "city": "Corrientes (por el teléfono)",
     "count": 2,
-    "fetchedAt": "2026-11-11T03:15:31Z"
+    "fetchedAt": "2026-11-13T18:12:40Z"
   },
   {
     "sourceName": "DistribuidoraSur",
     "name": "Distribuidora Sur",
     "city": "Alvear",
     "count": 266,
-    "fetchedAt": "2026-11-11T02:53:51Z"
+    "fetchedAt": "2026-11-13T17:50:39Z"
   },
   {
     "sourceName": "ElEmporio",
     "name": "El Emporio",
     "city": "Santa Fe",
-    "count": 244,
-    "fetchedAt": "2026-11-11T02:58:18Z"
+    "count": 245,
+    "fetchedAt": "2026-11-13T17:55:09Z"
   },
   {
     "sourceName": "Germat",
     "name": "Germat",
     "city": "Santa Fe",
     "count": 355,
-    "fetchedAt": "2026-11-11T02:46:20Z"
+    "fetchedAt": "2026-11-13T17:43:12Z"
   },
   {
     "sourceName": "IngenieriaBoggio",
     "name": "Ingeniería Boggio",
     "city": "Rosario / Santa Fe / Rafaela",
-    "count": 27387,
-    "fetchedAt": "2026-11-11T03:03:10Z"
+    "count": 27381,
+    "fetchedAt": "2026-11-13T18:02:36Z"
   },
   {
     "sourceName": "Junelec",
     "name": "Junelec",
     "city": "Rosario",
-    "count": 1887,
-    "fetchedAt": "2026-11-11T02:47:12Z"
+    "count": 1884,
+    "fetchedAt": "2026-11-13T17:44:04Z"
   },
   {
     "sourceName": "LaAlianzaCorralon",
     "name": "La Alianza Corralón",
     "city": "Pigüé, Bs. As. (por el teléfono)",
     "count": 192,
-    "fetchedAt": "2026-11-11T03:15:28Z"
+    "fetchedAt": "2026-11-13T18:12:36Z"
   },
   {
     "sourceName": "LaEconomica",
     "name": "La Económica",
     "city": "Rosario",
-    "count": 357,
-    "fetchedAt": "2026-11-11T02:46:25Z"
+    "count": 356,
+    "fetchedAt": "2026-11-13T17:43:16Z"
   },
   {
     "sourceName": "LaYeseraRosarina",
     "name": "La Yesera Rosarina",
     "city": "Rosario",
     "count": 145,
-    "fetchedAt": "2026-11-11T02:49:25Z"
+    "fetchedAt": "2026-11-13T17:46:15Z"
   },
   {
     "sourceName": "MoroRevestimientos",
     "name": "Moro Revestimientos",
     "city": "Rosario",
-    "count": 437,
-    "fetchedAt": "2026-11-11T02:46:20Z"
+    "count": 438,
+    "fetchedAt": "2026-11-13T17:43:11Z"
   },
   {
     "sourceName": "Orlandi",
     "name": "Orlandi",
     "city": "Rosario",
-    "count": 788,
-    "fetchedAt": "2026-11-11T02:47:18Z"
+    "count": 790,
+    "fetchedAt": "2026-11-13T17:44:13Z"
   },
   {
     "sourceName": "PintureriasMM",
     "name": "Pinturerías MM",
     "city": "AMBA (por el teléfono)",
-    "count": 4492,
-    "fetchedAt": "2026-11-11T03:16:27Z"
+    "count": 4417,
+    "fetchedAt": "2026-11-13T18:13:40Z"
   },
   {
     "sourceName": "Roselec",
     "name": "Roselec",
     "city": "Rosario",
     "count": 44,
-    "fetchedAt": "2026-11-11T02:46:46Z"
+    "fetchedAt": "2026-11-13T17:43:35Z"
   },
   {
     "sourceName": "SantaFeMateriales",
     "name": "Santa Fe Materiales",
     "city": "Santa Fe",
-    "count": 706,
-    "fetchedAt": "2026-11-11T03:11:59Z"
+    "count": 704,
+    "fetchedAt": "2026-11-13T18:09:06Z"
   },
   {
     "sourceName": "SerraOnline",
     "name": "Serra Online",
     "city": "Rosario",
-    "count": 7415,
-    "fetchedAt": "2026-11-11T02:48:29Z"
+    "count": 7392,
+    "fetchedAt": "2026-11-13T17:45:16Z"
   },
   {
     "sourceName": "SurianiBedetti",
     "name": "Suriani Bedetti",
     "city": "Rosario",
     "count": 6325,
-    "fetchedAt": "2026-11-11T02:48:29Z"
+    "fetchedAt": "2026-11-13T17:45:24Z"
   }
 ]
