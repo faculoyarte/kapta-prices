@@ -1,6 +1,6 @@
 {
   "store": {"sourceName":"Junelec","name":"Junelec","city":"Rosario","url":"https://junelec.com.ar","platform":"woocommerce","pricesIncludeIva":true},
-  "fetchedAt": "2026-11-13T17:44:04Z",
+  "fetchedAt": "2026-11-18T04:17:55Z",
   "items": [
     {"id":"1480","name":"Timbre Inalámbrico Candela","price":8237.92,"url":"https://junelec.com.ar/producto/timbre-inalambrico-candela/","category":["Herramientas","Timbres inalámbricos"],"brand":"CANDELA","inStock":true,"pack":null,"unitPrice":null},
     {"id":"1511","name":"Pila Alcalina AA Candela","price":573.33,"url":"https://junelec.com.ar/producto/pilas-aa-candela/","category":["Baterías y Pilas","Electricidad"],"brand":"CANDELA","inStock":true,"pack":null,"unitPrice":null},
@@ -147,7 +147,6 @@
     {"id":"3422","name":"Cablecanal 20×10 mm con Adhesivo por Metro Kalop","price":878.99,"url":"https://junelec.com.ar/producto/cablecanal-20x10-mm-con-adhesivo-por-metro-kalop/","category":["Cablecanal"],"brand":"KALOP","inStock":true,"pack":null,"unitPrice":null},
     {"id":"3423","name":"Ficha Macho Alto Consumo 10A Patas Chatas","price":785.5,"url":"https://junelec.com.ar/producto/ficha-macho-alto-consumo-10a-patas-chatas/","category":["Fichas Domiciliarias"],"brand":"GENERICO","inStock":true,"pack":null,"unitPrice":null},
     {"id":"3433","name":"Buscapolo Corto Importado para Verificación de Tensión","price":1188.3,"url":"https://junelec.com.ar/producto/buscapolo-corto-importado-para-verificacion-de-tension/","category":["Buscapolos"],"brand":"GENERICO","inStock":true,"pack":null,"unitPrice":null},
-    {"id":"3434","name":"Caja para Térmica Embutir o Exterior 2 a 4 Módulos VR Plast","price":1723.33,"url":"https://junelec.com.ar/producto/caja-para-termica-embutir-o-exterior-2-a-4-modulos-vr-plast/","category":["Cajas para Térmicas"],"brand":"VR PLAST","inStock":true,"pack":null,"unitPrice":null},
     {"id":"3440","name":"Zapatilla 4 Tomas con Cable de 1,5 Metros Top Taad","price":10509.44,"url":"https://junelec.com.ar/producto/zapatilla-electrica-4-tomas-con-cable-de-15-metros-top/","category":["Tomas múltiples"],"brand":"TAAD","inStock":true,"pack":{"quantity":1.5,"unit":"m"},"unitPrice":{"value":7006.29,"per":"m"}},
     {"id":"3441","name":"Linterna a Pilas 3W COB con Manija Probattery","price":16364.28,"url":"https://junelec.com.ar/producto/linterna-a-pilas-3w-cob-con-manija-probattery/","category":["Linternas"],"brand":"PROBATTERY","inStock":true,"pack":null,"unitPrice":null},
     {"id":"3442","name":"Velador LED con Base, Puerto USB y Luz Dimerizable","price":21578.34,"url":"https://junelec.com.ar/producto/velador-led-con-base-puerto-usb-y-luz-dimerizable/","category":["Veladores"],"brand":"GENERICO","inStock":true,"pack":null,"unitPrice":null},
