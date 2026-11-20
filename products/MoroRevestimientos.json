@@ -1,6 +1,6 @@
 {
   "store": {"sourceName":"MoroRevestimientos","name":"Moro Revestimientos","city":"Rosario","url":"https://mororevestimientos.com","platform":"woocommerce","pricesIncludeIva":true},
-  "fetchedAt": "2026-11-18T04:16:53Z",
+  "fetchedAt": "2026-11-20T18:29:10Z",
   "items": [
     {"id":"2071","name":"MUEBLE WENGUE 50CM MDF C/MESADA TRAVERTINO MARMOL","price":550000,"url":"https://mororevestimientos.com/product/esquinero-de-vidrio/","category":["MUEBLES BAÑO/ VANITORYS","OFERTAS"],"inStock":true,"pack":null,"unitPrice":null},
     {"id":"2072","name":"DESNIVEL EN ZETA ACERO PARA PISOS ATRIM","price":30000,"url":"https://mororevestimientos.com/product/desnivel-en-zeta-acero-para-pisos-atrim/","category":["PERFILES Y ZOCALOS"],"inStock":true,"pack":null,"unitPrice":null},
