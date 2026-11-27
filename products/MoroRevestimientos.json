@@ -1,6 +1,6 @@
 {
   "store": {"sourceName":"MoroRevestimientos","name":"Moro Revestimientos","city":"Rosario","url":"https://mororevestimientos.com","platform":"woocommerce","pricesIncludeIva":true},
-  "fetchedAt": "2026-11-25T05:28:24Z",
+  "fetchedAt": "2026-11-27T19:32:13Z",
   "items": [
     {"id":"2071","name":"MUEBLE WENGUE 50CM MDF C/MESADA TRAVERTINO MARMOL","price":550000,"url":"https://mororevestimientos.com/product/esquinero-de-vidrio/","category":["MUEBLES BAÑO/ VANITORYS","OFERTAS"],"inStock":true,"pack":null,"unitPrice":null},
     {"id":"2072","name":"DESNIVEL EN ZETA ACERO PARA PISOS ATRIM","price":30000,"url":"https://mororevestimientos.com/product/desnivel-en-zeta-acero-para-pisos-atrim/","category":["PERFILES Y ZOCALOS"],"inStock":true,"pack":null,"unitPrice":null},
@@ -130,7 +130,7 @@
     {"id":"2213","name":"BLANCO 20X20 MATE PISO-PARED","price":42000,"url":"https://mororevestimientos.com/product/gobi-gris-brillante-33x33-scop/","category":["CERAMICOS PARED","CERAMICOS PISOS"],"inStock":true,"pack":null,"unitPrice":null},
     {"id":"2214","name":"PISOS SPC CLIP 15X1.22 DE 4MM","price":35000,"url":"https://mororevestimientos.com/product/athenea-porfido-40x40-antideslizante/","category":["PLACAS PVC - REVESTIMIENTOS Y PISOS SPC"],"inStock":true,"pack":null,"unitPrice":null},
     {"id":"2215","name":"PORCELLANATO NEGRO PULIDO 60X60","price":42000,"url":"https://mororevestimientos.com/product/porcellanato-negro-pulido-60x60/","category":["PORCELLANATOS"],"inStock":true,"pack":null,"unitPrice":null},
-    {"id":"2216","name":"LISTON GREGAR 6X24 PARA FRENTE EXTERIOR (57 unidades)","price":26000,"url":"https://mororevestimientos.com/product/tapa-asiento-andiana-o-florencia-cierre-suave-ferrum/","category":["CERAMICOS EXTERIORES","CERAMICOS PARED","OFERTAS"],"inStock":true,"pack":null,"unitPrice":null},
+    {"id":"2216","name":"LISTON GREGAR 6X24 PARA FRENTE EXTERIOR (57 unidades)","price":30000,"url":"https://mororevestimientos.com/product/tapa-asiento-andiana-o-florencia-cierre-suave-ferrum/","category":["CERAMICOS EXTERIORES","CERAMICOS PARED","OFERTAS"],"inStock":true,"pack":null,"unitPrice":null},
     {"id":"2218","name":"QUADRAT DECORADO 45X45 PISO/PARED","price":11900,"url":"https://mororevestimientos.com/product/quadrat-decorado-45x45-piso-pared/","category":["CERAMICOS EXTERIORES","CERAMICOS PISOS"],"inStock":true,"pack":null,"unitPrice":null},
     {"id":"2219","name":"ESPEJO LED REDONDO 80 DIAMETRO C/reloj y desempañador","price":290000,"url":"https://mororevestimientos.com/product/urba-porcellanato-58x58-rectificado-y-guarda/","category":["ESPEJOS Y BOTIQUINES"],"inStock":true,"pack":null,"unitPrice":null},
     {"id":"2220","name":"CALACATA BIANCO CARRARA 60X60 RECTIFICADO","price":28900,"url":"https://mororevestimientos.com/product/calacata-bianco-carrara-58x58-rectificado/","category":["PORCELLANATOS"],"inStock":true,"pack":null,"unitPrice":null},

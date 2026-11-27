@@ -4,42 +4,42 @@
     "name": "Aremat Puerto",
     "city": "Santa Fe",
     "count": 1326,
-    "fetchedAt": "2026-11-25T05:28:34Z"
+    "fetchedAt": "2026-11-27T19:32:27Z"
   },
   {
     "sourceName": "Bourlot",
     "name": "Bourlot",
     "city": "Gualeguaychú (sucursal Santa Fe)",
-    "count": 3795,
-    "fetchedAt": "2026-11-25T05:43:09Z"
+    "count": 3796,
+    "fetchedAt": "2026-11-27T19:46:40Z"
   },
   {
     "sourceName": "BrufauSanitarios",
     "name": "Brufau Sanitarios",
     "city": "Santa Fe",
-    "count": 2978,
-    "fetchedAt": "2026-11-25T05:41:27Z"
+    "count": 2982,
+    "fetchedAt": "2026-11-27T19:45:10Z"
   },
   {
     "sourceName": "ConstruirCorralon",
     "name": "Construir Corralón",
     "city": "Corrientes (por el teléfono)",
     "count": 2,
-    "fetchedAt": "2026-11-25T05:57:36Z"
+    "fetchedAt": "2026-11-27T20:01:25Z"
   },
   {
     "sourceName": "DistribuidoraSur",
     "name": "Distribuidora Sur",
     "city": "Alvear",
-    "count": 270,
-    "fetchedAt": "2026-11-25T05:35:56Z"
+    "count": 264,
+    "fetchedAt": "2026-11-27T19:39:40Z"
   },
   {
     "sourceName": "ElEmporio",
     "name": "El Emporio",
     "city": "Santa Fe",
-    "count": 243,
-    "fetchedAt": "2026-11-25T05:40:23Z"
+    "count": 242,
+    "fetchedAt": "2026-11-27T19:44:04Z"
   },
   {
     "sourceName": "Germat",
@@ -52,84 +52,84 @@
     "sourceName": "IngenieriaBoggio",
     "name": "Ingeniería Boggio",
     "city": "Rosario / Santa Fe / Rafaela",
-    "count": 27408,
-    "fetchedAt": "2026-11-25T05:44:41Z"
+    "count": 27413,
+    "fetchedAt": "2026-11-27T19:48:55Z"
   },
   {
     "sourceName": "Junelec",
     "name": "Junelec",
     "city": "Rosario",
     "count": 1883,
-    "fetchedAt": "2026-11-25T05:29:25Z"
+    "fetchedAt": "2026-11-27T19:33:48Z"
   },
   {
     "sourceName": "LaAlianzaCorralon",
     "name": "La Alianza Corralón",
     "city": "Pigüé, Bs. As. (por el teléfono)",
-    "count": 191,
-    "fetchedAt": "2026-11-25T05:57:33Z"
+    "count": 193,
+    "fetchedAt": "2026-11-27T20:01:21Z"
   },
   {
     "sourceName": "LaEconomica",
     "name": "La Económica",
     "city": "Rosario",
-    "count": 358,
-    "fetchedAt": "2026-11-25T05:28:28Z"
+    "count": 356,
+    "fetchedAt": "2026-11-27T19:32:17Z"
   },
   {
     "sourceName": "LaYeseraRosarina",
     "name": "La Yesera Rosarina",
     "city": "Rosario",
     "count": 145,
-    "fetchedAt": "2026-11-25T05:31:29Z"
+    "fetchedAt": "2026-11-27T19:35:16Z"
   },
   {
     "sourceName": "MoroRevestimientos",
     "name": "Moro Revestimientos",
     "city": "Rosario",
     "count": 438,
-    "fetchedAt": "2026-11-25T05:28:24Z"
+    "fetchedAt": "2026-11-27T19:32:13Z"
   },
   {
     "sourceName": "Orlandi",
     "name": "Orlandi",
     "city": "Rosario",
     "count": 790,
-    "fetchedAt": "2026-11-25T05:29:22Z"
+    "fetchedAt": "2026-11-27T19:33:14Z"
   },
   {
     "sourceName": "PintureriasMM",
     "name": "Pinturerías MM",
     "city": "AMBA (por el teléfono)",
-    "count": 4268,
-    "fetchedAt": "2026-11-25T05:58:31Z"
+    "count": 4265,
+    "fetchedAt": "2026-11-27T20:02:19Z"
   },
   {
     "sourceName": "Roselec",
     "name": "Roselec",
     "city": "Rosario",
     "count": 44,
-    "fetchedAt": "2026-11-25T05:28:48Z"
+    "fetchedAt": "2026-11-27T19:32:38Z"
   },
   {
     "sourceName": "SantaFeMateriales",
     "name": "Santa Fe Materiales",
     "city": "Santa Fe",
     "count": 704,
-    "fetchedAt": "2026-11-25T05:54:04Z"
+    "fetchedAt": "2026-11-27T19:57:46Z"
   },
   {
     "sourceName": "SerraOnline",
     "name": "Serra Online",
     "city": "Rosario",
-    "count": 7382,
-    "fetchedAt": "2026-11-25T05:30:36Z"
+    "count": 7368,
+    "fetchedAt": "2026-11-27T19:34:32Z"
   },
   {
     "sourceName": "SurianiBedetti",
     "name": "Suriani Bedetti",
     "city": "Rosario",
     "count": 6367,
-    "fetchedAt": "2026-11-25T05:30:40Z"
+    "fetchedAt": "2026-11-27T19:35:36Z"
   }
 ]
